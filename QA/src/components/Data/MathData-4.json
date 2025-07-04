@@ -1,0 +1,110 @@
+{
+  "title": "Desafío Matemático Avanzado",
+  "category": "Matemáticas",
+  "autor": "OpenAI",
+  "description": "Resuelve estas preguntas avanzadas de matemáticas para demostrar tu habilidad.",
+  "transitions": "Deslizar",
+  "dificulty": "Avanzado",
+  "game": [
+    {
+      "level": 1,
+      "question": "¿Cuánto es (10 + 2) × 3?",
+      "options": [
+        { "option": "42", "correct": false },
+        { "option": "32", "correct": false },
+        { "option": "36", "correct": true },
+        { "option": "30", "correct": false }
+      ]
+    },
+    {
+      "level": 2,
+      "question": "¿Cuál es el resultado de 45 ÷ (5 + 4)?",
+      "options": [
+        { "option": "6", "correct": false },
+        { "option": "9", "correct": false },
+        { "option": "4", "correct": false },
+        { "option": "5", "correct": true }
+      ]
+    },
+    {
+      "level": 3,
+      "question": "Resuelve: (8 × 3) - (4 + 2)",
+      "options": [
+        { "option": "18", "correct": true },
+        { "option": "20", "correct": false },
+        { "option": "16", "correct": false },
+        { "option": "22", "correct": false }
+      ]
+    },
+    {
+      "level": 4,
+      "question": "¿Cuál es el valor de 2³ + 3²?",
+      "options": [
+        { "option": "15", "correct": false },
+        { "option": "17", "correct": true },
+        { "option": "19", "correct": false },
+        { "option": "21", "correct": false }
+      ]
+    },
+    {
+      "level": 5,
+      "question": "¿Cuánto es 64 ÷ 8 + 7?",
+      "options": [
+        { "option": "15", "correct": true },
+        { "option": "14", "correct": false },
+        { "option": "16", "correct": false },
+        { "option": "12", "correct": false }
+      ]
+    },
+    {
+      "level": 6,
+      "question": "Resuelve: (7 × 7) - (4 × 4)",
+      "options": [
+        { "option": "31", "correct": false },
+        { "option": "36", "correct": false },
+        { "option": "40", "correct": false },
+        { "option": "33", "correct": true }
+      ]
+    },
+    {
+      "level": 7,
+      "question": "¿Cuál es el resultado de 100 ÷ (10 - 5)?",
+      "options": [
+        { "option": "15", "correct": false },
+        { "option": "25", "correct": false },
+        { "option": "20", "correct": true },
+        { "option": "30", "correct": false }
+      ]
+    },
+    {
+      "level": 8,
+      "question": "Resuelve: (15 + 5) × 2",
+      "options": [
+        { "option": "45", "correct": false },
+        { "option": "35", "correct": false },
+        { "option": "30", "correct": false },
+        { "option": "40", "correct": true }
+      ]
+    },
+    {
+      "level": 9,
+      "question": "¿Cuánto es 18 ÷ 2 + (3 × 4)?",
+      "options": [
+        { "option": "21", "correct": true },
+        { "option": "18", "correct": false },
+        { "option": "20", "correct": false },
+        { "option": "19", "correct": false }
+      ]
+    },
+    {
+      "level": 10,
+      "question": "¿Cuál es el resultado de 50 - (7 × 6)?",
+      "options": [
+        { "option": "10", "correct": false },
+        { "option": "8", "correct": true },
+        { "option": "6", "correct": false },
+        { "option": "12", "correct": false }
+      ]
+    }
+  ]
+}

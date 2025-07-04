@@ -1,0 +1,110 @@
+{
+  "title": "Desafío Matemático - Opciones Múltiples",
+  "category": "Matemáticas",
+  "autor": "OpenAI",
+  "description": "Explora una serie de preguntas matemáticas con múltiples opciones para poner a prueba tus conocimientos.",
+  "transitions": "Rebotar",
+  "dificulty": "Intermedio",
+  "game": [
+    {
+      "level": 1,
+      "question": "¿Cuánto es 9 × 9?",
+      "options": [
+        { "option": "81", "correct": true },
+        { "option": "72", "correct": false },
+        { "option": "90", "correct": false },
+        { "option": "99", "correct": false }
+      ]
+    },
+    {
+      "level": 2,
+      "question": "¿Cuál es el resultado de 50 ÷ 5?",
+      "options": [
+        { "option": "10", "correct": true },
+        { "option": "15", "correct": false },
+        { "option": "5", "correct": false },
+        { "option": "20", "correct": false }
+      ]
+    },
+    {
+      "level": 3,
+      "question": "¿Cuánto es 7 + 8?",
+      "options": [
+        { "option": "15", "correct": true },
+        { "option": "14", "correct": false },
+        { "option": "13", "correct": false },
+        { "option": "16", "correct": false }
+      ]
+    },
+    {
+      "level": 4,
+      "question": "Resuelve: 25 - 9",
+      "options": [
+        { "option": "16", "correct": true },
+        { "option": "15", "correct": false },
+        { "option": "14", "correct": false },
+        { "option": "17", "correct": false }
+      ]
+    },
+    {
+      "level": 5,
+      "question": "¿Cuál es el cuadrado de 6?",
+      "options": [
+        { "option": "36", "correct": true },
+        { "option": "30", "correct": false },
+        { "option": "42", "correct": false },
+        { "option": "12", "correct": false }
+      ]
+    },
+    {
+      "level": 6,
+      "question": "¿Cuánto es (4 × 3) + 2?",
+      "options": [
+        { "option": "14", "correct": true },
+        { "option": "12", "correct": false },
+        { "option": "16", "correct": false },
+        { "option": "18", "correct": false }
+      ]
+    },
+    {
+      "level": 7,
+      "question": "Resuelve: 48 ÷ 8",
+      "options": [
+        { "option": "6", "correct": true },
+        { "option": "8", "correct": false },
+        { "option": "7", "correct": false },
+        { "option": "5", "correct": false }
+      ]
+    },
+    {
+      "level": 8,
+      "question": "¿Cuánto es 3² + 4²?",
+      "options": [
+        { "option": "25", "correct": true },
+        { "option": "16", "correct": false },
+        { "option": "20", "correct": false },
+        { "option": "32", "correct": false }
+      ]
+    },
+    {
+      "level": 9,
+      "question": "¿Cuál es el resultado de 100 - (3 × 20)?",
+      "options": [
+        { "option": "40", "correct": true },
+        { "option": "20", "correct": false },
+        { "option": "50", "correct": false },
+        { "option": "60", "correct": false }
+      ]
+    },
+    {
+      "level": 10,
+      "question": "Resuelve: (5 × 5) - 3",
+      "options": [
+        { "option": "22", "correct": true },
+        { "option": "25", "correct": false },
+        { "option": "23", "correct": false },
+        { "option": "20", "correct": false }
+      ]
+    }
+  ]
+}
