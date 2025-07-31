@@ -6,8 +6,9 @@ function App() {
 
   return (
     <>
-      <div className='min-w-screen'>
+      <div className='min-w-screen dark:bg-blue-950'>
         <TriviaGame />
+        
       </div>
     </>
   )

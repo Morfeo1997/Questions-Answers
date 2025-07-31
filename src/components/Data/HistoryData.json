@@ -1,0 +1,210 @@
+{
+  "title": "Reto Histórico",
+  "category": "Historia",
+  "autor": "Gastón Gómez",
+  "description": "Desafía tus conocimientos sobre historia mundial y descubre cuánto sabes sobre los hechos, personajes y épocas más importantes del pasado.",
+  "transitions": "Desaparecer/Fundido",
+  "dificulty": "Intermedio",
+  "game": [
+    {
+      "id": 101,
+      "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "options": [
+        { "option": "1939", "correct": true },
+        { "option": "1945", "correct": false },
+        { "option": "1914", "correct": false },
+        { "option": "1929", "correct": false }
+      ]
+    },
+    {
+      "id": 102,
+      "question": "¿Quién fue el primer emperador del Imperio romano?",
+      "options": [
+        { "option": "Julio César", "correct": false },
+        { "option": "Augusto", "correct": true },
+        { "option": "Nerón", "correct": false },
+        { "option": "Calígula", "correct": false }
+      ]
+    },
+    {
+      "id": 103,
+      "question": "¿Qué civilización construyó las pirámides de Egipto?",
+      "options": [
+        { "option": "Los romanos", "correct": false },
+        { "option": "Los mayas", "correct": false },
+        { "option": "Los egipcios", "correct": true },
+        { "option": "Los griegos", "correct": false }
+      ]
+    },
+    {
+      "id": 104,
+      "question": "¿Quién lideró la independencia de Venezuela?",
+      "options": [
+        { "option": "José de San Martín", "correct": false },
+        { "option": "Simón Bolívar", "correct": true },
+        { "option": "Miguel Hidalgo", "correct": false },
+        { "option": "Antonio José de Sucre", "correct": false }
+      ]
+    },
+    {
+      "id": 105,
+      "question": "¿Cuál fue el principal conflicto armado del siglo XX?",
+      "options": [
+        { "option": "La Guerra Fría", "correct": false },
+        { "option": "La Guerra de Corea", "correct": false },
+        { "option": "La Primera Guerra Mundial", "correct": false },
+        { "option": "La Segunda Guerra Mundial", "correct": true }
+      ]
+    },
+    {
+      "id": 106,
+      "question": "¿Dónde se firmó la Declaración de Independencia de los Estados Unidos?",
+      "options": [
+        { "option": "Washington D.C.", "correct": false },
+        { "option": "Nueva York", "correct": false },
+        { "option": "Filadelfia", "correct": true },
+        { "option": "Boston", "correct": false }
+      ]
+    },
+    {
+      "id": 107,
+      "question": "¿Qué imperio fue dirigido por Gengis Kan?",
+      "options": [
+        { "option": "El Imperio mongol", "correct": true },
+        { "option": "Imperio chino", "correct": false },
+        { "option": "El Imperio otomano", "correct": false },
+        { "option": "El Imperio persa", "correct": false }
+      ]
+    },
+    {
+      "id": 108,
+      "question": "¿Cuál fue la causa principal de la Revolución Francesa?",
+      "options": [
+        { "option": "El deseo de expansión territorial", "correct": false },
+        { "option": "La desigualdad social y económica", "correct": true },
+        { "option": "El conflicto religioso", "correct": false },
+        { "option": "La independencia de EE. UU.", "correct": false }
+      ]
+    },
+    {
+      "id": 109,
+      "question": "¿Qué país lanzó las bombas atómicas sobre Hiroshima y Nagasaki?",
+      "options": [
+        { "option": "Alemania", "correct": false },
+        { "option": "Estados Unidos", "correct": true },
+        { "option": "Japón", "correct": false },
+        { "option": "Reino Unido", "correct": false }
+      ]
+    },
+    {
+      "id": 110,
+      "question": "¿Quién fue el líder del movimiento de derechos civiles en EE. UU. durante los años 60?",
+      "options": [
+        { "option": "Malcolm X", "correct": false },
+        { "option": "Martin Luther King Jr.", "correct": true },
+        { "option": "John Lewis", "correct": false},
+        { "option": "Barack Obama", "correct": false }
+      ]
+    }
+    {
+      "id": 111,
+      "question": "¿Qué evento marcó el inicio de la Edad Media?",
+      "options": [
+        { "option": "La caída del Imperio romano de Occidente", "correct": true },
+        { "option": "El descubrimiento de América", "correct": false },
+        { "option": "La Revolución Francesa", "correct": false },
+        { "option": "La invasión de los mongoles", "correct": false }
+      ]
+    },
+    {
+      "id": 112,
+      "question": "¿Cuál fue el nombre del barco en el que viajaron los peregrinos fundadores de Plymouth?",
+      "options": [
+        { "option": "Santa María", "correct": false },
+        { "option": "Beagle", "correct": false },
+        { "option": "Mayflower", "correct": true },
+        { "option": "Endeavour", "correct": false }
+      ]
+    },
+    {
+      "id": 113,
+      "question": "¿Quién fue conocido como el 'Napoleón de América'?",
+      "options": [
+        { "option": "Benito Juárez", "correct": false },
+        { "option": "Antonio López de Santa Anna", "correct": false },
+        { "option": "Simón Bolívar", "correct": false },
+        { "option": "José de San Martín", "correct": true }
+      ]
+    },
+    {
+      "id": 114,
+      "question": "¿Cuál fue el propósito de las Cruzadas?",
+      "options": [
+        { "option": "Difundir el protestantismo en Europa", "correct": false },
+        { "option": "Recuperar Tierra Santa del control musulmán", "correct": true },
+        { "option": "Conquistar China", "correct": false },
+        { "option": "Unificar el Imperio romano", "correct": false }
+      ]
+    },
+    {
+      "id": 115,
+      "question": "¿Qué civilización precolombina construyó Machu Picchu?",
+      "options": [
+        { "option": "Los mayas", "correct": false },
+        { "option": "Los incas", "correct": true },
+        { "option": "Los aztecas", "correct": false },
+        { "option": "Los olmecas", "correct": false }
+      ]
+    },
+    {
+      "id": 116,
+      "question": "¿Qué país colonizó la mayor parte de África occidental?",
+      "options": [
+        { "option": "Alemania", "correct": false },
+        { "option": "Francia", "correct": true },
+        { "option": "Portugal", "correct": false },
+        { "option": "Bélgica", "correct": false }
+      ]
+    },
+    {
+      "id": 117,
+      "question": "¿Quién fue la reina inglesa durante la era isabelina?",
+      "options": [
+        { "option": "Isabel II", "correct": false },
+        { "option": "Victoria", "correct": false },
+        { "option": "Isabel I", "correct": true },
+        { "option": "Ana", "correct": false }
+      ]
+    },
+    {
+      "id": 118,
+      "question": "¿Qué conflicto enfrentó a Estados Unidos con Vietnam?",
+      "options": [
+        { "option": "La Guerra de Corea", "correct": false },
+        { "option": "La Guerra de Vietnam", "correct": true },
+        { "option": "La Segunda Guerra Mundial", "correct": false },
+        { "option": "La Guerra Civil", "correct": false }
+      ]
+    },
+    {
+      "id": 119,
+      "question": "¿Cuál fue el último país europeo en abolir oficialmente la monarquía?",
+      "options": [
+        { "option": "Francia", "correct": false },
+        { "option": "Italia", "correct": true },
+        { "option": "España", "correct": false },
+        { "option": "Alemania", "correct": false }
+      ]
+    },
+    {
+      "id": 120,
+      "question": "¿Quién escribió 'El contrato social', influyendo en las revoluciones liberales?",
+      "options": [
+        { "option": "Karl Marx", "correct": false },
+        { "option": "Voltaire", "correct": false },
+        { "option": "Jean-Jacques Rousseau", "correct": true },
+        { "option": "Thomas Hobbes", "correct": false }
+      ]
+    }
+  ]
+}

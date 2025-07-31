@@ -24,7 +24,7 @@ function QuestionCard({
             className={`w-full h-full p-3 text-left cursor-pointer  rounded-lg border-gray-500 transition-colors hover:scale-105  duration-500 ${
               isAnswered
                 ? optionItem.correct
-                  ? 'bg-green-200 border-green-500'
+                  ? 'bg-green-200 border-green-600'
                   : selectedAnswer?.option === optionItem.option
                   ? 'bg-red-200 border-red-500'
                   : 'bg-gray-100'
