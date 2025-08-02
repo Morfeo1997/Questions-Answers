@@ -205,6 +205,306 @@
         { "option": "Jean-Jacques Rousseau", "correct": true },
         { "option": "Thomas Hobbes", "correct": false }
       ]
+    },
+    {
+      "id": 121,
+      "question": "¿Qué muro cayó en 1989, simbolizando el fin de la Guerra Fría?",
+      "options": [
+        { "option": "Muro de los Lamentos", "correct": false },
+        { "option": "Muro de Berlín", "correct": true },
+        { "option": "Muralla China", "correct": false },
+        { "option": "Muro de Adriano", "correct": false }
+      ]
+    },
+    {
+      "id": 122,
+      "question": "¿Qué país lideró las exploraciones marítimas durante el siglo XV?",
+      "options": [
+        { "option": "Inglaterra", "correct": false },
+        { "option": "Francia", "correct": false },
+        { "option": "Portugal", "correct": true },
+        { "option": "Italia", "correct": false }
+      ]
+    },
+    {
+      "id": 123,
+      "question": "¿Cuál fue la principal causa de la caída del Imperio azteca?",
+      "options": [
+        { "option": "Guerra civil", "correct": false },
+        { "option": "Epidemias y conquista española", "correct": true },
+        { "option": "Falta de alimentos", "correct": false },
+        { "option": "Rebelión maya", "correct": false }
+      ]
+    },
+    {
+      "id": 124,
+      "question": "¿Quién fue el presidente de EE.UU. durante la Gran Depresión y la Segunda Guerra Mundial?",
+      "options": [
+        { "option": "Woodrow Wilson", "correct": false },
+        { "option": "Franklin D. Roosevelt", "correct": true },
+        { "option": "Harry Truman", "correct": false },
+        { "option": "Theodore Roosevelt", "correct": false }
+      ]
+    },
+    {
+      "id": 125,
+      "question": "¿En qué país se inició la Revolución Industrial?",
+      "options": [
+        { "option": "Alemania", "correct": false },
+        { "option": "Francia", "correct": false },
+        { "option": "Reino Unido", "correct": true },
+        { "option": "Estados Unidos", "correct": false }
+      ]
+    },
+    {
+      "id": 126,
+      "question": "¿Qué civilización desarrolló el primer sistema de escritura conocido?",
+      "options": [
+        { "option": "Egipcia", "correct": false },
+        { "option": "Sumeria", "correct": true },
+        { "option": "China", "correct": false },
+        { "option": "Fenicia", "correct": false }
+      ]
+    },
+    {
+      "id": 127,
+      "question": "¿Cuál fue la principal consecuencia del Tratado de Versalles en 1919?",
+      "options": [
+        { "option": "Reparto de América", "correct": false },
+        { "option": "Fin del colonialismo europeo", "correct": false },
+        { "option": "Condiciones duras impuestas a Alemania", "correct": true },
+        { "option": "Creación de la OTAN", "correct": false }
+      ]
+    },
+    {
+      "id": 128,
+      "question": "¿Quién fue el dictador italiano durante la Segunda Guerra Mundial?",
+      "options": [
+        { "option": "Benito Mussolini", "correct": true },
+        { "option": "Adolf Hitler", "correct": false },
+        { "option": "Franco", "correct": false },
+        { "option": "Victor Emmanuel III", "correct": false }
+      ]
+    },
+    {
+      "id": 129,
+      "question": "¿Cuál fue el conflicto armado más largo del siglo XX?",
+      "options": [
+        { "option": "La Guerra de Vietnam", "correct": false },
+        { "option": "La Guerra de Afganistán (1979-1989)", "correct": true },
+        { "option": "La Segunda Guerra Mundial", "correct": false },
+        { "option": "La Guerra de Corea", "correct": false }
+      ]
+    },
+    {
+      "id": 130,
+      "question": "¿Quién fue Cleopatra?",
+      "options": [
+        { "option": "Una reina griega de Esparta", "correct": false },
+        { "option": "Una emperatriz romana", "correct": false },
+        { "option": "La última reina del Antiguo Egipto", "correct": true },
+        { "option": "Una sacerdotisa sumeria", "correct": false }
+      ]
+    },
+    {
+      "id": 131,
+      "question": "¿Qué evento provocó el inicio de la Primera Guerra Mundial?",
+      "options": [
+        { "option": "La invasión de Polonia", "correct": false },
+        { "option": "El asesinato del archiduque Francisco Fernando", "correct": true },
+        { "option": "El hundimiento del Lusitania", "correct": false },
+        { "option": "El ataque a Pearl Harbor", "correct": false }
+      ]
+    },
+    {
+      "id": 132,
+      "question": "¿Cuál de estas culturas antiguas floreció en la actual Irak?",
+      "options": [
+        { "option": "Egipcia", "correct": false },
+        { "option": "Sumeria", "correct": true },
+        { "option": "China", "correct": false },
+        { "option": "Inca", "correct": false }
+      ]
+    },
+    {
+      "id": 133,
+      "question": "¿Quién fue el líder de la Revolución Rusa en 1917?",
+      "options": [
+        { "option": "Joseph Stalin", "correct": false },
+        { "option": "Vladímir Lenin", "correct": true },
+        { "option": "Nikolái II", "correct": false },
+        { "option": "León Trotski", "correct": false }
+      ]
+    },
+    {
+      "id": 134,
+      "question": "¿En qué siglo se firmó la Declaración de los Derechos del Hombre y del Ciudadano?",
+      "options": [
+        { "option": "Siglo XVIII", "correct": true },
+        { "option": "Siglo XVII", "correct": false },
+        { "option": "Siglo XIX", "correct": false },
+        { "option": "Siglo XVI", "correct": false }
+      ]
+    },
+    {
+      "id": 135,
+      "question": "¿Cuál fue el principal rival de Roma durante las Guerras Púnicas?",
+      "options": [
+        { "option": "Cartago", "correct": true },
+        { "option": "Grecia", "correct": false },
+        { "option": "Egipto", "correct": false },
+        { "option": "Persia", "correct": false }
+      ]
+    },
+    {
+      "id": 136,
+      "question": "¿Qué invento revolucionó la producción de libros en Europa en el siglo XV?",
+      "options": [
+        { "option": "La brújula", "correct": false },
+        { "option": "La imprenta", "correct": true },
+        { "option": "La pólvora", "correct": false },
+        { "option": "El telescopio", "correct": false }
+      ]
+    },
+    {
+      "id": 137,
+      "question": "¿Cuál fue el tratado que dividió el mundo entre España y Portugal en 1494?",
+      "options": [
+        { "option": "Tratado de Versalles", "correct": false },
+        { "option": "Tratado de Utrecht", "correct": false },
+        { "option": "Tratado de Tordesillas", "correct": true },
+        { "option": "Tratado de Westfalia", "correct": false }
+      ]
+    },
+    {
+      "id": 138,
+      "question": "¿Quién fue el responsable del conocido 'Terror' durante la Revolución Francesa?",
+      "options": [
+        { "option": "Robespierre", "correct": true },
+        { "option": "Napoleón Bonaparte", "correct": false },
+        { "option": "Luis XVI", "correct": false },
+        { "option": "Danton", "correct": false }
+      ]
+    },
+    {
+      "id": 139,
+      "question": "¿Qué imperio europeo controló India hasta 1947?",
+      "options": [
+        { "option": "El Imperio francés", "correct": false },
+        { "option": "El Imperio británico", "correct": true },
+        { "option": "El Imperio español", "correct": false },
+        { "option": "El Imperio ruso", "correct": false }
+      ]
+    },
+    {
+      "id": 140,
+      "question": "¿Qué filósofo griego fue maestro de Alejandro Magno?",
+      "options": [
+        { "option": "Sócrates", "correct": false },
+        { "option": "Platón", "correct": false },
+        { "option": "Aristóteles", "correct": true },
+        { "option": "Pitágoras", "correct": false }
+      ]
+    },
+    {
+      "id": 141,
+      "question": "¿Qué civilización antigua es conocida por sus zigurats?",
+      "options": [
+        { "option": "Egipcia", "correct": false },
+        { "option": "Sumeria", "correct": true },
+        { "option": "Romana", "correct": false },
+        { "option": "Griega", "correct": false }
+      ]
+    },
+    {
+      "id": 142,
+      "question": "¿Qué batalla puso fin al reinado de Napoleón Bonaparte?",
+      "options": [
+        { "option": "Batalla de Austerlitz", "correct": false },
+        { "option": "Batalla de Leipzig", "correct": false },
+        { "option": "Batalla de Waterloo", "correct": true },
+        { "option": "Batalla de Trafalgar", "correct": false }
+      ]
+    },
+    {
+      "id": 143,
+      "question": "¿Qué ciudad fue dividida por un muro durante la Guerra Fría?",
+      "options": [
+        { "option": "Viena", "correct": false },
+        { "option": "Moscú", "correct": false },
+        { "option": "Berlín", "correct": true },
+        { "option": "Varsovia", "correct": false }
+      ]
+    },
+    {
+      "id": 144,
+      "question": "¿Quién fue el primer presidente de Sudáfrica tras el apartheid?",
+      "options": [
+        { "option": "Jacob Zuma", "correct": false },
+        { "option": "Desmond Tutu", "correct": false },
+        { "option": "Nelson Mandela", "correct": true },
+        { "option": "F. W. de Klerk", "correct": false }
+      ]
+    },
+    {
+      "id": 145,
+      "question": "¿Cuál fue la principal ruta comercial que conectaba Europa con Asia en la antigüedad?",
+      "options": [
+        { "option": "Ruta del oro", "correct": false },
+        { "option": "Ruta de la seda", "correct": true },
+        { "option": "Camino de Santiago", "correct": false },
+        { "option": "Ruta de las especias", "correct": false }
+      ]
+    },
+    {
+      "id": 146,
+      "question": "¿Qué conflicto armado ocurrió entre 1861 y 1865 en Estados Unidos?",
+      "options": [
+        { "option": "Guerra de Independencia", "correct": false },
+        { "option": "Guerra con México", "correct": false },
+        { "option": "Guerra de Secesión", "correct": true },
+        { "option": "Guerra de 1812", "correct": false }
+      ]
+    },
+    {
+      "id": 147,
+      "question": "¿Quién fue el líder espiritual del movimiento de independencia de la India?",
+      "options": [
+        { "option": "Jawaharlal Nehru", "correct": false },
+        { "option": "Subhas Chandra Bose", "correct": false },
+        { "option": "Gandhi", "correct": true },
+        { "option": "Indira Gandhi", "correct": false }
+      ]
+    },
+    {
+      "id": 148,
+      "question": "¿Qué civilización habitó la península itálica antes del auge de Roma?",
+      "options": [
+        { "option": "Los íberos", "correct": false },
+        { "option": "Los etruscos", "correct": true },
+        { "option": "Los celtas", "correct": false },
+        { "option": "Los godos", "correct": false }
+      ]
+    },
+    {
+      "id": 149,
+      "question": "¿En qué año se firmó la independencia de México?",
+      "options": [
+        { "option": "1810", "correct": false },
+        { "option": "1821", "correct": true },
+        { "option": "1808", "correct": false },
+        { "option": "1830", "correct": false }
+      ]
+    },
+    {
+      "id": 150,
+      "question": "¿Qué guerra enfrentó a las colonias americanas contra Gran Bretaña?",
+      "options": [
+        { "option": "Guerra de Secesión", "correct": false },
+        { "option": "Guerra de Independencia de EE. UU.", "correct": true },
+        { "option": "Guerra Anglo-Zulú", "correct": false },
+        { "option": "Guerra de los Siete Años", "correct": false }
+      ]
     }
   ]
 }
