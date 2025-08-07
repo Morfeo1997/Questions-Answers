@@ -505,6 +505,306 @@
         { "option": "Guerra Anglo-Zulú", "correct": false },
         { "option": "Guerra de los Siete Años", "correct": false }
       ]
+    },
+    {
+      "id": 151,
+      "question": "¿Qué imperio fue responsable de la construcción del Coliseo en Roma?",
+      "options": [
+        { "option": "Imperio Griego", "correct": false },
+        { "option": "Imperio Romano", "correct": true },
+        { "option": "Imperio Bizantino", "correct": false },
+        { "option": "Imperio Persa", "correct": false }
+      ]
+    },
+    {
+      "id": 152,
+      "question": "¿Quién fue el primer emperador de China?",
+      "options": [
+        { "option": "Qin Shi Huang", "correct": true },
+        { "option": "Confucio", "correct": false },
+        { "option": "Sun Tzu", "correct": false },
+        { "option": "Kublai Khan", "correct": false }
+      ]
+    },
+    {
+      "id": 153,
+      "question": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+      "options": [
+        { "option": "Tratado de Tordesillas", "correct": false },
+        { "option": "Tratado de París", "correct": false },
+        { "option": "Tratado de Versalles", "correct": true },
+        { "option": "Tratado de Viena", "correct": false }
+      ]
+    },
+    {
+      "id": 154,
+      "question": "¿Qué famoso revolucionario argentino participó en la Revolución Cubana?",
+      "options": [
+        { "option": "José de San Martín", "correct": false },
+        { "option": "Simón Bolívar", "correct": false },
+        { "option": "Che Guevara", "correct": true },
+        { "option": "Carlos Menem", "correct": false }
+      ]
+    },
+    {
+      "id": 155,
+      "question": "¿Qué país fue invadido por Alemania en 1939, iniciando la Segunda Guerra Mundial?",
+      "options": [
+        { "option": "Francia", "correct": false },
+        { "option": "Checoslovaquia", "correct": false },
+        { "option": "Polonia", "correct": true },
+        { "option": "Austria", "correct": false }
+      ]
+    },
+    {
+      "id": 156,
+      "question": "¿Quién fue Ramsés II?",
+      "options": [
+        { "option": "Un faraón del Antiguo Egipto", "correct": true },
+        { "option": "Un emperador romano", "correct": false },
+        { "option": "Un filósofo griego", "correct": false },
+        { "option": "Un rey persa", "correct": false }
+      ]
+    },
+    {
+      "id": 157,
+      "question": "¿En qué continente ocurrió la Conferencia de Berlín (1884-1885) para dividir territorios?",
+      "options": [
+        { "option": "Asia", "correct": false },
+        { "option": "África", "correct": true },
+        { "option": "Europa", "correct": false },
+        { "option": "América", "correct": false }
+      ]
+    },
+    {
+      "id": 158,
+      "question": "¿Cuál fue el objetivo del movimiento sufragista en el siglo XIX y XX?",
+      "options": [
+        { "option": "Prohibir la esclavitud", "correct": false },
+        { "option": "Lograr el derecho al voto femenino", "correct": true },
+        { "option": "Establecer monarquías absolutas", "correct": false },
+        { "option": "Eliminar los impuestos reales", "correct": false }
+      ]
+    },
+    {
+      "id": 159,
+      "question": "¿Qué civilización antigua adoraba a dioses como Zeus y Atenea?",
+      "options": [
+        { "option": "Egipcia", "correct": false },
+        { "option": "Romana", "correct": false },
+        { "option": "Griega", "correct": true },
+        { "option": "Fenicia", "correct": false }
+      ]
+    },
+    {
+      "id": 160,
+      "question": "¿Qué invento se atribuye a los fenicios?",
+      "options": [
+        { "option": "El papel", "correct": false },
+        { "option": "La pólvora", "correct": false },
+        { "option": "El alfabeto", "correct": true },
+        { "option": "La brújula", "correct": false }
+      ]
+    },
+    {
+      "id": 161,
+      "question": "¿Quién fue el último zar de Rusia?",
+      "options": [
+        { "option": "Pedro el Grande", "correct": false },
+        { "option": "Iván el Terrible", "correct": false },
+        { "option": "Nicolás II", "correct": true },
+        { "option": "Alejandro III", "correct": false }
+      ]
+    },
+    {
+      "id": 162,
+      "question": "¿Qué guerra se libró entre el Norte y el Sur de Estados Unidos?",
+      "options": [
+        { "option": "Guerra de la Independencia", "correct": false },
+        { "option": "Guerra de Secesión", "correct": true },
+        { "option": "Guerra con México", "correct": false },
+        { "option": "Guerra Hispanoamericana", "correct": false }
+      ]
+    },
+    {
+      "id": 163,
+      "question": "¿En qué país tuvo lugar la Revolución Cultural entre 1966 y 1976?",
+      "options": [
+        { "option": "Corea del Norte", "correct": false },
+        { "option": "Rusia", "correct": false },
+        { "option": "China", "correct": true },
+        { "option": "Vietnam", "correct": false }
+      ]
+    },
+    {
+      "id": 164,
+      "question": "¿Qué líder alemán inició la Segunda Guerra Mundial?",
+      "options": [
+        { "option": "Otto von Bismarck", "correct": false },
+        { "option": "Adolf Hitler", "correct": true },
+        { "option": "Kaiser Guillermo II", "correct": false },
+        { "option": "Helmut Kohl", "correct": false }
+      ]
+    },
+    {
+      "id": 165,
+      "question": "¿Qué civilización mesoamericana usaba un calendario solar muy preciso?",
+      "options": [
+        { "option": "Inca", "correct": false },
+        { "option": "Olmeca", "correct": false },
+        { "option": "Maya", "correct": true },
+        { "option": "Zapoteca", "correct": false }
+      ]
+    },
+    {
+      "id": 166,
+      "question": "¿Qué imperio estuvo liderado por Alejandro Magno?",
+      "options": [
+        { "option": "Imperio Persa", "correct": false },
+        { "option": "Imperio Romano", "correct": false },
+        { "option": "Imperio Macedonio", "correct": true },
+        { "option": "Imperio Egipcio", "correct": false }
+      ]
+    },
+    {
+      "id": 167,
+      "question": "¿Qué conflicto enfrentó a EE.UU. y la URSS sin combates directos?",
+      "options": [
+        { "option": "Guerra de Vietnam", "correct": false },
+        { "option": "Guerra Fría", "correct": true },
+        { "option": "Primera Guerra Mundial", "correct": false },
+        { "option": "Guerra de Corea", "correct": false }
+      ]
+    },
+    {
+      "id": 168,
+      "question": "¿Qué rey francés fue conocido como el 'Rey Sol'?",
+      "options": [
+        { "option": "Luis XVI", "correct": false },
+        { "option": "Luis XIV", "correct": true },
+        { "option": "Luis XIII", "correct": false },
+        { "option": "Luis XV", "correct": false }
+      ]
+    },
+    {
+      "id": 169,
+      "question": "¿Qué civilización construyó una extensa red de caminos en Sudamérica?",
+      "options": [
+        { "option": "Azteca", "correct": false },
+        { "option": "Olmeca", "correct": false },
+        { "option": "Inca", "correct": true },
+        { "option": "Maya", "correct": false }
+      ]
+    },
+    {
+      "id": 170,
+      "question": "¿Qué movimiento transformó la producción agrícola e industrial en Europa durante los siglos XVIII y XIX?",
+      "options": [
+        { "option": "La Ilustración", "correct": false },
+        { "option": "La Revolución Francesa", "correct": false },
+        { "option": "La Revolución Industrial", "correct": true },
+        { "option": "El Renacimiento", "correct": false }
+      ]
+    },
+    {
+      "id": 171,
+      "question": "¿Qué evento marcó el fin de la Edad Media?",
+      "options": [
+        { "option": "La caída del Imperio romano de Oriente", "correct": true },
+        { "option": "El descubrimiento de América", "correct": false },
+        { "option": "La invención de la imprenta", "correct": false },
+        { "option": "La peste negra", "correct": false }
+      ]
+    },
+    {
+      "id": 172,
+      "question": "¿Cuál fue la capital del Imperio Bizantino?",
+      "options": [
+        { "option": "Atenas", "correct": false },
+        { "option": "Roma", "correct": false },
+        { "option": "Constantinopla", "correct": true },
+        { "option": "Cartago", "correct": false }
+      ]
+    },
+    {
+      "id": 173,
+      "question": "¿Qué civilización antigua es conocida por su sistema legal llamado 'Código de Hammurabi'?",
+      "options": [
+        { "option": "Egipcia", "correct": false },
+        { "option": "Sumeria", "correct": false },
+        { "option": "Babilónica", "correct": true },
+        { "option": "Asiria", "correct": false }
+      ]
+    },
+    {
+      "id": 174,
+      "question": "¿Quién fue el fundador del Islam?",
+      "options": [
+        { "option": "Abu Bakr", "correct": false },
+        { "option": "Mahoma", "correct": true },
+        { "option": "Alí", "correct": false },
+        { "option": "Saladino", "correct": false }
+      ]
+    },
+    {
+      "id": 175,
+      "question": "¿Qué ciudad fue destruida por una erupción del Vesubio en el año 79 d.C.?",
+      "options": [
+        { "option": "Atenas", "correct": false },
+        { "option": "Roma", "correct": false },
+        { "option": "Pompeya", "correct": true },
+        { "option": "Nápoles", "correct": false }
+      ]
+    },
+    {
+      "id": 176,
+      "question": "¿Qué tratado puso fin a la guerra entre México y Estados Unidos en 1848?",
+      "options": [
+        { "option": "Tratado de Guadalupe Hidalgo", "correct": true },
+        { "option": "Tratado de París", "correct": false },
+        { "option": "Tratado de Tordesillas", "correct": false },
+        { "option": "Tratado de Versalles", "correct": false }
+      ]
+    },
+    {
+      "id": 177,
+      "question": "¿Qué movimiento artístico y cultural se originó en Italia en el siglo XIV?",
+      "options": [
+        { "option": "Barroco", "correct": false },
+        { "option": "Romanticismo", "correct": false },
+        { "option": "Renacimiento", "correct": true },
+        { "option": "Impresionismo", "correct": false }
+      ]
+    },
+    {
+      "id": 178,
+      "question": "¿Cuál fue la primera civilización en usar la democracia como forma de gobierno?",
+      "options": [
+        { "option": "Roma", "correct": false },
+        { "option": "Atenas", "correct": true },
+        { "option": "Esparta", "correct": false },
+        { "option": "Cartago", "correct": false }
+      ]
+    },
+    {
+      "id": 179,
+      "question": "¿Qué imperio controló gran parte de Europa antes de su caída en el año 476 d.C.?",
+      "options": [
+        { "option": "Imperio Otomano", "correct": false },
+        { "option": "Imperio Romano de Oriente", "correct": false },
+        { "option": "Imperio Romano de Occidente", "correct": true },
+        { "option": "Imperio Carolingio", "correct": false }
+      ]
+    },
+    {
+      "id": 180,
+      "question": "¿Qué científico fue condenado por la Iglesia por apoyar el heliocentrismo?",
+      "options": [
+        { "option": "Isaac Newton", "correct": false },
+        { "option": "Albert Einstein", "correct": false },
+        { "option": "Galileo Galilei", "correct": true },
+        { "option": "Copérnico", "correct": false }
+      ]
     }
   ]
 }
