@@ -34,26 +34,20 @@ const Home = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-blue-900 to-purple-900">
+    <div className="min-h-screen min-w-100 bg-gradient-to-b from-blue-950  to-purple-950 overflow-x-hidden">
       {/* Navigation */}
-      <nav className="w-full bg-black/20 backdrop-blur-sm border-b border-white/10">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <nav className="w-full bg-blue-950  border-b border-white/10 overflow-x-hidden">
+        <div className="max-w-7xl mx-auto  ">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
-              <div className="text-2xl font-bold text-white hover:text-blue-300 transition-colors cursor-pointer">
-                QuizMaster
+              <div className="text-2xl font-bold text-white hover:text-blue-300 transition-colors cursor-pointer duration-500">
+                10 Preguntas
               </div>
             </div>
             <div className="hidden md:block">
-              <div className="ml-10 flex items-baseline space-x-4">
-                <div className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors cursor-pointer">
-                  Ranking
-                </div>
-                <div className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors cursor-pointer">
-                  Perfil
-                </div>
-                <div className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium transition-colors cursor-pointer">
-                  Configuración
+              <div className=" flex items-baseline">
+                <div className="text-white hover:text-blue-300 py-2 rounded-md text-2xl font-medium transition-colors cursor-pointer duration-500">
+                  Ayuda
                 </div>
               </div>
             </div>
@@ -62,7 +56,7 @@ const Home = () => {
       </nav>
 
       {/* Main Content */}
-      <main className="w-full px-4 py-12">
+      <main className="w-auto  py-12 overflow-x-hidden">
         <div className="max-w-6xl mx-auto">
           {/* Header */}
           <div className="text-center mb-12">
@@ -75,7 +69,7 @@ const Home = () => {
           </div>
 
           {/* Categories Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8  mx-auto">
             {categories.map((category, index) => {
               const IconComponent = category.icon;
               return (
@@ -86,7 +80,7 @@ const Home = () => {
                     animationDelay: `${index * 0.1}s`
                   }}
                   onClick={() => {
-                    // Aquí puedes agregar la lógica de navegación con React Router
+                    
                     console.log(`Navegando a: ${category.path}`);
                   }}
                 >
@@ -116,23 +110,6 @@ const Home = () => {
             })}
           </div>
 
-          {/* Stats Section */}
-          <div className="mt-16 text-center">
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-3xl mx-auto">
-              <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20">
-                <h3 className="text-2xl font-bold text-white mb-2">1000+</h3>
-                <p className="text-gray-300">Preguntas disponibles</p>
-              </div>
-              <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20">
-                <h3 className="text-2xl font-bold text-white mb-2">4</h3>
-                <p className="text-gray-300">Categorías diferentes</p>
-              </div>
-              <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 border border-white/20">
-                <h3 className="text-2xl font-bold text-white mb-2">∞</h3>
-                <p className="text-gray-300">Diversión garantizada</p>
-              </div>
-            </div>
-          </div>
         </div>
       </main>
     </div>

@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <div className='min-w-screen dark:bg-blue-950'>
+      <div className='dark:bg-blue-950'>
         <Home />
         
         
