@@ -105,7 +105,7 @@
         { "option": "John Lewis", "correct": false},
         { "option": "Barack Obama", "correct": false }
       ]
-    }
+    },
     {
       "id": 111,
       "question": "¿Qué evento marcó el inicio de la Edad Media?",
