@@ -805,6 +805,206 @@
         { "option": "Galileo Galilei", "correct": true },
         { "option": "Copérnico", "correct": false }
       ]
+    },
+    {
+      "id": 181,
+      "question": "¿Quién fue el primer presidente de los Estados Unidos?",
+      "options": [
+        { "option": "Thomas Jefferson", "correct": false },
+        { "option": "Abraham Lincoln", "correct": false },
+        { "option": "George Washington", "correct": true },
+        { "option": "John Adams", "correct": false }
+      ]
+    },
+    {
+      "id": 182,
+      "question": "¿Qué imperio construyó la Gran Muralla China?",
+      "options": [
+        { "option": "Imperio Han", "correct": false },
+        { "option": "Imperio Tang", "correct": false },
+        { "option": "Imperio Qin", "correct": true },
+        { "option": "Imperio Ming", "correct": false }
+      ]
+    },
+    {
+      "id": 183,
+      "question": "¿En qué año llegó Cristóbal Colón a América?",
+      "options": [
+        { "option": "1492", "correct": true },
+        { "option": "1500", "correct": false },
+        { "option": "1485", "correct": false },
+        { "option": "1498", "correct": false }
+      ]
+    },
+    {
+      "id": 184,
+      "question": "¿Quién fue el líder del Imperio Mongol en su máxima expansión?",
+      "options": [
+        { "option": "Gengis Kan", "correct": true },
+        { "option": "Kublai Kan", "correct": false },
+        { "option": "Tamerlán", "correct": false },
+        { "option": "Batu Kan", "correct": false }
+      ]
+    },
+    {
+      "id": 185,
+      "question": "¿Qué guerra se desarrolló entre 1914 y 1918?",
+      "options": [
+        { "option": "Segunda Guerra Mundial", "correct": false },
+        { "option": "Guerra de Crimea", "correct": false },
+        { "option": "Primera Guerra Mundial", "correct": true },
+        { "option": "Guerra de Corea", "correct": false }
+      ]
+    },
+    {
+      "id": 186,
+      "question": "¿Qué antigua ciudad mesopotámica es famosa por sus Jardines Colgantes?",
+      "options": [
+        { "option": "Ur", "correct": false },
+        { "option": "Babilonia", "correct": true },
+        { "option": "Nínive", "correct": false },
+        { "option": "Asur", "correct": false }
+      ]
+    },
+    {
+      "id": 187,
+      "question": "¿Quién fue conocido como el 'Libertador de Chile'?",
+      "options": [
+        { "option": "José de San Martín", "correct": true },
+        { "option": "Bernardo O'Higgins", "correct": false },
+        { "option": "Simón Bolívar", "correct": false },
+        { "option": "Francisco de Miranda", "correct": false }
+      ]
+    },
+    {
+      "id": 188,
+      "question": "¿Qué acontecimiento inició la Revolución Francesa en 1789?",
+      "options": [
+        { "option": "La ejecución de Luis XVI", "correct": false },
+        { "option": "La toma de la Bastilla", "correct": true },
+        { "option": "La Declaración de Independencia", "correct": false },
+        { "option": "El golpe de Estado de Napoleón", "correct": false }
+      ]
+    },
+    {
+      "id": 189,
+      "question": "¿Qué imperio tenía como capital a Cuzco?",
+      "options": [
+        { "option": "Azteca", "correct": false },
+        { "option": "Maya", "correct": false },
+        { "option": "Inca", "correct": true },
+        { "option": "Olmeca", "correct": false }
+      ]
+    },
+    {
+      "id": 190,
+      "question": "¿Quién fue el principal líder de la Reforma Protestante?",
+      "options": [
+        { "option": "Juan Calvino", "correct": false },
+        { "option": "Martín Lutero", "correct": true },
+        { "option": "Enrique VIII", "correct": false },
+        { "option": "John Knox", "correct": false }
+      ]
+    },
+    {
+      "id": 191,
+      "question": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "options": [
+        { "option": "1939", "correct": true },
+        { "option": "1941", "correct": false },
+        { "option": "1936", "correct": false },
+        { "option": "1945", "correct": false }
+      ]
+    },
+    {
+      "id": 192,
+      "question": "¿Quién fue el primer emperador romano?",
+      "options": [
+        { "option": "Julio César", "correct": false },
+        { "option": "Octavio Augusto", "correct": true },
+        { "option": "Nerón", "correct": false },
+        { "option": "Trajano", "correct": false }
+      ]
+    },
+    {
+      "id": 193,
+      "question": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+      "options": [
+        { "option": "Tratado de Versalles", "correct": true },
+        { "option": "Tratado de Utrecht", "correct": false },
+        { "option": "Tratado de París", "correct": false },
+        { "option": "Tratado de Tordesillas", "correct": false }
+      ]
+    },
+    {
+      "id": 194,
+      "question": "¿Qué país fue gobernado por Napoleón Bonaparte?",
+      "options": [
+        { "option": "España", "correct": false },
+        { "option": "Francia", "correct": true },
+        { "option": "Italia", "correct": false },
+        { "option": "Bélgica", "correct": false }
+      ]
+    },
+    {
+      "id": 195,
+      "question": "¿Cuál fue el nombre del plan de ayuda económica de EE. UU. a Europa tras la Segunda Guerra Mundial?",
+      "options": [
+        { "option": "Plan Dawes", "correct": false },
+        { "option": "Plan Marshall", "correct": true },
+        { "option": "Plan Brady", "correct": false },
+        { "option": "Plan Truman", "correct": false }
+      ]
+    },
+    {
+      "id": 196,
+      "question": "¿En qué año se firmó la Declaración de Independencia de Estados Unidos?",
+      "options": [
+        { "option": "1776", "correct": true },
+        { "option": "1789", "correct": false },
+        { "option": "1812", "correct": false },
+        { "option": "1750", "correct": false }
+      ]
+    },
+    {
+      "id": 197,
+      "question": "¿Quién fue el último zar de Rusia?",
+      "options": [
+        { "option": "Nicolás II", "correct": true },
+        { "option": "Pedro el Grande", "correct": false },
+        { "option": "Alejandro III", "correct": false },
+        { "option": "Iván IV", "correct": false }
+      ]
+    },
+    {
+      "id": 198,
+      "question": "¿Qué muro cayó en 1989 marcando el fin de la Guerra Fría?",
+      "options": [
+        { "option": "Muro de Varsovia", "correct": false },
+        { "option": "Muro de Berlín", "correct": true },
+        { "option": "Muro de Praga", "correct": false },
+        { "option": "Muro de Moscú", "correct": false }
+      ]
+    },
+    {
+      "id": 199,
+      "question": "¿En qué país se originó la Revolución Industrial?",
+      "options": [
+        { "option": "Francia", "correct": false },
+        { "option": "Estados Unidos", "correct": false },
+        { "option": "Reino Unido", "correct": true },
+        { "option": "Alemania", "correct": false }
+      ]
+    },
+    {
+      "id": 200,
+      "question": "¿Qué civilización construyó Machu Picchu?",
+      "options": [
+        { "option": "Inca", "correct": true },
+        { "option": "Maya", "correct": false },
+        { "option": "Azteca", "correct": false },
+        { "option": "Olmeca", "correct": false }
+      ]
     }
   ]
 }
