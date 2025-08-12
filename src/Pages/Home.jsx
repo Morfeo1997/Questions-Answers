@@ -1,7 +1,9 @@
 import React from 'react';
 import { BookOpen, Palette, Calculator, Trophy } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
 
 const Home = () => {
+  const navigate = useNavigate();
   const categories = [
     {
       name: 'Historia',
@@ -79,10 +81,7 @@ const Home = () => {
                   style={{
                     animationDelay: `${index * 0.1}s`
                   }}
-                  onClick={() => {
-                    
-                    console.log(`Navegando a: ${category.path}`);
-                  }}
+                  onClick={() => navigate(category.path)}
                 >
                   <div className="absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                   
