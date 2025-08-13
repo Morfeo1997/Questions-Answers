@@ -94,7 +94,7 @@ function HistoryChallenge() {
 
   if (gameFinished) {
     return (
-      <div className="min-h-screen bg-gray-100 flex items-center justify-center p-4">
+      <div className="min-h-screen bg-gradient-to-b from-blue-950  to-purple-950 flex items-center justify-center p-4">
         <GameSummary
           correctAnswers={correctAnswers}
           totalQuestions={10} // Siempre serán 10 preguntas
@@ -118,17 +118,17 @@ function HistoryChallenge() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-purple-500 to-pink-600 flex flex-col items-center p-4 pt-8">
+    <div className="min-h-screen bg-gradient-to-b from-pink-500 via-pink-700 to-purple-950 flex flex-col items-center p-4 pt-8">
       <div className="w-full max-w-2xl mb-8">
-        <h1 className="text-3xl font-bold text-center text-black mb-2">
+        <h1 className="text-3xl font-bold text-center text-white mb-2">
           {Challenge.title}
         </h1>
-        <p className="text-center text-gray-900 mb-6">
+        <p className="text-center text-white mb-6">
           {Challenge.description}
         </p>
       </div>
 
-      <ProgressBar
+      <ProgressBar 
         current={currentQuestion + 1} // Mostrar pregunta actual (1-10)
         total={10} // Siempre serán 10 preguntas
         correct={correctAnswers}

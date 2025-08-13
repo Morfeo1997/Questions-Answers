@@ -21,7 +21,7 @@ function QuestionCard({
           <button
             key={index}
             onClick={() => !isAnswered && onAnswer(optionItem)}
-            className={`w-full h-full p-3 text-left cursor-pointer  rounded-lg border-gray-500 transition-colors hover:scale-105  duration-500 ${
+            className={`w-full h-full p-3 text-left cursor-pointer  rounded-lg border-gray-500 transition-all hover:scale-105  duration-300 ${
               isAnswered
                 ? optionItem.correct
                   ? 'bg-green-200 border-green-600'
