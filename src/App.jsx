@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { useState } from 'react'
 import Home from './Pages/Home'
 import HistoryGame from './Pages/HistoryChallenge'
+import ArtGame from './Pages/ArtChallenge'
 
 function App() {
 
@@ -12,8 +13,8 @@ function App() {
         <BrowserRouter>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/historia" element={<HistoryGame />} />{/*
-            <Route path="/arte" element={<ArtGame />} />
+            <Route path="/historia" element={<HistoryGame />} />
+            <Route path="/arte" element={<ArtGame />} />{/*
             <Route path="/matematicas" element={<MathGame />} />
             <Route path="/deporte" element={<SportsGame />} />
             */}
