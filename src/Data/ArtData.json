@@ -20,8 +20,8 @@
       "id": 102,
       "question": "¿En qué ciudad se encuentra el museo Louvre?",
       "options": [
+      	{ "option": "Roma", "correct": false },
         { "option": "París", "correct": true },
-        { "option": "Roma", "correct": false },
         { "option": "Madrid", "correct": false },
         { "option": "Londres", "correct": false }
       ]
@@ -504,6 +504,506 @@
         { "option": "Leonardo da Vinci", "correct": false },
         { "option": "Tiziano", "correct": false },
         { "option": "Piero della Francesca", "correct": false }
+      ]
+    },
+    {
+      "id": 151,
+      "question": "¿Quién fue el creador del estilo arquitectónico llamado 'Deconstrucción'?",
+      "options": [
+        { "option": "Frank Gehry", "correct": true },
+        { "option": "Norman Foster", "correct": false },
+        { "option": "Zaha Hadid", "correct": false },
+        { "option": "Rem Koolhaas", "correct": false }
+      ]
+    },
+    {
+      "id": 152,
+      "question": "¿Qué pintor es famoso por su serie de obras tituladas 'Los girasoles'?",
+      "options": [
+        { "option": "Vincent van Gogh", "correct": true },
+        { "option": "Claude Monet", "correct": false },
+        { "option": "Paul Gauguin", "correct": false },
+        { "option": "Henri Matisse", "correct": false }
+      ]
+    },
+    {
+      "id": 153,
+      "question": "¿Qué escultor italiano fue famoso por sus obras en bronce como 'David' y 'Gattamelata'?",
+      "options": [
+        { "option": "Donatello", "correct": true },
+        { "option": "Cellini", "correct": false },
+        { "option": "Miguel Ángel", "correct": false },
+        { "option": "Ghiberti", "correct": false }
+      ]
+    },
+    {
+      "id": 154,
+      "question": "¿Qué movimiento artístico fue fundado por André Breton en 1924?",
+      "options": [
+        { "option": "Surrealismo", "correct": true },
+        { "option": "Dadaísmo", "correct": false },
+        { "option": "Futurismo", "correct": false },
+        { "option": "Constructivismo", "correct": false }
+      ]
+    },
+    {
+      "id": 155,
+      "question": "¿Qué pintor español es famoso por la obra 'Guernica'?",
+      "options": [
+        { "option": "Pablo Picasso", "correct": true },
+        { "option": "Joan Miró", "correct": false },
+        { "option": "Salvador Dalí", "correct": false },
+        { "option": "Antoni Tàpies", "correct": false }
+      ]
+    },
+    {
+      "id": 156,
+      "question": "¿En qué ciudad se encuentra el Museo Hermitage?",
+      "options": [
+        { "option": "San Petersburgo", "correct": true },
+        { "option": "Moscú", "correct": false },
+        { "option": "Kiev", "correct": false },
+        { "option": "Varsovia", "correct": false }
+      ]
+    },
+    {
+      "id": 157,
+      "question": "¿Qué pintor fue uno de los máximos exponentes del fauvismo?",
+      "options": [
+        { "option": "Henri Matisse", "correct": true },
+        { "option": "Paul Cézanne", "correct": false },
+        { "option": "André Derain", "correct": false },
+        { "option": "Raoul Dufy", "correct": false }
+      ]
+    },
+    {
+      "id": 158,
+      "question": "¿Qué escultor realizó 'La piedad' en mármol?",
+      "options": [
+        { "option": "Miguel Ángel", "correct": true },
+        { "option": "Gian Lorenzo Bernini", "correct": false },
+        { "option": "Donatello", "correct": false },
+        { "option": "Antonio Canova", "correct": false }
+      ]
+    },
+    {
+      "id": 159,
+      "question": "¿Qué pintor holandés fue famoso por sus escenas domésticas como 'La lechera'?",
+      "options": [
+        { "option": "Johannes Vermeer", "correct": true },
+        { "option": "Rembrandt", "correct": false },
+        { "option": "Frans Hals", "correct": false },
+        { "option": "Pieter de Hooch", "correct": false }
+      ]
+    },
+    {
+      "id": 160,
+      "question": "¿Qué técnica artística utiliza pigmentos diluidos en agua sobre yeso húmedo?",
+      "options": [
+        { "option": "Fresco", "correct": true },
+        { "option": "Temple", "correct": false },
+        { "option": "Acuarela", "correct": false },
+        { "option": "Óleo", "correct": false }
+      ]
+    },
+     {
+      "id": 161,
+      "question": "¿Qué artista pintó 'La persistencia de la memoria'?",
+      "options": [
+        { "option": "Salvador Dalí", "correct": true },
+        { "option": "René Magritte", "correct": false },
+        { "option": "Max Ernst", "correct": false },
+        { "option": "Joan Miró", "correct": false }
+      ]
+    },
+    {
+      "id": 162,
+      "question": "¿Qué escultor francés creó 'El pensador'?",
+      "options": [
+        { "option": "Auguste Rodin", "correct": true },
+        { "option": "Camille Claudel", "correct": false },
+        { "option": "Jean-Baptiste Carpeaux", "correct": false },
+        { "option": "Antoine Bourdelle", "correct": false }
+      ]
+    },
+    {
+      "id": 163,
+      "question": "¿Qué pintor es famoso por el cuadro 'La joven de la perla'?",
+      "options": [
+        { "option": "Johannes Vermeer", "correct": true },
+        { "option": "Rembrandt", "correct": false },
+        { "option": "Frans Hals", "correct": false },
+        { "option": "Jan Steen", "correct": false }
+      ]
+    },
+    {
+      "id": 164,
+      "question": "¿En qué país nació el pintor Edvard Munch?",
+      "options": [
+        { "option": "Noruega", "correct": true },
+        { "option": "Suecia", "correct": false },
+        { "option": "Dinamarca", "correct": false },
+        { "option": "Finlandia", "correct": false }
+      ]
+    },
+    {
+      "id": 165,
+      "question": "¿Qué artista del Renacimiento pintó 'La escuela de Atenas'?",
+      "options": [
+        { "option": "Rafael Sanzio", "correct": true },
+        { "option": "Leonardo da Vinci", "correct": false },
+        { "option": "Miguel Ángel", "correct": false },
+        { "option": "Botticelli", "correct": false }
+      ]
+    },
+    {
+      "id": 166,
+      "question": "¿Qué técnica de grabado desarrolló principalmente Francisco de Goya?",
+      "options": [
+        { "option": "Aguafuerte", "correct": true },
+        { "option": "Litografía", "correct": false },
+        { "option": "Serigrafía", "correct": false },
+        { "option": "Xilografía", "correct": false }
+      ]
+    },
+    {
+      "id": 167,
+      "question": "¿Qué movimiento artístico impulsó Jackson Pollock?",
+      "options": [
+        { "option": "Expresionismo abstracto", "correct": true },
+        { "option": "Cubismo", "correct": false },
+        { "option": "Futurismo", "correct": false },
+        { "option": "Minimalismo", "correct": false }
+      ]
+    },
+    {
+      "id": 168,
+      "question": "¿En qué ciudad se encuentra la obra 'El beso' de Gustav Klimt?",
+      "options": [
+        { "option": "Viena", "correct": true },
+        { "option": "Praga", "correct": false },
+        { "option": "Berlín", "correct": false },
+        { "option": "Budapest", "correct": false }
+      ]
+    },
+    {
+      "id": 169,
+      "question": "¿Qué escultor realizó 'El éxtasis de Santa Teresa'?",
+      "options": [
+        { "option": "Gian Lorenzo Bernini", "correct": true },
+        { "option": "Miguel Ángel", "correct": false },
+        { "option": "Donatello", "correct": false },
+        { "option": "Luca della Robbia", "correct": false }
+      ]
+    },
+    {
+      "id": 170,
+      "question": "¿Qué artista mexicano pintó murales en el Palacio Nacional de Ciudad de México?",
+      "options": [
+        { "option": "Diego Rivera", "correct": true },
+        { "option": "José Clemente Orozco", "correct": false },
+        { "option": "David Alfaro Siqueiros", "correct": false },
+        { "option": "Rufino Tamayo", "correct": false }
+      ]
+    },
+    {
+      "id": 171,
+      "question": "¿Quién pintó el famoso cuadro 'Las meninas'?",
+      "options": [
+        { "option": "Diego Velázquez", "correct": true },
+        { "option": "Francisco de Goya", "correct": false },
+        { "option": "El Greco", "correct": false },
+        { "option": "Murillo", "correct": false }
+      ]
+    },
+    {
+      "id": 172,
+      "question": "¿Qué artista francés es famoso por sus pinturas de bailarinas?",
+      "options": [
+        { "option": "Edgar Degas", "correct": true },
+        { "option": "Claude Monet", "correct": false },
+        { "option": "Pierre-Auguste Renoir", "correct": false },
+        { "option": "Paul Cézanne", "correct": false }
+      ]
+    },
+    {
+      "id": 173,
+      "question": "¿Qué escultor renacentista realizó las puertas del Baptisterio de Florencia conocidas como 'Puertas del Paraíso'?",
+      "options": [
+        { "option": "Lorenzo Ghiberti", "correct": true },
+        { "option": "Donatello", "correct": false },
+        { "option": "Brunelleschi", "correct": false },
+        { "option": "Cellini", "correct": false }
+      ]
+    },
+    {
+      "id": 174,
+      "question": "¿En qué siglo se desarrolló principalmente el arte barroco?",
+      "options": [
+        { "option": "Siglo XVII", "correct": true },
+        { "option": "Siglo XVI", "correct": false },
+        { "option": "Siglo XVIII", "correct": false },
+        { "option": "Siglo XV", "correct": false }
+      ]
+    },
+    {
+      "id": 175,
+      "question": "¿Qué pintor neerlandés es conocido por su serie 'Los comedores de patatas'?",
+      "options": [
+        { "option": "Vincent van Gogh", "correct": true },
+        { "option": "Rembrandt", "correct": false },
+        { "option": "Piet Mondrian", "correct": false },
+        { "option": "Frans Hals", "correct": false }
+      ]
+    },
+    {
+      "id": 176,
+      "question": "¿Qué artista realizó el mural 'El hombre en el cruce de caminos' en el Rockefeller Center, que luego fue destruido?",
+      "options": [
+        { "option": "Diego Rivera", "correct": true },
+        { "option": "José Clemente Orozco", "correct": false },
+        { "option": "David Alfaro Siqueiros", "correct": false },
+        { "option": "Rufino Tamayo", "correct": false }
+      ]
+    },
+    {
+      "id": 177,
+      "question": "¿Qué pintor fue apodado 'El padre del Impresionismo'?",
+      "options": [
+        { "option": "Claude Monet", "correct": true },
+        { "option": "Édouard Manet", "correct": false },
+        { "option": "Pierre-Auguste Renoir", "correct": false },
+        { "option": "Camille Pissarro", "correct": false }
+      ]
+    },
+    {
+      "id": 178,
+      "question": "¿Qué famosa escultura se encuentra en la isla de Pascua?",
+      "options": [
+        { "option": "Moáis", "correct": true },
+        { "option": "Esfinge", "correct": false },
+        { "option": "Estatua de Zeus", "correct": false },
+        { "option": "Venus de Milo", "correct": false }
+      ]
+    },
+    {
+      "id": 179,
+      "question": "¿Quién pintó 'La ronda de noche'?",
+      "options": [
+        { "option": "Rembrandt", "correct": true },
+        { "option": "Frans Hals", "correct": false },
+        { "option": "Johannes Vermeer", "correct": false },
+        { "option": "Jan Steen", "correct": false }
+      ]
+    },
+    {
+      "id": 180,
+      "question": "¿Qué técnica utiliza pequeños puntos de color para formar una imagen?",
+      "options": [
+        { "option": "Puntillismo", "correct": true },
+        { "option": "Fresco", "correct": false },
+        { "option": "Acuarela", "correct": false },
+        { "option": "Temple", "correct": false }
+      ]
+    },
+    {
+      "id": 181,
+      "question": "¿Quién pintó el techo de la Capilla Sixtina?",
+      "options": [
+        { "option": "Miguel Ángel", "correct": true },
+        { "option": "Rafael Sanzio", "correct": false },
+        { "option": "Leonardo da Vinci", "correct": false },
+        { "option": "Caravaggio", "correct": false }
+      ]
+    },
+    {
+      "id": 182,
+      "question": "¿Qué escultor creó la famosa obra 'David' en mármol?",
+      "options": [
+        { "option": "Miguel Ángel", "correct": true },
+        { "option": "Donatello", "correct": false },
+        { "option": "Bernini", "correct": false },
+        { "option": "Cellini", "correct": false }
+      ]
+    },
+    {
+      "id": 183,
+      "question": "¿Qué pintor francés fue uno de los líderes del fauvismo?",
+      "options": [
+        { "option": "Henri Matisse", "correct": true },
+        { "option": "Georges Braque", "correct": false },
+        { "option": "Paul Cézanne", "correct": false },
+        { "option": "André Derain", "correct": false }
+      ]
+    },
+    {
+      "id": 184,
+      "question": "¿En qué ciudad se encuentra el Museo del Louvre?",
+      "options": [
+        { "option": "París", "correct": true },
+        { "option": "Roma", "correct": false },
+        { "option": "Madrid", "correct": false },
+        { "option": "Londres", "correct": false }
+      ]
+    },
+    {
+      "id": 185,
+      "question": "¿Qué artista creó la obra 'Guernica'?",
+      "options": [
+        { "option": "Pablo Picasso", "correct": true },
+        { "option": "Salvador Dalí", "correct": false },
+        { "option": "Joan Miró", "correct": false },
+        { "option": "Antoni Tàpies", "correct": false }
+      ]
+    },
+    {
+      "id": 186,
+      "question": "¿Qué pintor italiano es famoso por la obra 'La última cena'?",
+      "options": [
+        { "option": "Leonardo da Vinci", "correct": true },
+        { "option": "Rafael Sanzio", "correct": false },
+        { "option": "Giotto", "correct": false },
+        { "option": "Tintoretto", "correct": false }
+      ]
+    },
+    {
+      "id": 187,
+      "question": "¿Qué movimiento artístico buscaba representar la luz y el color tal como se perciben a simple vista?",
+      "options": [
+        { "option": "Impresionismo", "correct": true },
+        { "option": "Cubismo", "correct": false },
+        { "option": "Surrealismo", "correct": false },
+        { "option": "Realismo", "correct": false }
+      ]
+    },
+    {
+      "id": 188,
+      "question": "¿En qué país se originó el ukiyo-e, estilo de grabado en madera?",
+      "options": [
+        { "option": "Japón", "correct": true },
+        { "option": "China", "correct": false },
+        { "option": "Corea", "correct": false },
+        { "option": "Vietnam", "correct": false }
+      ]
+    },
+    {
+      "id": 189,
+      "question": "¿Qué escultor realizó 'El discóbolo' en la Antigua Grecia?",
+      "options": [
+        { "option": "Mirón", "correct": true },
+        { "option": "Fidias", "correct": false },
+        { "option": "Policleto", "correct": false },
+        { "option": "Praxiteles", "correct": false }
+      ]
+    },
+    {
+      "id": 190,
+      "question": "¿Qué pintora es reconocida por sus autorretratos y su relación con el surrealismo?",
+      "options": [
+        { "option": "Frida Kahlo", "correct": true },
+        { "option": "Leonora Carrington", "correct": false },
+        { "option": "Remedios Varo", "correct": false },
+        { "option": "Georgia O'Keeffe", "correct": false }
+      ]
+    },
+    {
+      "id": 191,
+      "question": "¿Quién pintó 'La persistencia de la memoria'?",
+      "options": [
+        { "option": "Salvador Dalí", "correct": true },
+        { "option": "Pablo Picasso", "correct": false },
+        { "option": "Joan Miró", "correct": false },
+        { "option": "Max Ernst", "correct": false }
+      ]
+    },
+    {
+      "id": 192,
+      "question": "¿Qué artista es conocido por pintar series de nenúfares?",
+      "options": [
+        { "option": "Claude Monet", "correct": true },
+        { "option": "Camille Pissarro", "correct": false },
+        { "option": "Pierre-Auguste Renoir", "correct": false },
+        { "option": "Paul Signac", "correct": false }
+      ]
+    },
+    {
+      "id": 193,
+      "question": "¿En qué país nació el arquitecto Antoni Gaudí?",
+      "options": [
+        { "option": "España", "correct": true },
+        { "option": "Francia", "correct": false },
+        { "option": "Italia", "correct": false },
+        { "option": "Portugal", "correct": false }
+      ]
+    },
+    {
+      "id": 194,
+      "question": "¿Qué famoso pintor holandés solo vendió una obra en vida?",
+      "options": [
+        { "option": "Vincent van Gogh", "correct": true },
+        { "option": "Johannes Vermeer", "correct": false },
+        { "option": "Rembrandt", "correct": false },
+        { "option": "Frans Hals", "correct": false }
+      ]
+    },
+    {
+      "id": 195,
+      "question": "¿Qué artista realizó el mural 'Sueño de una tarde dominical en la Alameda Central'?",
+      "options": [
+        { "option": "Diego Rivera", "correct": true },
+        { "option": "David Alfaro Siqueiros", "correct": false },
+        { "option": "José Clemente Orozco", "correct": false },
+        { "option": "Frida Kahlo", "correct": false }
+      ]
+    },
+    {
+      "id": 196,
+      "question": "¿Qué pintor es conocido por sus cuadros de bailarinas en movimiento?",
+      "options": [
+        { "option": "Edgar Degas", "correct": true },
+        { "option": "Henri de Toulouse-Lautrec", "correct": false },
+        { "option": "Auguste Rodin", "correct": false },
+        { "option": "Georges Seurat", "correct": false }
+      ]
+    },
+    {
+      "id": 197,
+      "question": "¿Qué técnica de pintura utiliza pigmentos mezclados con yema de huevo?",
+      "options": [
+        { "option": "Temple", "correct": true },
+        { "option": "Acuarela", "correct": false },
+        { "option": "Óleo", "correct": false },
+        { "option": "Fresco", "correct": false }
+      ]
+    },
+    {
+      "id": 198,
+      "question": "¿En qué museo se encuentra 'La noche estrellada' de Van Gogh?",
+      "options": [
+        { "option": "Museo de Arte Moderno de Nueva York (MoMA)", "correct": true },
+        { "option": "Museo del Louvre", "correct": false },
+        { "option": "Museo Van Gogh en Ámsterdam", "correct": false },
+        { "option": "Museo del Prado", "correct": false }
+      ]
+    },
+    {
+      "id": 199,
+      "question": "¿Qué escultor francés creó 'El pensador'?",
+      "options": [
+        { "option": "Auguste Rodin", "correct": true },
+        { "option": "Camille Claudel", "correct": false },
+        { "option": "Jean-Baptiste Carpeaux", "correct": false },
+        { "option": "Antoine Bourdelle", "correct": false }
+      ]
+    },
+    {
+      "id": 200,
+      "question": "¿Qué movimiento artístico está asociado con figuras geométricas y colores planos, influido por el neoplasticismo?",
+      "options": [
+        { "option": "De Stijl", "correct": true },
+        { "option": "Bauhaus", "correct": false },
+        { "option": "Constructivismo", "correct": false },
+        { "option": "Cubismo", "correct": false }
       ]
     }
   ]
