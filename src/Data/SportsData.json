@@ -1,0 +1,510 @@
+{
+  "title": "Reto Deportivo I",
+  "category": "Deportes",
+  "autor": "Gastón Gómez",
+  "description": "Pon a prueba tus conocimientos sobre fútbol, baloncesto, tenis, olimpiadas y otros deportes.",
+  "transitions": "Desaparecer/Fundido",
+  "dificulty": "Intermedio",
+  "game": [
+    {
+      "id": 101,
+      "question": "¿En qué país se originó el fútbol moderno?",
+      "options": [
+        { "option": "Inglaterra", "correct": true },
+        { "option": "Brasil", "correct": false },
+        { "option": "España", "correct": false },
+        { "option": "Italia", "correct": false }
+      ]
+    },
+    {
+      "id": 102,
+      "question": "¿Cuántos jugadores componen un equipo de baloncesto en cancha?",
+      "options": [
+        { "option": "6", "correct": false },
+        { "option": "5", "correct": true },
+        { "option": "7", "correct": false },
+        { "option": "4", "correct": false }
+      ]
+    },
+    {
+      "id": 103,
+      "question": "¿En qué deporte se utiliza una raqueta y una pelota amarilla pequeña?",
+      "options": [
+        { "option": "Bádminton", "correct": false },
+        { "option": "Squash", "correct": false },
+        { "option": "Tenis", "correct": true },
+        { "option": "Ping pong", "correct": false }
+      ]
+    },
+    {
+      "id": 104,
+      "question": "¿Qué país ganó la Copa Mundial de Fútbol 2018?",
+      "options": [
+        { "option": "Croacia", "correct": false },
+        { "option": "Alemania", "correct": false },
+        { "option": "Brasil", "correct": false },
+        { "option": "Francia", "correct": true }
+      ]
+    },
+    {
+      "id": 105,
+      "question": "¿Cuántos sets debe ganar un jugador para vencer un partido de tenis masculino en Grand Slam?",
+      "options": [
+        { "option": "3", "correct": true },
+        { "option": "2", "correct": false },
+        { "option": "4", "correct": false },
+        { "option": "5", "correct": false }
+      ]
+    },
+    {
+      "id": 106,
+      "question": "¿En qué ciudad se celebraron los Juegos Olímpicos de 2016?",
+      "options": [
+        { "option": "Londres", "correct": false },
+        { "option": "Río de Janeiro", "correct": true },
+        { "option": "Tokio", "correct": false },
+        { "option": "Pekín", "correct": false }
+      ]
+    },
+    {
+      "id": 107,
+      "question": "¿Cuál es la distancia oficial de una maratón?",
+      "options": [
+        { "option": "40 km", "correct": false },
+        { "option": "45 km", "correct": false },
+        { "option": "42,195 km", "correct": true },
+        { "option": "50 km", "correct": false }
+      ]
+    },
+    {
+      "id": 108,
+      "question": "¿En qué deporte se usan palos y un disco llamado puck?",
+      "options": [
+        { "option": "Hockey sobre césped", "correct": false },
+        { "option": "Lacrosse", "correct": false },
+        { "option": "Críquet", "correct": false },
+        { "option": "Hockey sobre hielo", "correct": true }
+      ]
+    },
+    {
+      "id": 109,
+      "question": "¿Cuántos puntos vale un triple en baloncesto?",
+      "options": [
+        { "option": "3", "correct": true },
+        { "option": "2", "correct": false },
+        { "option": "4", "correct": false },
+        { "option": "1", "correct": false }
+      ]
+    },
+    {
+      "id": 110,
+      "question": "¿En qué deporte destacó Michael Phelps?",
+      "options": [
+        { "option": "Atletismo", "correct": false },
+        { "option": "Natación", "correct": true },
+        { "option": "Ciclismo", "correct": false },
+        { "option": "Esquí", "correct": false }
+      ]
+    },
+    {
+      "id": 111,
+      "question": "¿En qué deporte se utiliza un bate y una pelota lanzada por un pitcher?",
+      "options": [
+        { "option": "Críquet", "correct": false },
+        { "option": "Softbol", "correct": false },
+        { "option": "Béisbol", "correct": true },
+        { "option": "Hockey", "correct": false }
+      ]
+    },
+    {
+      "id": 112,
+      "question": "¿Cuál es el país con más títulos de Copa Mundial de Fútbol?",
+      "options": [
+        { "option": "Alemania", "correct": false },
+        { "option": "Italia", "correct": false },
+        { "option": "Argentina", "correct": false },
+        { "option": "Brasil", "correct": true }
+      ]
+    },
+    {
+      "id": 113,
+      "question": "¿Cuántos anillos olímpicos hay en el símbolo de los Juegos Olímpicos?",
+      "options": [
+        { "option": "5", "correct": true },
+        { "option": "6", "correct": false },
+        { "option": "4", "correct": false },
+        { "option": "7", "correct": false }
+      ]
+    },
+    {
+      "id": 114,
+      "question": "¿En qué deporte compite Usain Bolt?",
+      "options": [
+        { "option": "Natación", "correct": false },
+        { "option": "Atletismo", "correct": true },
+        { "option": "Ciclismo", "correct": false },
+        { "option": "Esquí", "correct": false }
+      ]
+    },
+    {
+      "id": 115,
+      "question": "¿Cuál es el torneo de tenis que se juega en césped?",
+      "options": [
+        { "option": "Roland Garros", "correct": false },
+        { "option": "US Open", "correct": false },
+        { "option": "Wimbledon", "correct": true },
+        { "option": "Australian Open", "correct": false }
+      ]
+    },
+    {
+      "id": 116,
+      "question": "¿Cuánto dura un partido de fútbol profesional sin contar el tiempo extra?",
+      "options": [
+        { "option": "80 minutos", "correct": false },
+        { "option": "100 minutos", "correct": false },
+        { "option": "75 minutos", "correct": false },
+        { "option": "90 minutos", "correct": true }
+      ]
+    },
+    {
+      "id": 117,
+      "question": "¿En qué país se celebraron los Juegos Olímpicos de 2008?",
+      "options": [
+        { "option": "China", "correct": true },
+        { "option": "Grecia", "correct": false },
+        { "option": "Australia", "correct": false },
+        { "option": "Japón", "correct": false }
+      ]
+    },
+    {
+      "id": 118,
+      "question": "¿En qué deporte se destacan los equipos llamados Lakers y Bulls?",
+      "options": [
+        { "option": "Fútbol americano", "correct": false },
+        { "option": "Baloncesto", "correct": true },
+        { "option": "Hockey sobre hielo", "correct": false },
+        { "option": "Béisbol", "correct": false }
+      ]
+    },
+    {
+      "id": 119,
+      "question": "¿Qué jugador es conocido como 'La Pulga' en el mundo del fútbol?",
+      "options": [
+        { "option": "Cristiano Ronaldo", "correct": false },
+        { "option": "Neymar", "correct": false },
+        { "option": "Lionel Messi", "correct": true },
+        { "option": "Kylian Mbappé", "correct": false }
+      ]
+    },
+    {
+      "id": 120,
+      "question": "¿En qué deporte se utilizan guantes grandes para atrapar la pelota?",
+      "options": [
+        { "option": "Críquet", "correct": false },
+        { "option": "Softbol", "correct": false },
+        { "option": "Balonmano", "correct": false },
+        { "option": "Béisbol", "correct": true }
+      ]
+    },
+    {
+      "id": 121,
+      "question": "¿En qué deporte se usa una canasta a 3,05 metros de altura?",
+      "options": [
+        { "option": "Baloncesto", "correct": true },
+        { "option": "Vóleibol", "correct": false },
+        { "option": "Balonmano", "correct": false },
+        { "option": "Netball", "correct": false }
+      ]
+    },
+    {
+      "id": 122,
+      "question": "¿Cuál es la duración de un combate de boxeo profesional por campeonato?",
+      "options": [
+        { "option": "10 asaltos", "correct": false },
+        { "option": "12 asaltos", "correct": true },
+        { "option": "15 asaltos", "correct": false },
+        { "option": "8 asaltos", "correct": false }
+      ]
+    },
+    {
+      "id": 123,
+      "question": "¿Qué país organiza el Tour de Francia?",
+      "options": [
+        { "option": "España", "correct": false },
+        { "option": "Italia", "correct": false },
+        { "option": "Francia", "correct": true },
+        { "option": "Bélgica", "correct": false }
+      ]
+    },
+    {
+      "id": 124,
+      "question": "¿En qué deporte se compite en la Copa Davis?",
+      "options": [
+        { "option": "Golf", "correct": false },
+        { "option": "Críquet", "correct": false },
+        { "option": "Hockey", "correct": false },
+        { "option": "Tenis", "correct": true }
+      ]
+    },
+    {
+      "id": 125,
+      "question": "¿Qué selección ganó el Mundial de Fútbol 2014?",
+      "options": [
+        { "option": "Alemania", "correct": true },
+        { "option": "Argentina", "correct": false },
+        { "option": "España", "correct": false },
+        { "option": "Brasil", "correct": false }
+      ]
+    },
+    {
+      "id": 126,
+      "question": "¿En qué deporte se destacan equipos como los Yankees y Red Sox?",
+      "options": [
+        { "option": "Baloncesto", "correct": false },
+        { "option": "Béisbol", "correct": true },
+        { "option": "Fútbol americano", "correct": false },
+        { "option": "Hockey", "correct": false }
+      ]
+    },
+    {
+      "id": 127,
+      "question": "¿Cuántos jugadores forman un equipo de fútbol americano en el campo?",
+      "options": [
+        { "option": "10", "correct": false },
+        { "option": "12", "correct": false },
+        { "option": "11", "correct": true },
+        { "option": "9", "correct": false }
+      ]
+    },
+    {
+      "id": 128,
+      "question": "¿En qué país se celebraron los Juegos Olímpicos de 2021?",
+      "options": [
+        { "option": "China", "correct": false },
+        { "option": "Brasil", "correct": false },
+        { "option": "Grecia", "correct": false },
+        { "option": "Japón", "correct": true }
+      ]
+    },
+    {
+      "id": 129,
+      "question": "¿Qué deporte se practica en el famoso torneo Masters de Augusta?",
+      "options": [
+        { "option": "Golf", "correct": true },
+        { "option": "Tenis", "correct": false },
+        { "option": "Polo", "correct": false },
+        { "option": "Bádminton", "correct": false }
+      ]
+    },
+    {
+      "id": 130,
+      "question": "¿Qué nadador español ganó tres medallas en los Juegos Olímpicos de Londres 2012?",
+      "options": [
+        { "option": "David Meca", "correct": false },
+        { "option": "Mireia Belmonte", "correct": true },
+        { "option": "Rafa Muñoz", "correct": false },
+        { "option": "Teresa Perales", "correct": false }
+      ]
+    },
+    {
+      "id": 131,
+      "question": "¿En qué ciudad se celebraron los primeros Juegos Olímpicos modernos en 1896?",
+      "options": [
+        { "option": "París", "correct": false },
+        { "option": "Londres", "correct": false },
+        { "option": "Atenas", "correct": true },
+        { "option": "Roma", "correct": false }
+      ]
+    },
+    {
+      "id": 132,
+      "question": "¿Cuál es la distancia de un maratón oficial?",
+      "options": [
+        { "option": "40 km", "correct": false },
+        { "option": "45 km", "correct": false },
+        { "option": "38 km", "correct": false },
+        { "option": "42,195 km", "correct": true }
+      ]
+    },
+    {
+      "id": 133,
+      "question": "¿Qué futbolista portugués es apodado 'CR7'?",
+      "options": [
+        { "option": "Cristiano Ronaldo", "correct": true },
+        { "option": "Luis Figo", "correct": false },
+        { "option": "Pepe", "correct": false },
+        { "option": "João Félix", "correct": false }
+      ]
+    },
+    {
+      "id": 134,
+      "question": "¿En qué deporte se utiliza una pala y una pelota pequeña de plástico?",
+      "options": [
+        { "option": "Squash", "correct": false },
+        { "option": "Tenis de mesa", "correct": true },
+        { "option": "Bádminton", "correct": false },
+        { "option": "Pádel", "correct": false }
+      ]
+    },
+    {
+      "id": 135,
+      "question": "¿Qué país ganó el Mundial de Rugby en 2019?",
+      "options": [
+        { "option": "Nueva Zelanda", "correct": false },
+        { "option": "Inglaterra", "correct": false },
+        { "option": "Sudáfrica", "correct": true },
+        { "option": "Australia", "correct": false }
+      ]
+    },
+    {
+      "id": 136,
+      "question": "¿Cuántos sets se juegan en un partido masculino de Grand Slam de tenis?",
+      "options": [
+        { "option": "3", "correct": false },
+        { "option": "4", "correct": false },
+        { "option": "6", "correct": false },
+        { "option": "5", "correct": true }
+      ]
+    },
+    {
+      "id": 137,
+      "question": "¿En qué deporte se compite en la Vuelta a España?",
+      "options": [
+        { "option": "Ciclismo", "correct": true },
+        { "option": "Motociclismo", "correct": false },
+        { "option": "Atletismo", "correct": false },
+        { "option": "Triatlón", "correct": false }
+      ]
+    },
+    {
+      "id": 138,
+      "question": "¿Quién es considerado el mejor basquetbolista de todos los tiempos por muchos expertos?",
+      "options": [
+        { "option": "LeBron James", "correct": false },
+        { "option": "Michael Jordan", "correct": true },
+        { "option": "Kobe Bryant", "correct": false },
+        { "option": "Magic Johnson", "correct": false }
+      ]
+    },
+    {
+      "id": 139,
+      "question": "¿Qué deporte se practica en el estadio de Wembley?",
+      "options": [
+        { "option": "Rugby", "correct": false },
+        { "option": "Críquet", "correct": false },
+        { "option": "Fútbol", "correct": true },
+        { "option": "Atletismo", "correct": false }
+      ]
+    },
+    {
+      "id": 140,
+      "question": "¿En qué disciplina deportiva destacó Nadia Comăneci?",
+      "options": [
+        { "option": "Natación", "correct": false },
+        { "option": "Atletismo", "correct": false },
+        { "option": "Patinaje artístico", "correct": false },
+        { "option": "Gimnasia artística", "correct": true }
+      ]
+    },
+    {
+      "id": 141,
+      "question": "¿En qué deporte se utiliza una pista de hielo y un disco llamado puck?",
+      "options": [
+        { "option": "Hockey sobre hielo", "correct": true },
+        { "option": "Curling", "correct": false },
+        { "option": "Patinaje artístico", "correct": false },
+        { "option": "Esquí de fondo", "correct": false }
+      ]
+    },
+    {
+      "id": 142,
+      "question": "¿Qué país ganó la Copa Mundial de Fútbol de 2006?",
+      "options": [
+        { "option": "Francia", "correct": false },
+        { "option": "Italia", "correct": true },
+        { "option": "Brasil", "correct": false },
+        { "option": "Alemania", "correct": false }
+      ]
+    },
+    {
+      "id": 143,
+      "question": "¿Cuántos puntos vale un triple en baloncesto?",
+      "options": [
+        { "option": "2", "correct": false },
+        { "option": "4", "correct": false },
+        { "option": "3", "correct": true },
+        { "option": "1", "correct": false }
+      ]
+    },
+    {
+      "id": 144,
+      "question": "¿En qué deporte se compite en el Roland Garros?",
+      "options": [
+        { "option": "Golf", "correct": false },
+        { "option": "Pádel", "correct": false },
+        { "option": "Bádminton", "correct": false },
+        { "option": "Tenis", "correct": true }
+      ]
+    },
+    {
+      "id": 145,
+      "question": "¿Qué piloto de Fórmula 1 tiene el récord de más campeonatos mundiales junto con Michael Schumacher?",
+      "options": [
+        { "option": "Lewis Hamilton", "correct": true },
+        { "option": "Sebastian Vettel", "correct": false },
+        { "option": "Fernando Alonso", "correct": false },
+        { "option": "Ayrton Senna", "correct": false }
+      ]
+    },
+    {
+      "id": 146,
+      "question": "¿En qué deporte se utilizan términos como birdie, eagle y bogey?",
+      "options": [
+        { "option": "Críquet", "correct": false },
+        { "option": "Golf", "correct": true },
+        { "option": "Béisbol", "correct": false },
+        { "option": "Polo", "correct": false }
+      ]
+    },
+    {
+      "id": 147,
+      "question": "¿Cuál es la distancia estándar de una pista de atletismo en su carril interior?",
+      "options": [
+        { "option": "300 metros", "correct": false },
+        { "option": "500 metros", "correct": false },
+        { "option": "400 metros", "correct": true },
+        { "option": "350 metros", "correct": false }
+      ]
+    },
+    {
+      "id": 148,
+      "question": "¿Qué país ganó el Mundial de Fútbol Femenino en 2019?",
+      "options": [
+        { "option": "Países Bajos", "correct": false },
+        { "option": "Suecia", "correct": false },
+        { "option": "Inglaterra", "correct": false },
+        { "option": "Estados Unidos", "correct": true }
+      ]
+    },
+    {
+      "id": 149,
+      "question": "¿En qué deporte destacó el atleta Usain Bolt?",
+      "options": [
+        { "option": "Atletismo", "correct": true },
+        { "option": "Natación", "correct": false },
+        { "option": "Ciclismo", "correct": false },
+        { "option": "Fútbol", "correct": false }
+      ]
+    },
+    {
+      "id": 150,
+      "question": "¿Qué jugador de baloncesto es apodado 'La Barba'?",
+      "options": [
+        { "option": "Anthony Davis", "correct": false },
+        { "option": "James Harden", "correct": true },
+        { "option": "Kyrie Irving", "correct": false },
+        { "option": "Russell Westbrook", "correct": false }
+      ]
+    }
+  ]
+}
