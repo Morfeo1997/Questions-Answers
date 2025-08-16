@@ -41,9 +41,9 @@
       "question": "¿Quién lideró la independencia de Venezuela?",
       "options": [
         { "option": "José de San Martín", "correct": false },
-        { "option": "Simón Bolívar", "correct": true },
         { "option": "Miguel Hidalgo", "correct": false },
-        { "option": "Antonio José de Sucre", "correct": false }
+        { "option": "Antonio José de Sucre", "correct": false },
+        { "option": "Simón Bolívar", "correct": true }
       ]
     },
     {
