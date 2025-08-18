@@ -3,6 +3,8 @@ import { useState } from 'react'
 import Home from './Pages/Home'
 import HistoryGame from './Pages/HistoryChallenge'
 import ArtGame from './Pages/ArtChallenge'
+import MathGame from './Pages/MathChallenge'
+import SportsGame from './Pages/SportsChallenge'
 
 function App() {
 
@@ -14,10 +16,10 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/historia" element={<HistoryGame />} />
-            <Route path="/arte" element={<ArtGame />} />{/*
+            <Route path="/arte" element={<ArtGame />} />
             <Route path="/matematicas" element={<MathGame />} />
             <Route path="/deporte" element={<SportsGame />} />
-            */}
+            
           </Routes>
         </BrowserRouter>
       </div>

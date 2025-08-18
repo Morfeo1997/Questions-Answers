@@ -763,7 +763,7 @@
         { "option": "José Clemente Orozco", "correct": false },
         { "option": "David Alfaro Siqueiros", "correct": false },
         { "option": "Rufino Tamayo", "correct": false },
-        { "option": "Diego Rivera", "correct": true },
+        { "option": "Diego Rivera", "correct": true }
       ]
     },
     {

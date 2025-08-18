@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { AnimatePresence } from 'framer-motion';
-import Challenge from '../Data/MathData.json';
+import Challenge from '../Data/SportsData.json';
 import QuestionCard from '../components/QuestionCard.jsx';
 import ProgressBar from '../components/ProgressBar.jsx';
 import GameSummary from '../components/GameSummary.jsx';
 
-function MathChallenge() {
+function SportsChallenge() {
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [correctAnswers, setCorrectAnswers] = useState(0);
   const [isAnswered, setIsAnswered] = useState(false);
@@ -118,7 +118,7 @@ function MathChallenge() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-blue-500 via-cyan-600 to-cyan-800 flex flex-col items-center p-4 pt-8">
+    <div className="min-h-screen bg-gradient-to-b from-green-500 via-emerald-600 to-emerald-800 flex flex-col items-center p-4 pt-8">
       <div className="w-full max-w-2xl mb-8">
         <h1 className="text-3xl font-bold text-center text-white mb-2">
           {Challenge.title}
@@ -155,4 +155,4 @@ function MathChallenge() {
   );
 }
 
-export default MathChallenge;
+export default SportsChallenge;
