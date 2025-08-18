@@ -42,11 +42,11 @@ const Home = () => {
         <div className="max-w-7xl mx-auto  ">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
-              <div className="text-2xl font-bold text-white hover:text-blue-300 transition-colors cursor-pointer duration-500">
+              <div className="text-xl md:text-2xl font-bold text-white hover:text-blue-300 transition-colors cursor-pointer duration-500">
                 10 Preguntas
               </div>
             </div>
-            <div className="hidden md:block">
+            <div className="hidden ">
               <div className=" flex items-baseline">
                 <div className="text-white hover:text-blue-300 py-2 rounded-md text-2xl font-medium transition-colors cursor-pointer duration-500">
                   Ayuda
@@ -59,25 +59,25 @@ const Home = () => {
 
       {/* Main Content */}
       <main className="w-auto  py-12 overflow-x-hidden">
-        <div className="max-w-6xl mx-auto">
+        <div className="max-w-6xl whitespace-nowrap truncate ">
           {/* Header */}
           <div className="text-center mb-12">
-            <h1 className="text-5xl md:text-6xl font-bold text-white mb-4">
+            <h1 className="text-2xl md:text-6xl font-bold text-white mb-4">
               ¡Elige tu Categoría!
             </h1>
-            <p className="text-xl text-gray-300 max-w-2xl mx-auto">
+            <p className="hidden md:block text-lg text-gray-300 min-w-screen   ">
               Pon a prueba tus conocimientos en diferentes áreas y demuestra lo que sabes
             </p>
           </div>
 
           {/* Categories Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8  mx-auto">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:p-4 p-2 gap-8  mx-auto">
             {categories.map((category, index) => {
               const IconComponent = category.icon;
               return (
                 <div
                   key={category.name}
-                  className={`group relative overflow-hidden rounded-2xl bg-gradient-to-br ${category.color} ${category.hoverColor} p-8 shadow-2xl transform transition-all duration-300 hover:scale-105 hover:shadow-3xl cursor-pointer`}
+                  className={`group relative overflow-hidden w-80  sm:w-auto rounded-2xl bg-gradient-to-br ${category.color} ${category.hoverColor} p-8  transform transition-all duration-300 hover:scale-105 hover:shadow-3xl cursor-pointer`}
                   style={{
                     animationDelay: `${index * 0.1}s`
                   }}
@@ -85,7 +85,7 @@ const Home = () => {
                 >
                   <div className="absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                   
-                  <div className="relative z-10 flex flex-col items-center justify-center h-48 text-center">
+                  <div className="relative z-10 flex flex-col items-center justify-center h-40 md:h-48 text-center">
                     <div className="mb-4 p-4 bg-white/20 rounded-full backdrop-blur-sm group-hover:bg-white/30 transition-all duration-300">
                       <IconComponent size={48} className="text-white" />
                     </div>
@@ -94,7 +94,7 @@ const Home = () => {
                       {category.name}
                     </h2>
                     
-                    <div className="w-16 h-1 bg-white/40 rounded-full group-hover:w-24 group-hover:bg-white/60 transition-all duration-300"></div>
+                    <div className="w-6 h-1 bg-white/40 rounded-full group-hover:w-24 group-hover:bg-white/60 transition-all duration-300"></div>
                     
                     <p className="mt-4 text-white/80 opacity-0 group-hover:opacity-100 transition-opacity duration-300 transform translate-y-2 group-hover:translate-y-0">
                       ¡Haz clic para comenzar!
