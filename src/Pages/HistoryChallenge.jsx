@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { useNavigate } from "react-router-dom";
 import { AnimatePresence } from 'framer-motion';
 import Challenge from '../Data/HistoryData.json';
 import QuestionCard from '../components/QuestionCard.jsx';
@@ -6,6 +7,7 @@ import ProgressBar from '../components/ProgressBar.jsx';
 import GameSummary from '../components/GameSummary.jsx';
 
 function HistoryChallenge() {
+  const navigate = useNavigate();
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [correctAnswers, setCorrectAnswers] = useState(0);
   const [isAnswered, setIsAnswered] = useState(false);
@@ -150,6 +152,15 @@ function HistoryChallenge() {
         <p>Pregunta {currentQuestion + 1} de 10</p>
         <p>ID actual: {selectedQuestions[currentQuestion]?.id}</p>
         <p>IDs usados anteriormente: {usedIds.length}</p>
+      </div>
+
+      <div className='min-w-screen flex justify-center'>
+        <button
+          onClick={() => navigate("/")}
+          className="mt-6 px-6 py-3 bg-white text-amber-600 font-bold rounded-xl shadow-lg hover:bg-gray-200 transition"
+        >
+          Volver a Home
+        </button>
       </div>
     </div>
   );
