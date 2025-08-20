@@ -156,9 +156,9 @@ function SportsChallenge() {
       <div className='min-w-screen flex justify-center'>
         <button
           onClick={() => navigate("/")}
-          className="mt-6 px-6 py-3 bg-white text-amber-600 font-bold rounded-xl shadow-lg hover:bg-gray-200 transition"
+          className="mt-6 cursor-pointer px-16 py-3 bg-white text-green-600 text-xl font-bold rounded-xl shadow-lg hover:bg-green-200 hover:text-emerald-900 transition duration-300"
         >
-          Volver a Home
+          Volver
         </button>
       </div>
     </div>

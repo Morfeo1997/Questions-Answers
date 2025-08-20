@@ -4,10 +4,10 @@ function ProgressBar({ current, total, correct }) {
   return (
     <div className="w-full max-w-2xl mb-6">
       <div className="flex justify-between mb-2">
-        <span className="text-sm font-medium text-gray-900">
+        <span className="text-sm font-medium text-gray-950">
           Pregunta {current} de {total}
         </span>
-        <span className="text-sm font-medium text-green-700">
+        <span className="text-sm font-medium text-green-950">
           Correctas: {correct}
         </span>
       </div>

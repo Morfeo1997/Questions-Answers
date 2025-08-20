@@ -36,7 +36,7 @@ const Home = () => {
   ];
 
   return (
-    <div className="min-h-screen min-w-100 bg-gradient-to-b from-blue-950  to-purple-950 overflow-x-hidden">
+    <div className="min-h-screen min-w-screen bg-gradient-to-b from-blue-950  to-violet-950 overflow-x-hidden">
       {/* Navigation */}
       <nav className="w-full bg-blue-950  border-b border-white/10 overflow-x-hidden">
         <div className="max-w-7xl mx-auto  ">
@@ -58,11 +58,11 @@ const Home = () => {
       </nav>
 
       {/* Main Content */}
-      <main className="w-auto  py-12 overflow-x-hidden">
-        <div className="max-w-6xl whitespace-nowrap truncate ">
+      <main className="min-w-full  py-12 overflow-x-hidden">
+        <div className="min-w-screen p-2 md:px-16 md:py-8 overflow-hidden ">
           {/* Header */}
           <div className="text-center mb-12">
-            <h1 className="text-2xl md:text-6xl font-bold text-white mb-4">
+            <h1 className="text-2xl md:text-6xl p-0 font-bold text-white mb-4">
               ¡Elige tu Categoría!
             </h1>
             <p className="hidden md:block text-lg text-gray-300 min-w-screen   ">
@@ -111,6 +111,10 @@ const Home = () => {
 
         </div>
       </main>
+
+      <footer className='w-screen py-6  bg-violet-950 flex justify-center'>
+            <p className='text-white text-lg'>Hecho por: <a className='text-yellow-200 text-xl hover:text-yellow-400 transition-colors duration-300' href="https://gaston-gomez1997.netlify.app/" target="_blank" >Gastón Gómez</a></p>
+      </footer>
     </div>
   );
 };
