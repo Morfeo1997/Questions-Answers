@@ -505,6 +505,506 @@
         { "option": "Jared Leto", "correct": false },
         { "option": "Jack Nicholson", "correct": false }
       ]
+    },
+    {
+      "id": 151,
+      "question": "¿Quién interpretó a Jack en 'Titanic'?",
+      "options": [
+        { "option": "Brad Pitt", "correct": false },
+        { "option": "Matt Damon", "correct": false },
+        { "option": "Leonardo DiCaprio", "correct": true },
+        { "option": "Orlando Bloom", "correct": false }
+      ]
+    },
+    {
+      "id": 152,
+      "question": "¿Qué director es conocido como 'El Maestro del Suspenso'?",
+      "options": [
+        { "option": "Stanley Kubrick", "correct": false },
+        { "option": "Orson Welles", "correct": false },
+        { "option": "David Lynch", "correct": false },
+        { "option": "Alfred Hitchcock", "correct": true }
+      ]
+    },
+    {
+      "id": 153,
+      "question": "¿En qué película aparece el personaje de Jack Sparrow?",
+      "options": [
+        { "option": "Piratas del Caribe", "correct": true },
+        { "option": "Peter Pan", "correct": false },
+        { "option": "La Isla del Tesoro", "correct": false },
+        { "option": "Hook", "correct": false }
+      ]
+    },
+    {
+      "id": 154,
+      "question": "¿Quién dirigió 'La lista de Schindler'?",
+      "options": [
+        { "option": "Roman Polanski", "correct": false },
+        { "option": "Steven Spielberg", "correct": true },
+        { "option": "Martin Scorsese", "correct": false },
+        { "option": "Francis Ford Coppola", "correct": false }
+      ]
+    },
+    {
+      "id": 155,
+      "question": "¿Qué actriz interpretó a Hermione Granger en Harry Potter?",
+      "options": [
+        { "option": "Emma Stone", "correct": false },
+        { "option": "Natalie Portman", "correct": false },
+        { "option": "Emma Watson", "correct": true },
+        { "option": "Keira Knightley", "correct": false }
+      ]
+    },
+    {
+      "id": 156,
+      "question": "¿En qué ciudad se desarrolla la película 'El Padrino'?",
+      "options": [
+        { "option": "Chicago", "correct": false },
+        { "option": "Los Ángeles", "correct": false },
+        { "option": "Boston", "correct": false },
+        { "option": "Nueva York", "correct": true }
+      ]
+    },
+    {
+      "id": 157,
+      "question": "¿Qué película de ciencia ficción fue dirigida por Ridley Scott en 1982?",
+      "options": [
+        { "option": "Blade Runner", "correct": true },
+        { "option": "Alien", "correct": false },
+        { "option": "2001: Odisea del espacio", "correct": false },
+        { "option": "Terminator", "correct": false }
+      ]
+    },
+    {
+      "id": 158,
+      "question": "¿Quién fue el director de 'El Resplandor'?",
+      "options": [
+        { "option": "Brian De Palma", "correct": false },
+        { "option": "Stanley Kubrick", "correct": true },
+        { "option": "Francis Ford Coppola", "correct": false },
+        { "option": "David Cronenberg", "correct": false }
+      ]
+    },
+    {
+      "id": 159,
+      "question": "¿Qué película obtuvo el Oscar a Mejor Película en 2020?",
+      "options": [
+        { "option": "1917", "correct": false },
+        { "option": "Joker", "correct": false },
+        { "option": "Parásitos", "correct": true },
+        { "option": "Érase una vez en Hollywood", "correct": false }
+      ]
+    },
+    {
+      "id": 160,
+      "question": "¿Qué actor interpretó a Neo en la saga 'Matrix'?",
+      "options": [
+        { "option": "Laurence Fishburne", "correct": false },
+        { "option": "Johnny Depp", "correct": false },
+        { "option": "Nicolas Cage", "correct": false },
+        { "option": "Keanu Reeves", "correct": true }
+      ]
+    },
+    {
+      "id": 161,
+      "question": "¿Qué actor dio vida a Wolverine en la saga de X-Men?",
+      "options": [
+        { "option": "Hugh Jackman", "correct": true },
+        { "option": "Russell Crowe", "correct": false },
+        { "option": "Gerard Butler", "correct": false },
+        { "option": "Chris Hemsworth", "correct": false }
+      ]
+    },
+    {
+      "id": 162,
+      "question": "¿En qué película animada aparece el personaje de Shrek?",
+      "options": [
+        { "option": "Monsters Inc.", "correct": false },
+        { "option": "Shrek", "correct": true },
+        { "option": "Madagascar", "correct": false },
+        { "option": "Kung Fu Panda", "correct": false }
+      ]
+    },
+    {
+      "id": 163,
+      "question": "¿Qué director filmó 'Inception' (El Origen)?",
+      "options": [
+        { "option": "James Cameron", "correct": false },
+        { "option": "Ridley Scott", "correct": false },
+        { "option": "Christopher Nolan", "correct": true },
+        { "option": "Michael Bay", "correct": false }
+      ]
+    },
+    {
+      "id": 164,
+      "question": "¿Cuál es la primera película del Universo Cinematográfico de Marvel (MCU)?",
+      "options": [
+        { "option": "El Increíble Hulk", "correct": false },
+        { "option": "Capitán América: El primer vengador", "correct": false },
+        { "option": "Thor", "correct": false },
+        { "option": "Iron Man", "correct": true }
+      ]
+    },
+    {
+      "id": 165,
+      "question": "¿Quién interpretó a Mary Poppins en la película original de 1964?",
+      "options": [
+        { "option": "Julie Andrews", "correct": true },
+        { "option": "Audrey Hepburn", "correct": false },
+        { "option": "Judy Garland", "correct": false },
+        { "option": "Doris Day", "correct": false }
+      ]
+    },
+    {
+      "id": 166,
+      "question": "¿Qué película popularizó la canción 'Let It Go'?",
+      "options": [
+        { "option": "Encanto", "correct": false },
+        { "option": "Frozen", "correct": true },
+        { "option": "Moana", "correct": false },
+        { "option": "Brave", "correct": false }
+      ]
+    },
+    {
+      "id": 167,
+      "question": "¿Qué actor interpretó a 'El Gladiador' en la película de Ridley Scott?",
+      "options": [
+        { "option": "Mel Gibson", "correct": false },
+        { "option": "Gerard Butler", "correct": false },
+        { "option": "Russell Crowe", "correct": true },
+        { "option": "Sean Bean", "correct": false }
+      ]
+    },
+    {
+      "id": 168,
+      "question": "¿En qué película aparece el famoso villano Darth Vader?",
+      "options": [
+        { "option": "Star Trek", "correct": false },
+        { "option": "Guardians of the Galaxy", "correct": false },
+        { "option": "Battlestar Galactica", "correct": false },
+        { "option": "Star Wars", "correct": true }
+      ]
+    },
+    {
+      "id": 169,
+      "question": "¿Quién dirigió la película 'Titanic'?",
+      "options": [
+        { "option": "James Cameron", "correct": true },
+        { "option": "Steven Spielberg", "correct": false },
+        { "option": "Ron Howard", "correct": false },
+        { "option": "Robert Zemeckis", "correct": false }
+      ]
+    },
+    {
+      "id": 170,
+      "question": "¿Qué actriz protagonizó la saga 'Los Juegos del Hambre' como Katniss Everdeen?",
+      "options": [
+        { "option": "Kristen Stewart", "correct": false },
+        { "option": "Jennifer Lawrence", "correct": true },
+        { "option": "Emma Stone", "correct": false },
+        { "option": "Scarlett Johansson", "correct": false }
+      ]
+    },
+    {
+      "id": 171,
+      "question": "¿Cuál es la película más taquillera de la historia (sin ajustar inflación)?",
+      "options": [
+        { "option": "Avengers: Endgame", "correct": false },
+        { "option": "Titanic", "correct": false },
+        { "option": "Avatar", "correct": true },
+        { "option": "Star Wars: El despertar de la fuerza", "correct": false }
+      ]
+    },
+    {
+      "id": 172,
+      "question": "¿Qué actor interpretó a Forrest Gump?",
+      "options": [
+        { "option": "Robin Williams", "correct": false },
+        { "option": "Kevin Costner", "correct": false },
+        { "option": "Richard Gere", "correct": false },
+        { "option": "Tom Hanks", "correct": true }
+      ]
+    },
+    {
+      "id": 173,
+      "question": "¿Quién fue el director de 'Pulp Fiction'?",
+      "options": [
+        { "option": "Quentin Tarantino", "correct": true },
+        { "option": "Robert Rodriguez", "correct": false },
+        { "option": "Guy Ritchie", "correct": false },
+        { "option": "Francis Ford Coppola", "correct": false }
+      ]
+    },
+    {
+      "id": 174,
+      "question": "¿Qué película de Pixar fue la primera en estrenarse?",
+      "options": [
+        { "option": "Bichos", "correct": false },
+        { "option": "Toy Story", "correct": true },
+        { "option": "Buscando a Nemo", "correct": false },
+        { "option": "Los Increíbles", "correct": false }
+      ]
+    },
+    {
+      "id": 175,
+      "question": "¿Qué actor interpretó al Joker en 'The Dark Knight'?",
+      "options": [
+        { "option": "Joaquin Phoenix", "correct": false },
+        { "option": "Jared Leto", "correct": false },
+        { "option": "Heath Ledger", "correct": true },
+        { "option": "Jack Nicholson", "correct": false }
+      ]
+    },
+    {
+      "id": 176,
+      "question": "¿Quién dirigió la trilogía original de 'El Señor de los Anillos'?",
+      "options": [
+        { "option": "George Lucas", "correct": false },
+        { "option": "Ridley Scott", "correct": false },
+        { "option": "James Cameron", "correct": false },
+        { "option": "Peter Jackson", "correct": true }
+      ]
+    },
+    {
+      "id": 177,
+      "question": "¿Cuál es la nacionalidad del director Guillermo del Toro?",
+      "options": [
+        { "option": "Mexicana", "correct": true },
+        { "option": "Española", "correct": false },
+        { "option": "Argentina", "correct": false },
+        { "option": "Italiana", "correct": false }
+      ]
+    },
+    {
+      "id": 178,
+      "question": "¿Qué actriz protagonizó 'Mujer bonita' junto a Richard Gere?",
+      "options": [
+        { "option": "Meg Ryan", "correct": false },
+        { "option": "Julia Roberts", "correct": true },
+        { "option": "Sandra Bullock", "correct": false },
+        { "option": "Nicole Kidman", "correct": false }
+      ]
+    },
+    {
+      "id": 179,
+      "question": "¿En qué película de Disney aparece el personaje de Simba?",
+      "options": [
+        { "option": "Tarzán", "correct": false },
+        { "option": "Hércules", "correct": false },
+        { "option": "El Rey León", "correct": true },
+        { "option": "Aladdín", "correct": false }
+      ]
+    },
+    {
+      "id": 180,
+      "question": "¿Quién interpretó a James Bond en 'Casino Royale' (2006)?",
+      "options": [
+        { "option": "Pierce Brosnan", "correct": false },
+        { "option": "Sean Connery", "correct": false },
+        { "option": "Roger Moore", "correct": false },
+        { "option": "Daniel Craig", "correct": true }
+      ]
+    },
+    {
+      "id": 181,
+      "question": "¿Quién interpretó a Jack en 'Titanic'?",
+      "options": [
+        { "option": "Leonardo DiCaprio", "correct": true },
+        { "option": "Matt Damon", "correct": false },
+        { "option": "Brad Pitt", "correct": false },
+        { "option": "Keanu Reeves", "correct": false }
+      ]
+    },
+    {
+      "id": 182,
+      "question": "¿En qué película animada aparece el robot WALL·E?",
+      "options": [
+        { "option": "Robots", "correct": false },
+        { "option": "WALL·E", "correct": true },
+        { "option": "Big Hero 6", "correct": false },
+        { "option": "Astro Boy", "correct": false }
+      ]
+    },
+    {
+      "id": 183,
+      "question": "¿Qué director ganó el Óscar por 'La forma del agua'?",
+      "options": [
+        { "option": "Alejandro G. Iñárritu", "correct": false },
+        { "option": "Alfonso Cuarón", "correct": false },
+        { "option": "Guillermo del Toro", "correct": true },
+        { "option": "Bong Joon-ho", "correct": false }
+      ]
+    },
+    {
+      "id": 184,
+      "question": "¿Qué película fue la primera en ganar el Óscar a Mejor Película?",
+      "options": [
+        { "option": "Lo que el viento se llevó", "correct": false },
+        { "option": "Casablanca", "correct": false },
+        { "option": "Ciudadano Kane", "correct": false },
+        { "option": "Wings", "correct": true }
+      ]
+    },
+    {
+      "id": 185,
+      "question": "¿Qué actriz protagonizó 'El Cisne Negro'?",
+      "options": [
+        { "option": "Natalie Portman", "correct": true },
+        { "option": "Mila Kunis", "correct": false },
+        { "option": "Anne Hathaway", "correct": false },
+        { "option": "Angelina Jolie", "correct": false }
+      ]
+    },
+    {
+      "id": 186,
+      "question": "¿Quién dirigió 'La lista de Schindler'?",
+      "options": [
+        { "option": "Francis Ford Coppola", "correct": false },
+        { "option": "Steven Spielberg", "correct": true },
+        { "option": "Stanley Kubrick", "correct": false },
+        { "option": "Clint Eastwood", "correct": false }
+      ]
+    },
+    {
+      "id": 187,
+      "question": "¿Qué personaje pronuncia la frase 'Say hello to my little friend'?",
+      "options": [
+        { "option": "Michael Corleone", "correct": false },
+        { "option": "Vito Corleone", "correct": false },
+        { "option": "Tony Montana", "correct": true },
+        { "option": "Henry Hill", "correct": false }
+      ]
+    },
+    {
+      "id": 188,
+      "question": "¿En qué país se desarrolla la película 'El laberinto del fauno'?",
+      "options": [
+        { "option": "México", "correct": false },
+        { "option": "Francia", "correct": false },
+        { "option": "Italia", "correct": false },
+        { "option": "España", "correct": true }
+      ]
+    },
+    {
+      "id": 189,
+      "question": "¿Quién protagonizó 'El Show de Truman'?",
+      "options": [
+        { "option": "Jim Carrey", "correct": true },
+        { "option": "Robin Williams", "correct": false },
+        { "option": "Tom Hanks", "correct": false },
+        { "option": "Nicolas Cage", "correct": false }
+      ]
+    },
+    {
+      "id": 190,
+      "question": "¿Qué película surcoreana ganó el Óscar a Mejor Película en 2020?",
+      "options": [
+        { "option": "Oldboy", "correct": false },
+        { "option": "Parasite", "correct": true },
+        { "option": "The Host", "correct": false },
+        { "option": "Burning", "correct": false }
+      ]
+    },
+    {
+      "id": 191,
+      "question": "¿Quién interpretó a Hannibal Lecter en 'El silencio de los inocentes'?",
+      "options": [
+        { "option": "Marlon Brando", "correct": false },
+        { "option": "Jack Nicholson", "correct": false },
+        { "option": "Anthony Hopkins", "correct": true },
+        { "option": "Al Pacino", "correct": false }
+      ]
+    },
+    {
+      "id": 192,
+      "question": "¿Qué película popularizó la frase 'Houston, tenemos un problema'?",
+      "options": [
+        { "option": "Armageddon", "correct": false },
+        { "option": "Interestelar", "correct": false },
+        { "option": "Gravity", "correct": false },
+        { "option": "Apollo 13", "correct": true }
+      ]
+    },
+    {
+      "id": 193,
+      "question": "¿Quién fue la protagonista de 'La La Land' junto a Ryan Gosling?",
+      "options": [
+        { "option": "Emma Stone", "correct": true },
+        { "option": "Anne Hathaway", "correct": false },
+        { "option": "Scarlett Johansson", "correct": false },
+        { "option": "Jennifer Lawrence", "correct": false }
+      ]
+    },
+    {
+      "id": 194,
+      "question": "¿En qué ciudad se desarrolla la película 'Amélie'?",
+      "options": [
+        { "option": "Roma", "correct": false },
+        { "option": "París", "correct": true },
+        { "option": "Barcelona", "correct": false },
+        { "option": "Berlín", "correct": false }
+      ]
+    },
+    {
+      "id": 195,
+      "question": "¿Qué actor interpretó a Jack Sparrow en 'Piratas del Caribe'?",
+      "options": [
+        { "option": "Orlando Bloom", "correct": false },
+        { "option": "Hugh Jackman", "correct": false },
+        { "option": "Johnny Depp", "correct": true },
+        { "option": "Colin Farrell", "correct": false }
+      ]
+    },
+    {
+      "id": 196,
+      "question": "¿Quién dirigió '2001: Odisea en el espacio'?",
+      "options": [
+        { "option": "Ridley Scott", "correct": false },
+        { "option": "James Cameron", "correct": false },
+        { "option": "Christopher Nolan", "correct": false },
+        { "option": "Stanley Kubrick", "correct": true }
+      ]
+    },
+    {
+      "id": 197,
+      "question": "¿Qué actor ganó un Óscar por su papel en 'El Renacido'?",
+      "options": [
+        { "option": "Leonardo DiCaprio", "correct": true },
+        { "option": "Tom Hardy", "correct": false },
+        { "option": "Christian Bale", "correct": false },
+        { "option": "Matt Damon", "correct": false }
+      ]
+    },
+    {
+      "id": 198,
+      "question": "¿En qué película de ciencia ficción aparece el androide Terminator?",
+      "options": [
+        { "option": "Robocop", "correct": false },
+        { "option": "Terminator", "correct": true },
+        { "option": "Blade Runner", "correct": false },
+        { "option": "Matrix", "correct": false }
+      ]
+    },
+    {
+      "id": 199,
+      "question": "¿Qué actriz protagonizó 'Kill Bill'?",
+      "options": [
+        { "option": "Lucy Liu", "correct": false },
+        { "option": "Charlize Theron", "correct": false },
+        { "option": "Uma Thurman", "correct": true },
+        { "option": "Cate Blanchett", "correct": false }
+      ]
+    },
+    {
+      "id": 200,
+      "question": "¿Qué película incluye la famosa frase 'Here's looking at you, kid'?",
+      "options": [
+        { "option": "Lo que el viento se llevó", "correct": false },
+        { "option": "Ciudadano Kane", "correct": false },
+        { "option": "Rebelde sin causa", "correct": false },
+        { "option": "Casablanca", "correct": true }
+      ]
     }
   ]
 }
