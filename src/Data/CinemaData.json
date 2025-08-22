@@ -1,0 +1,510 @@
+{
+  "title": "Reto de Cine",
+  "category": "Cine",
+  "autor": "Gastón Gómez",
+  "description": "Pon a prueba tus conocimientos sobre películas, directores, actores y la historia del séptimo arte.",
+  "transitions": "Desaparecer/Fundido",
+  "dificulty": "Intermedio",
+  "game": [
+    {
+      "id": 101,
+      "question": "¿Quién dirigió la película 'Jurassic Park' en 1993?",
+      "options": [
+        { "option": "Steven Spielberg", "correct": true },
+        { "option": "James Cameron", "correct": false },
+        { "option": "Ridley Scott", "correct": false },
+        { "option": "George Lucas", "correct": false }
+      ]
+    },
+    {
+      "id": 102,
+      "question": "¿Qué película ganó el Oscar a Mejor Película en 1994?",
+      "options": [
+        { "option": "Pulp Fiction", "correct": false },
+        { "option": "Forrest Gump", "correct": true },
+        { "option": "The Shawshank Redemption", "correct": false },
+        { "option": "Braveheart", "correct": false }
+      ]
+    },
+    {
+      "id": 103,
+      "question": "¿Cuál es el nombre del villano en 'El Rey León'?",
+      "options": [
+        { "option": "Mufasa", "correct": false },
+        { "option": "Shere Khan", "correct": false },
+        { "option": "Scar", "correct": true },
+        { "option": "Jafar", "correct": false }
+      ]
+    },
+    {
+      "id": 104,
+      "question": "¿Quién interpretó a Jack en 'Titanic'?",
+      "options": [
+        { "option": "Brad Pitt", "correct": false },
+        { "option": "Matt Damon", "correct": false },
+        { "option": "Johnny Depp", "correct": false },
+        { "option": "Leonardo DiCaprio", "correct": true }
+      ]
+    },
+    {
+      "id": 105,
+      "question": "¿Cuál es la película más taquillera de la historia (sin ajustar inflación)?",
+      "options": [
+        { "option": "Avatar", "correct": true },
+        { "option": "Avengers: Endgame", "correct": false },
+        { "option": "Titanic", "correct": false },
+        { "option": "Star Wars: The Force Awakens", "correct": false }
+      ]
+    },
+    {
+      "id": 106,
+      "question": "¿Qué actor dio vida a 'Rocky Balboa'?",
+      "options": [
+        { "option": "Arnold Schwarzenegger", "correct": false },
+        { "option": "Sylvester Stallone", "correct": true },
+        { "option": "Jean-Claude Van Damme", "correct": false },
+        { "option": "Bruce Willis", "correct": false }
+      ]
+    },
+    {
+      "id": 107,
+      "question": "¿Qué película de Pixar fue la primera en estrenarse?",
+      "options": [
+        { "option": "Bichos", "correct": false },
+        { "option": "Buscando a Nemo", "correct": false },
+        { "option": "Toy Story", "correct": true },
+        { "option": "Monsters Inc.", "correct": false }
+      ]
+    },
+    {
+      "id": 108,
+      "question": "¿Quién dirigió la trilogía original de 'El Señor de los Anillos'?",
+      "options": [
+        { "option": "Christopher Nolan", "correct": false },
+        { "option": "Sam Raimi", "correct": false },
+        { "option": "Guillermo del Toro", "correct": false },
+        { "option": "Peter Jackson", "correct": true }
+      ]
+    },
+    {
+      "id": 109,
+      "question": "¿Qué actriz protagonizó 'Mujer Bonita' junto a Richard Gere?",
+      "options": [
+        { "option": "Julia Roberts", "correct": true },
+        { "option": "Sandra Bullock", "correct": false },
+        { "option": "Meg Ryan", "correct": false },
+        { "option": "Nicole Kidman", "correct": false }
+      ]
+    },
+    {
+      "id": 110,
+      "question": "¿Qué película popularizó la frase 'Yo soy tu padre'?",
+      "options": [
+        { "option": "Star Wars: Una Nueva Esperanza", "correct": false },
+        { "option": "Star Wars: El Imperio Contraataca", "correct": true },
+        { "option": "Star Wars: El Retorno del Jedi", "correct": false },
+        { "option": "Rogue One: Una Historia de Star Wars", "correct": false }
+      ]
+    },
+    {
+      "id": 111,
+      "question": "¿Qué director es conocido por la película 'Psicosis'?",
+      "options": [
+        { "option": "Stanley Kubrick", "correct": false },
+        { "option": "Francis Ford Coppola", "correct": false },
+        { "option": "Alfred Hitchcock", "correct": true },
+        { "option": "Orson Welles", "correct": false }
+      ]
+    },
+    {
+      "id": 112,
+      "question": "¿Qué actor interpretó al Joker en 'El Caballero de la Noche' (2008)?",
+      "options": [
+        { "option": "Joaquin Phoenix", "correct": false },
+        { "option": "Jack Nicholson", "correct": false },
+        { "option": "Jared Leto", "correct": false },
+        { "option": "Heath Ledger", "correct": true }
+      ]
+    },
+    {
+      "id": 113,
+      "question": "¿En qué película aparece el personaje 'Forrest Gump'?",
+      "options": [
+        { "option": "Forrest Gump", "correct": true },
+        { "option": "Philadelphia", "correct": false },
+        { "option": "El Náufrago", "correct": false },
+        { "option": "Rescatando al Soldado Ryan", "correct": false }
+      ]
+    },
+    {
+      "id": 114,
+      "question": "¿Qué película fue la primera en ganar el Oscar a Mejor Película?",
+      "options": [
+        { "option": "Lo que el viento se llevó", "correct": false },
+        { "option": "Wings", "correct": true },
+        { "option": "Casablanca", "correct": false },
+        { "option": "El Padrino", "correct": false }
+      ]
+    },
+    {
+      "id": 115,
+      "question": "¿Qué actriz ganó un Oscar por su papel en 'Black Swan'?",
+      "options": [
+        { "option": "Mila Kunis", "correct": false },
+        { "option": "Charlize Theron", "correct": false },
+        { "option": "Natalie Portman", "correct": true },
+        { "option": "Angelina Jolie", "correct": false }
+      ]
+    },
+    {
+      "id": 116,
+      "question": "¿Qué director es famoso por la saga 'El Caballero Oscuro'?",
+      "options": [
+        { "option": "Tim Burton", "correct": false },
+        { "option": "Zack Snyder", "correct": false },
+        { "option": "Joel Schumacher", "correct": false },
+        { "option": "Christopher Nolan", "correct": true }
+      ]
+    },
+    {
+      "id": 117,
+      "question": "¿Qué película introdujo a los personajes Woody y Buzz Lightyear?",
+      "options": [
+        { "option": "Toy Story", "correct": true },
+        { "option": "Monsters Inc.", "correct": false },
+        { "option": "Cars", "correct": false },
+        { "option": "Los Increíbles", "correct": false }
+      ]
+    },
+    {
+      "id": 118,
+      "question": "¿Qué actor interpretó a 'El Terminator'?",
+      "options": [
+        { "option": "Sylvester Stallone", "correct": false },
+        { "option": "Arnold Schwarzenegger", "correct": true },
+        { "option": "Bruce Willis", "correct": false },
+        { "option": "Jean-Claude Van Damme", "correct": false }
+      ]
+    },
+    {
+      "id": 119,
+      "question": "¿Qué película popularizó la frase 'Houston, tenemos un problema'?",
+      "options": [
+        { "option": "Interestelar", "correct": false },
+        { "option": "Gravedad", "correct": false },
+        { "option": "Apollo 13", "correct": true },
+        { "option": "2001: Una Odisea del Espacio", "correct": false }
+      ]
+    },
+    {
+      "id": 120,
+      "question": "¿Quién protagonizó 'Gladiador' en el papel de Máximo Décimo Meridio?",
+      "options": [
+        { "option": "Mel Gibson", "correct": false },
+        { "option": "Gerard Butler", "correct": false },
+        { "option": "Hugh Jackman", "correct": false },
+        { "option": "Russell Crowe", "correct": true }
+      ]
+    },
+    {
+      "id": 121,
+      "question": "¿Qué director es responsable de la película 'La lista de Schindler'?",
+      "options": [
+        { "option": "Steven Spielberg", "correct": true },
+        { "option": "Martin Scorsese", "correct": false },
+        { "option": "Roman Polanski", "correct": false },
+        { "option": "Ridley Scott", "correct": false }
+      ]
+    },
+    {
+      "id": 122,
+      "question": "¿En qué ciudad se desarrolla la mayor parte de la película 'El Padrino'?",
+      "options": [
+        { "option": "Chicago", "correct": false },
+        { "option": "Nueva York", "correct": true },
+        { "option": "Los Ángeles", "correct": false },
+        { "option": "Miami", "correct": false }
+      ]
+    },
+    {
+      "id": 123,
+      "question": "¿Quién interpretó a Jack Sparrow en 'Piratas del Caribe'?",
+      "options": [
+        { "option": "Orlando Bloom", "correct": false },
+        { "option": "Hugh Jackman", "correct": false },
+        { "option": "Johnny Depp", "correct": true },
+        { "option": "Colin Farrell", "correct": false }
+      ]
+    },
+    {
+      "id": 124,
+      "question": "¿Qué película de 1999 fue famosa por la frase 'En Matrix nada es lo que parece'?",
+      "options": [
+        { "option": "El Club de la Pelea", "correct": false },
+        { "option": "Inception", "correct": false },
+        { "option": "Minority Report", "correct": false },
+        { "option": "Matrix", "correct": true }
+      ]
+    },
+    {
+      "id": 125,
+      "question": "¿Quién dirigió la película 'Inception'?",
+      "options": [
+        { "option": "Christopher Nolan", "correct": true },
+        { "option": "David Fincher", "correct": false },
+        { "option": "James Cameron", "correct": false },
+        { "option": "Michael Bay", "correct": false }
+      ]
+    },
+    {
+      "id": 126,
+      "question": "¿Qué película ganó el Oscar a Mejor Película en 2020?",
+      "options": [
+        { "option": "1917", "correct": false },
+        { "option": "Parásitos", "correct": true },
+        { "option": "Joker", "correct": false },
+        { "option": "Érase una vez en Hollywood", "correct": false }
+      ]
+    },
+    {
+      "id": 127,
+      "question": "¿Qué actriz protagonizó 'El diario de una princesa'?",
+      "options": [
+        { "option": "Julia Roberts", "correct": false },
+        { "option": "Reese Witherspoon", "correct": false },
+        { "option": "Anne Hathaway", "correct": true },
+        { "option": "Sandra Bullock", "correct": false }
+      ]
+    },
+    {
+      "id": 128,
+      "question": "¿Qué película fue la primera de Marvel en superar los 1000 millones de dólares en taquilla?",
+      "options": [
+        { "option": "Iron Man", "correct": false },
+        { "option": "Black Panther", "correct": false },
+        { "option": "Captain America: Civil War", "correct": false },
+        { "option": "The Avengers", "correct": true }
+      ]
+    },
+    {
+      "id": 129,
+      "question": "¿Qué actor interpretó a Neo en 'Matrix'?",
+      "options": [
+        { "option": "Keanu Reeves", "correct": true },
+        { "option": "Laurence Fishburne", "correct": false },
+        { "option": "Tom Cruise", "correct": false },
+        { "option": "Matt Damon", "correct": false }
+      ]
+    },
+    {
+      "id": 130,
+      "question": "¿Qué película animada cuenta la historia de dos hermanas llamadas Elsa y Anna?",
+      "options": [
+        { "option": "Enredados", "correct": false },
+        { "option": "Frozen", "correct": true },
+        { "option": "Valiente", "correct": false },
+        { "option": "Moana", "correct": false }
+      ]
+    },
+    {
+      "id": 131,
+      "question": "¿Qué actor interpretó a Wolverine en la saga de X-Men?",
+      "options": [
+        { "option": "Chris Hemsworth", "correct": false },
+        { "option": "Ryan Reynolds", "correct": false },
+        { "option": "Hugh Jackman", "correct": true },
+        { "option": "Chris Evans", "correct": false }
+      ]
+    },
+    {
+      "id": 132,
+      "question": "¿Qué película animada de Pixar está ambientada en el Día de los Muertos en México?",
+      "options": [
+        { "option": "Encanto", "correct": false },
+        { "option": "Vivo", "correct": false },
+        { "option": "El Libro de la Vida", "correct": false },
+        { "option": "Coco", "correct": true }
+      ]
+    },
+    {
+      "id": 133,
+      "question": "¿Qué famoso musical presenta a los personajes Danny y Sandy?",
+      "options": [
+        { "option": "Grease", "correct": true },
+        { "option": "Mamma Mia!", "correct": false },
+        { "option": "La La Land", "correct": false },
+        { "option": "West Side Story", "correct": false }
+      ]
+    },
+    {
+      "id": 134,
+      "question": "¿Qué actor ganó un Oscar por su papel en 'El Renacido'?",
+      "options": [
+        { "option": "Tom Hardy", "correct": false },
+        { "option": "Leonardo DiCaprio", "correct": true },
+        { "option": "Brad Pitt", "correct": false },
+        { "option": "Christian Bale", "correct": false }
+      ]
+    },
+    {
+      "id": 135,
+      "question": "¿Qué película popularizó la frase 'Que la fuerza te acompañe'?",
+      "options": [
+        { "option": "Star Trek", "correct": false },
+        { "option": "El Señor de los Anillos", "correct": false },
+        { "option": "Star Wars", "correct": true },
+        { "option": "Dune", "correct": false }
+      ]
+    },
+    {
+      "id": 136,
+      "question": "¿Quién dirigió la película 'Titanic'?",
+      "options": [
+        { "option": "Steven Spielberg", "correct": false },
+        { "option": "Ron Howard", "correct": false },
+        { "option": "Robert Zemeckis", "correct": false },
+        { "option": "James Cameron", "correct": true }
+      ]
+    },
+    {
+      "id": 137,
+      "question": "¿Qué actor interpretó a Deadpool?",
+      "options": [
+        { "option": "Ryan Reynolds", "correct": true },
+        { "option": "Chris Pratt", "correct": false },
+        { "option": "Mark Ruffalo", "correct": false },
+        { "option": "Andrew Garfield", "correct": false }
+      ]
+    },
+    {
+      "id": 138,
+      "question": "¿Qué película animada cuenta con un ogro verde como protagonista?",
+      "options": [
+        { "option": "Ralph el Demoledor", "correct": false },
+        { "option": "Shrek", "correct": true },
+        { "option": "Madagascar", "correct": false },
+        { "option": "Kung Fu Panda", "correct": false }
+      ]
+    },
+    {
+      "id": 139,
+      "question": "¿Qué película fue protagonizada por Will Smith y cuenta la historia de un padre luchando por salir adelante con su hijo?",
+      "options": [
+        { "option": "Soy Leyenda", "correct": false },
+        { "option": "Hombres de Negro", "correct": false },
+        { "option": "En busca de la felicidad", "correct": true },
+        { "option": "Ali", "correct": false }
+      ]
+    },
+    {
+      "id": 140,
+      "question": "¿Qué actriz protagonizó la saga de 'Los Juegos del Hambre' como Katniss Everdeen?",
+      "options": [
+        { "option": "Emma Watson", "correct": false },
+        { "option": "Scarlett Johansson", "correct": false },
+        { "option": "Kristen Stewart", "correct": false },
+        { "option": "Jennifer Lawrence", "correct": true }
+      ]
+    },
+    {
+      "id": 141,
+      "question": "¿Qué director es responsable de la trilogía de 'El Señor de los Anillos'?",
+      "options": [
+        { "option": "Peter Jackson", "correct": true },
+        { "option": "George Lucas", "correct": false },
+        { "option": "Steven Spielberg", "correct": false },
+        { "option": "Ridley Scott", "correct": false }
+      ]
+    },
+    {
+      "id": 142,
+      "question": "¿En qué película de Disney aparece el personaje Simba?",
+      "options": [
+        { "option": "Tarzán", "correct": false },
+        { "option": "El Rey León", "correct": true },
+        { "option": "Aladdín", "correct": false },
+        { "option": "Hércules", "correct": false }
+      ]
+    },
+    {
+      "id": 143,
+      "question": "¿Qué actor interpretó a 'Forrest Gump'?",
+      "options": [
+        { "option": "Robin Williams", "correct": false },
+        { "option": "Kevin Costner", "correct": false },
+        { "option": "Tom Hanks", "correct": true },
+        { "option": "John Travolta", "correct": false }
+      ]
+    },
+    {
+      "id": 144,
+      "question": "¿Qué película popularizó la frase 'Houston, tenemos un problema'?",
+      "options": [
+        { "option": "Armageddon", "correct": false },
+        { "option": "Gravedad", "correct": false },
+        { "option": "Interestelar", "correct": false },
+        { "option": "Apolo 13", "correct": true }
+      ]
+    },
+    {
+      "id": 145,
+      "question": "¿Qué película cuenta la historia de un robot llamado Wall-E?",
+      "options": [
+        { "option": "Wall-E", "correct": true },
+        { "option": "Robots", "correct": false },
+        { "option": "Big Hero 6", "correct": false },
+        { "option": "Bolt", "correct": false }
+      ]
+    },
+    {
+      "id": 146,
+      "question": "¿Qué actriz protagonizó 'Mujer bonita' junto a Richard Gere?",
+      "options": [
+        { "option": "Meg Ryan", "correct": false },
+        { "option": "Julia Roberts", "correct": true },
+        { "option": "Demi Moore", "correct": false },
+        { "option": "Michelle Pfeiffer", "correct": false }
+      ]
+    },
+    {
+      "id": 147,
+      "question": "¿Qué película animada presenta a un pez payaso llamado Marlin buscando a su hijo?",
+      "options": [
+        { "option": "Shark Tale", "correct": false },
+        { "option": "Happy Feet", "correct": false },
+        { "option": "Buscando a Nemo", "correct": true },
+        { "option": "Madagascar", "correct": false }
+      ]
+    },
+    {
+      "id": 148,
+      "question": "¿Quién dirigió 'Pulp Fiction'?",
+      "options": [
+        { "option": "Guy Ritchie", "correct": false },
+        { "option": "Robert Rodríguez", "correct": false },
+        { "option": "Francis Ford Coppola", "correct": false },
+        { "option": "Quentin Tarantino", "correct": true }
+      ]
+    },
+    {
+      "id": 149,
+      "question": "¿Qué película de Pixar tiene como protagonistas a emociones dentro de la mente de una niña?",
+      "options": [
+        { "option": "Intensamente", "correct": true },
+        { "option": "Soul", "correct": false },
+        { "option": "Del revés", "correct": false },
+        { "option": "Onward", "correct": false }
+      ]
+    },
+    {
+      "id": 150,
+      "question": "¿Qué actor interpretó al Joker en 'El Caballero de la Noche' (2008)?",
+      "options": [
+        { "option": "Joaquin Phoenix", "correct": false },
+        { "option": "Heath Ledger", "correct": true },
+        { "option": "Jared Leto", "correct": false },
+        { "option": "Jack Nicholson", "correct": false }
+      ]
+    }
+  ]
+}
