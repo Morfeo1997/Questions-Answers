@@ -22,7 +22,7 @@ function App() {
             <Route path="/matematicas" element={<MathGame />} />
             <Route path="/deporte" element={<SportsGame />} />
             <Route path="/cine" element={<CinemaGame />} />
-            <Route path="/music" element={<MusicGame />} />
+            <Route path="/musica" element={<MusicGame />} />
             
           </Routes>
         </BrowserRouter>
