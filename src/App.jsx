@@ -5,6 +5,8 @@ import HistoryGame from './Pages/HistoryChallenge'
 import ArtGame from './Pages/ArtChallenge'
 import MathGame from './Pages/MathChallenge'
 import SportsGame from './Pages/SportsChallenge'
+import CinemaGame from './Pages/CinemaChallenge'
+import MusicGame from './Pages/MusicChallenge'
 
 function App() {
 
@@ -19,6 +21,8 @@ function App() {
             <Route path="/arte" element={<ArtGame />} />
             <Route path="/matematicas" element={<MathGame />} />
             <Route path="/deporte" element={<SportsGame />} />
+            <Route path="/cine" element={<CinemaGame />} />
+            <Route path="/music" element={<MusicGame />} />
             
           </Routes>
         </BrowserRouter>

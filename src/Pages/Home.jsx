@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Palette, Calculator, Trophy } from 'lucide-react';
+import { BookOpen, Palette, Calculator, Trophy, Clapperboard, Music } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
 const Home = () => {
@@ -32,11 +32,25 @@ const Home = () => {
       path: '/deporte',
       color: 'from-green-500 to-emerald-600',
       hoverColor: 'hover:from-green-600 hover:to-emerald-700'
+    },
+    {
+      name: 'Cine',
+      icon: Clapperboard,
+      path: '/cine',
+      color: 'from-red-500 to-rose-600',
+      hoverColor: 'hover:from-red-600 to-rose-700 '
+    },
+        {
+      name: 'Musica',
+      icon: Music,
+      path: '/musica',
+      color: 'from-yellow-500 to-amber-600',
+      hoverColor: 'hover:from-yellow-600 to-amber-700'
     }
   ];
 
   return (
-    <div className="min-h-screen min-w-screen bg-gradient-to-b from-blue-950  to-violet-950 overflow-x-hidden">
+    <div className="min-h-screen bg- min-w-screen bg-gradient-to-b from-blue-950  to-violet-950 overflow-x-hidden">
       {/* Navigation */}
       <nav className="w-full bg-blue-950  border-b border-white/10 overflow-x-hidden">
         <div className="max-w-7xl mx-auto  ">
