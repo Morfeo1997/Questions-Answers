@@ -505,6 +505,506 @@
         { "option": "Cajón", "correct": false },
         { "option": "Tambor de acero", "correct": false }
       ]
+    },
+    {
+      "id": 151,
+      "question": "¿Quién fue el guitarrista legendario apodado 'Slowhand'?",
+      "options": [
+        { "option": "Jimmy Page", "correct": false },
+        { "option": "Jimi Hendrix", "correct": false },
+        { "option": "Eric Clapton", "correct": true },
+        { "option": "Mark Knopfler", "correct": false }
+      ]
+    },
+    {
+      "id": 152,
+      "question": "¿Qué banda lanzó la canción 'Yellow Submarine'?",
+      "options": [
+        { "option": "The Rolling Stones", "correct": false },
+        { "option": "The Beach Boys", "correct": false },
+        { "option": "The Kinks", "correct": false },
+        { "option": "The Beatles", "correct": true }
+      ]
+    },
+    {
+      "id": 153,
+      "question": "¿Qué cantante de soul interpretó la canción 'Respect'?",
+      "options": [
+        { "option": "Aretha Franklin", "correct": true },
+        { "option": "Etta James", "correct": false },
+        { "option": "Diana Ross", "correct": false },
+        { "option": "Tina Turner", "correct": false }
+      ]
+    },
+    {
+      "id": 154,
+      "question": "¿Qué dúo francés es famoso por el tema 'One More Time'?",
+      "options": [
+        { "option": "Justice", "correct": false },
+        { "option": "Daft Punk", "correct": true },
+        { "option": "Air", "correct": false },
+        { "option": "Cassius", "correct": false }
+      ]
+    },
+    {
+      "id": 155,
+      "question": "¿Qué cantante mexicana es conocida como 'La Diva de la Banda'?",
+      "options": [
+        { "option": "Ana Gabriel", "correct": false },
+        { "option": "Gloria Trevi", "correct": false },
+        { "option": "Jenni Rivera", "correct": true },
+        { "option": "Paquita la del Barrio", "correct": false }
+      ]
+    },
+    {
+      "id": 156,
+      "question": "¿Qué compositor barroco escribió 'Las cuatro estaciones'?",
+      "options": [
+        { "option": "Johann Sebastian Bach", "correct": false },
+        { "option": "George Frideric Handel", "correct": false },
+        { "option": "Claudio Monteverdi", "correct": false },
+        { "option": "Antonio Vivaldi", "correct": true }
+      ]
+    },
+    {
+      "id": 157,
+      "question": "¿Qué cantante es apodado 'El Sol de México'?",
+      "options": [
+        { "option": "Luis Miguel", "correct": true },
+        { "option": "Vicente Fernández", "correct": false },
+        { "option": "José José", "correct": false },
+        { "option": "Juan Gabriel", "correct": false }
+      ]
+    },
+    {
+      "id": 158,
+      "question": "¿Qué género musical popularizó Bob Marley?",
+      "options": [
+        { "option": "Ska", "correct": false },
+        { "option": "Reggae", "correct": true },
+        { "option": "Calypso", "correct": false },
+        { "option": "Dancehall", "correct": false }
+      ]
+    },
+    {
+      "id": 159,
+      "question": "¿Qué cantante lanzó el álbum 'Like a Virgin' en 1984?",
+      "options": [
+        { "option": "Whitney Houston", "correct": false },
+        { "option": "Cyndi Lauper", "correct": false },
+        { "option": "Madonna", "correct": true },
+        { "option": "Janet Jackson", "correct": false }
+      ]
+    },
+    {
+      "id": 160,
+      "question": "¿Qué famoso guitarrista zurdo murió en 1970?",
+      "options": [
+        { "option": "Keith Richards", "correct": false },
+        { "option": "George Harrison", "correct": false },
+        { "option": "Carlos Santana", "correct": false },
+        { "option": "Jimi Hendrix", "correct": true }
+      ]
+    },
+    {
+      "id": 161,
+      "question": "¿Qué famoso director de orquesta fue apodado 'El Mago de Bayreuth'?",
+      "options": [
+        { "option": "Richard Wagner", "correct": true },
+        { "option": "Herbert von Karajan", "correct": false },
+        { "option": "Leonard Bernstein", "correct": false },
+        { "option": "Arturo Toscanini", "correct": false }
+      ]
+    },
+    {
+      "id": 162,
+      "question": "¿Qué grupo británico lanzó el álbum 'Dark Side of the Moon'?",
+      "options": [
+        { "option": "Yes", "correct": false },
+        { "option": "Pink Floyd", "correct": true },
+        { "option": "Genesis", "correct": false },
+        { "option": "Deep Purple", "correct": false }
+      ]
+    },
+    {
+      "id": 163,
+      "question": "¿Quién es conocido como el 'Rey del Rock and Roll'?",
+      "options": [
+        { "option": "Chuck Berry", "correct": false },
+        { "option": "Buddy Holly", "correct": false },
+        { "option": "Elvis Presley", "correct": true },
+        { "option": "Little Richard", "correct": false }
+      ]
+    },
+    {
+      "id": 164,
+      "question": "¿Qué cantante lanzó la canción 'Shape of You'?",
+      "options": [
+        { "option": "Sam Smith", "correct": false },
+        { "option": "Shawn Mendes", "correct": false },
+        { "option": "Bruno Mars", "correct": false },
+        { "option": "Ed Sheeran", "correct": true }
+      ]
+    },
+    {
+      "id": 165,
+      "question": "¿Qué compositor ruso escribió 'El lago de los cisnes'?",
+      "options": [
+        { "option": "Piotr Ilich Chaikovski", "correct": true },
+        { "option": "Igor Stravinski", "correct": false },
+        { "option": "Sergei Rachmaninov", "correct": false },
+        { "option": "Dmitri Shostakovich", "correct": false }
+      ]
+    },
+    {
+      "id": 166,
+      "question": "¿Qué cantante fue líder del grupo Nirvana?",
+      "options": [
+        { "option": "Dave Grohl", "correct": false },
+        { "option": "Kurt Cobain", "correct": true },
+        { "option": "Eddie Vedder", "correct": false },
+        { "option": "Chris Cornell", "correct": false }
+      ]
+    },
+    {
+      "id": 167,
+      "question": "¿Qué grupo argentino es famoso por la canción 'De música ligera'?",
+      "options": [
+        { "option": "Los Fabulosos Cadillacs", "correct": false },
+        { "option": "Los Enanitos Verdes", "correct": false },
+        { "option": "Soda Stereo", "correct": true },
+        { "option": "Virus", "correct": false }
+      ]
+    },
+    {
+      "id": 168,
+      "question": "¿Qué rapero estadounidense es conocido por el álbum 'The Marshall Mathers LP'?",
+      "options": [
+        { "option": "Jay-Z", "correct": false },
+        { "option": "Dr. Dre", "correct": false },
+        { "option": "Kanye West", "correct": false },
+        { "option": "Eminem", "correct": true }
+      ]
+    },
+    {
+      "id": 169,
+      "question": "¿Qué cantante chileno es autor de la canción 'Gracias a la vida'?",
+      "options": [
+        { "option": "Violeta Parra", "correct": true },
+        { "option": "Víctor Jara", "correct": false },
+        { "option": "Inti-Illimani", "correct": false },
+        { "option": "Myriam Hernández", "correct": false }
+      ]
+    },
+    {
+      "id": 170,
+      "question": "¿Qué artista lanzó el álbum 'Thriller', el más vendido de la historia?",
+      "options": [
+        { "option": "Prince", "correct": false },
+        { "option": "Michael Jackson", "correct": true },
+        { "option": "Whitney Houston", "correct": false },
+        { "option": "Lionel Richie", "correct": false }
+      ]
+    },
+    {
+      "id": 171,
+      "question": "¿Qué compositor alemán escribió la ópera 'El anillo del nibelungo'?",
+      "options": [
+        { "option": "Johann Strauss", "correct": false },
+        { "option": "Gustav Mahler", "correct": false },
+        { "option": "Richard Wagner", "correct": true },
+        { "option": "Ludwig van Beethoven", "correct": false }
+      ]
+    },
+    {
+      "id": 172,
+      "question": "¿Qué grupo británico lanzó la canción 'Bohemian Rhapsody'?",
+      "options": [
+        { "option": "The Who", "correct": false },
+        { "option": "The Rolling Stones", "correct": false },
+        { "option": "Led Zeppelin", "correct": false },
+        { "option": "Queen", "correct": true }
+      ]
+    },
+    {
+      "id": 173,
+      "question": "¿Quién es conocido como el 'Príncipe de la canción' en México?",
+      "options": [
+        { "option": "José José", "correct": true },
+        { "option": "Juan Gabriel", "correct": false },
+        { "option": "Luis Miguel", "correct": false },
+        { "option": "Vicente Fernández", "correct": false }
+      ]
+    },
+    {
+      "id": 174,
+      "question": "¿Qué cantante lanzó el álbum '21' en 2011?",
+      "options": [
+        { "option": "Taylor Swift", "correct": false },
+        { "option": "Adele", "correct": true },
+        { "option": "Kelly Clarkson", "correct": false },
+        { "option": "Lana Del Rey", "correct": false }
+      ]
+    },
+    {
+      "id": 175,
+      "question": "¿Qué compositor austriaco murió a los 35 años dejando su Réquiem inconcluso?",
+      "options": [
+        { "option": "Franz Schubert", "correct": false },
+        { "option": "Joseph Haydn", "correct": false },
+        { "option": "Wolfgang Amadeus Mozart", "correct": true },
+        { "option": "Anton Bruckner", "correct": false }
+      ]
+    },
+    {
+      "id": 176,
+      "question": "¿Qué grupo estadounidense es famoso por la canción 'Hotel California'?",
+      "options": [
+        { "option": "Fleetwood Mac", "correct": false },
+        { "option": "Creedence Clearwater Revival", "correct": false },
+        { "option": "The Doors", "correct": false },
+        { "option": "Eagles", "correct": true }
+      ]
+    },
+    {
+      "id": 177,
+      "question": "¿Qué rapero fue asesinado en 1996 en Las Vegas?",
+      "options": [
+        { "option": "Tupac Shakur", "correct": true },
+        { "option": "The Notorious B.I.G.", "correct": false },
+        { "option": "Eazy-E", "correct": false },
+        { "option": "Big Pun", "correct": false }
+      ]
+    },
+    {
+      "id": 178,
+      "question": "¿Qué grupo de rock argentino es conocido por la canción 'La balsa'?",
+      "options": [
+        { "option": "Manal", "correct": false },
+        { "option": "Los Gatos", "correct": true },
+        { "option": "Almendra", "correct": false },
+        { "option": "Serú Girán", "correct": false }
+      ]
+    },
+    {
+      "id": 179,
+      "question": "¿Qué cantante estadounidense popularizó el tema 'Born in the U.S.A.'?",
+      "options": [
+        { "option": "Billy Joel", "correct": false },
+        { "option": "Tom Petty", "correct": false },
+        { "option": "Bruce Springsteen", "correct": true },
+        { "option": "Bob Dylan", "correct": false }
+      ]
+    },
+    {
+      "id": 180,
+      "question": "¿Qué cantante española es conocida como 'La Faraona'?",
+      "options": [
+        { "option": "Rocío Jurado", "correct": false },
+        { "option": "Isabel Pantoja", "correct": false },
+        { "option": "Marisol", "correct": false },
+        { "option": "Lola Flores", "correct": true }
+      ]
+    },
+    {
+      "id": 181,
+      "question": "¿Qué compositor alemán escribió la 'Oda a la Alegría' incluida en su Novena Sinfonía?",
+      "options": [
+        { "option": "Ludwig van Beethoven", "correct": true },
+        { "option": "Johannes Brahms", "correct": false },
+        { "option": "Richard Strauss", "correct": false },
+        { "option": "Felix Mendelssohn", "correct": false }
+      ]
+    },
+    {
+      "id": 182,
+      "question": "¿Qué cantante canadiense es conocida por canciones como 'My Heart Will Go On'?",
+      "options": [
+        { "option": "Shania Twain", "correct": false },
+        { "option": "Céline Dion", "correct": true },
+        { "option": "Avril Lavigne", "correct": false },
+        { "option": "Alanis Morissette", "correct": false }
+      ]
+    },
+    {
+      "id": 183,
+      "question": "¿Qué banda de rock británica compuso la canción 'Stairway to Heaven'?",
+      "options": [
+        { "option": "The Rolling Stones", "correct": false },
+        { "option": "Queen", "correct": false },
+        { "option": "Led Zeppelin", "correct": true },
+        { "option": "The Who", "correct": false }
+      ]
+    },
+    {
+      "id": 184,
+      "question": "¿Qué cantante puertorriqueño popularizó el tema 'Livin’ la Vida Loca'?",
+      "options": [
+        { "option": "Chayanne", "correct": false },
+        { "option": "Marc Anthony", "correct": false },
+        { "option": "Luis Fonsi", "correct": false },
+        { "option": "Ricky Martin", "correct": true }
+      ]
+    },
+    {
+      "id": 185,
+      "question": "¿Qué grupo británico lanzó el álbum 'Abbey Road'?",
+      "options": [
+        { "option": "The Beatles", "correct": true },
+        { "option": "The Kinks", "correct": false },
+        { "option": "The Rolling Stones", "correct": false },
+        { "option": "The Animals", "correct": false }
+      ]
+    },
+    {
+      "id": 186,
+      "question": "¿Qué compositor checo escribió la 'Sinfonía del Nuevo Mundo'?",
+      "options": [
+        { "option": "Bedřich Smetana", "correct": false },
+        { "option": "Antonín Dvořák", "correct": true },
+        { "option": "Leoš Janáček", "correct": false },
+        { "option": "Zoltán Kodály", "correct": false }
+      ]
+    },
+    {
+      "id": 187,
+      "question": "¿Qué cantante británica se hizo famosa con el álbum 'Back to Black'?",
+      "options": [
+        { "option": "Adele", "correct": false },
+        { "option": "Duffy", "correct": false },
+        { "option": "Amy Winehouse", "correct": true },
+        { "option": "Lily Allen", "correct": false }
+      ]
+    },
+    {
+      "id": 188,
+      "question": "¿Qué grupo estadounidense popularizó la canción 'Smells Like Teen Spirit'?",
+      "options": [
+        { "option": "Pearl Jam", "correct": false },
+        { "option": "Soundgarden", "correct": false },
+        { "option": "Alice in Chains", "correct": false },
+        { "option": "Nirvana", "correct": true }
+      ]
+    },
+    {
+      "id": 189,
+      "question": "¿Qué cantante española lanzó la canción 'Malamente'?",
+      "options": [
+        { "option": "Rosalía", "correct": true },
+        { "option": "Aitana", "correct": false },
+        { "option": "India Martínez", "correct": false },
+        { "option": "La Mala Rodríguez", "correct": false }
+      ]
+    },
+    {
+      "id": 190,
+      "question": "¿Qué banda de rock irlandesa es liderada por Bono?",
+      "options": [
+        { "option": "The Cranberries", "correct": false },
+        { "option": "U2", "correct": true },
+        { "option": "Thin Lizzy", "correct": false },
+        { "option": "Snow Patrol", "correct": false }
+      ]
+    },
+    {
+      "id": 191,
+      "question": "¿Qué músico jamaicano es considerado el máximo exponente del reggae?",
+      "options": [
+        { "option": "Peter Tosh", "correct": false },
+        { "option": "Jimmy Cliff", "correct": false },
+        { "option": "Bob Marley", "correct": true },
+        { "option": "Burning Spear", "correct": false }
+      ]
+    },
+    {
+      "id": 192,
+      "question": "¿Qué grupo británico lanzó la canción 'Wonderwall' en 1995?",
+      "options": [
+        { "option": "Blur", "correct": false },
+        { "option": "Pulp", "correct": false },
+        { "option": "Radiohead", "correct": false },
+        { "option": "Oasis", "correct": true }
+      ]
+    },
+    {
+      "id": 193,
+      "question": "¿Qué cantante estadounidense fue apodado 'El Rey del Pop'?",
+      "options": [
+        { "option": "Michael Jackson", "correct": true },
+        { "option": "Prince", "correct": false },
+        { "option": "Elvis Presley", "correct": false },
+        { "option": "Stevie Wonder", "correct": false }
+      ]
+    },
+    {
+      "id": 194,
+      "question": "¿Qué cantante española lanzó el álbum 'Mediterráneo' en 1971?",
+      "options": [
+        { "option": "Camilo Sesto", "correct": false },
+        { "option": "Joan Manuel Serrat", "correct": true },
+        { "option": "Raphael", "correct": false },
+        { "option": "Víctor Manuel", "correct": false }
+      ]
+    },
+    {
+      "id": 195,
+      "question": "¿Qué banda estadounidense compuso la canción 'Californication'?",
+      "options": [
+        { "option": "Green Day", "correct": false },
+        { "option": "Foo Fighters", "correct": false },
+        { "option": "Red Hot Chili Peppers", "correct": true },
+        { "option": "Weezer", "correct": false }
+      ]
+    },
+    {
+      "id": 196,
+      "question": "¿Qué cantante británico fue líder de la banda The Police?",
+      "options": [
+        { "option": "Phil Collins", "correct": false },
+        { "option": "David Bowie", "correct": false },
+        { "option": "Rod Stewart", "correct": false },
+        { "option": "Sting", "correct": true }
+      ]
+    },
+    {
+      "id": 197,
+      "question": "¿Qué cantante colombiana lanzó el álbum 'Pies Descalzos' en 1995?",
+      "options": [
+        { "option": "Shakira", "correct": true },
+        { "option": "Fanny Lu", "correct": false },
+        { "option": "Karla Morrison", "correct": false },
+        { "option": "Greeicy", "correct": false }
+      ]
+    },
+    {
+      "id": 198,
+      "question": "¿Qué compositor polaco escribió los famosos 'Nocturnos' para piano?",
+      "options": [
+        { "option": "Franz Liszt", "correct": false },
+        { "option": "Frédéric Chopin", "correct": true },
+        { "option": "Robert Schumann", "correct": false },
+        { "option": "Claude Debussy", "correct": false }
+      ]
+    },
+    {
+      "id": 199,
+      "question": "¿Qué grupo sueco ganó Eurovisión en 1974 con la canción 'Waterloo'?",
+      "options": [
+        { "option": "Roxette", "correct": false },
+        { "option": "Ace of Base", "correct": false },
+        { "option": "ABBA", "correct": true },
+        { "option": "Europe", "correct": false }
+      ]
+    },
+    {
+      "id": 200,
+      "question": "¿Qué cantante estadounidense es conocida por canciones como 'Like a Virgin' y 'Vogue'?",
+      "options": [
+        { "option": "Whitney Houston", "correct": false },
+        { "option": "Cyndi Lauper", "correct": false },
+        { "option": "Janet Jackson", "correct": false },
+        { "option": "Madonna", "correct": true }
+      ]
     }
   ]
 }
