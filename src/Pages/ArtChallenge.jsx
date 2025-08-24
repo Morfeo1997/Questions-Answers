@@ -134,6 +134,8 @@ function HistoryChallenge() {
         current={currentQuestion + 1} // Mostrar pregunta actual (1-10)
         total={10} // Siempre serán 10 preguntas
         correct={correctAnswers}
+        countColor='text-white'
+        correctColor='text-green-400'
       />
 
       <AnimatePresence mode="wait">

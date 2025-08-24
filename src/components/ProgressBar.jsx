@@ -1,13 +1,13 @@
 import React from 'react';
 
-function ProgressBar({ current, total, correct }) {
+function ProgressBar({ current, total, correct, countColor , correctColor }) {
   return (
     <div className="w-full max-w-2xl mb-6">
       <div className="flex justify-between mb-2">
-        <span className="text-sm font-medium text-gray-950">
+        <span className={`text-sm font-medium ${countColor}`}>
           Pregunta {current} de {total}
         </span>
-        <span className="text-sm font-medium text-green-950">
+        <span className={`text-sm font-medium ${correctColor}`}>
           Correctas: {correct}
         </span>
       </div>
