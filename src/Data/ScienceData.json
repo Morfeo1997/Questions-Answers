@@ -1,0 +1,510 @@
+{
+  "title": "Desafío Científico",
+  "category": "Ciencia",
+  "autor": "Gastón Gómez",
+  "description": "Preguntas de ciencia: descubrimientos, teorías y curiosidades del mundo científico.",
+  "transitions": "Desaparecer/Fundido",
+  "dificulty": "Intermedio",
+  "game": [
+    {
+      "id": 101,
+      "question": "¿Cuál es el planeta más grande del sistema solar?",
+      "options": [
+        { "option": "Júpiter", "correct": true },
+        { "option": "Saturno", "correct": false },
+        { "option": "Neptuno", "correct": false },
+        { "option": "Urano", "correct": false }
+      ]
+    },
+    {
+      "id": 102,
+      "question": "¿Qué científico propuso la teoría de la relatividad?",
+      "options": [
+        { "option": "Isaac Newton", "correct": false },
+        { "option": "Albert Einstein", "correct": true },
+        { "option": "Galileo Galilei", "correct": false },
+        { "option": "Niels Bohr", "correct": false }
+      ]
+    },
+    {
+      "id": 103,
+      "question": "¿Cuál es el elemento químico más abundante en el universo?",
+      "options": [
+        { "option": "Oxígeno", "correct": false },
+        { "option": "Helio", "correct": false },
+        { "option": "Hidrógeno", "correct": true },
+        { "option": "Carbono", "correct": false }
+      ]
+    },
+    {
+      "id": 104,
+      "question": "¿Qué órgano del cuerpo humano produce la insulina?",
+      "options": [
+        { "option": "Hígado", "correct": false },
+        { "option": "Riñón", "correct": false },
+        { "option": "Estómago", "correct": false },
+        { "option": "Páncreas", "correct": true }
+      ]
+    },
+    {
+      "id": 105,
+      "question": "¿Cuál es la velocidad de la luz en el vacío?",
+      "options": [
+        { "option": "300,000 km/s", "correct": true },
+        { "option": "150,000 km/s", "correct": false },
+        { "option": "1,000 km/s", "correct": false },
+        { "option": "30,000 km/s", "correct": false }
+      ]
+    },
+    {
+      "id": 106,
+      "question": "¿Quién fue el naturalista que propuso la teoría de la evolución por selección natural?",
+      "options": [
+        { "option": "Gregor Mendel", "correct": false },
+        { "option": "Charles Darwin", "correct": true },
+        { "option": "Jean-Baptiste Lamarck", "correct": false },
+        { "option": "Carl Linnaeus", "correct": false }
+      ]
+    },
+    {
+      "id": 107,
+      "question": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+      "options": [
+        { "option": "Oxígeno", "correct": false },
+        { "option": "Dióxido de carbono", "correct": false },
+        { "option": "Nitrógeno", "correct": true },
+        { "option": "Argón", "correct": false }
+      ]
+    },
+    {
+      "id": 108,
+      "question": "¿Qué partícula subatómica tiene carga negativa?",
+      "options": [
+        { "option": "Protón", "correct": false },
+        { "option": "Neutrón", "correct": false },
+        { "option": "Quark", "correct": false },
+        { "option": "Electrón", "correct": true }
+      ]
+    },
+    {
+      "id": 109,
+      "question": "¿Quién fue la primera persona en viajar al espacio?",
+      "options": [
+        { "option": "Yuri Gagarin", "correct": true },
+        { "option": "Neil Armstrong", "correct": false },
+        { "option": "John Glenn", "correct": false },
+        { "option": "Valentina Tereshkova", "correct": false }
+      ]
+    },
+    {
+      "id": 110,
+      "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+      "options": [
+        { "option": "Tibia", "correct": false },
+        { "option": "Fémur", "correct": true },
+        { "option": "Húmero", "correct": false },
+        { "option": "Radio", "correct": false }
+      ]
+    },
+    {
+      "id": 111,
+      "question": "¿Qué científico formuló las leyes del movimiento y la gravitación universal?",
+      "options": [
+        { "option": "Galileo Galilei", "correct": false },
+        { "option": "Johannes Kepler", "correct": false },
+        { "option": "Isaac Newton", "correct": true },
+        { "option": "René Descartes", "correct": false }
+      ]
+    },
+    {
+      "id": 112,
+      "question": "¿Qué vitamina es producida principalmente por la exposición al sol?",
+      "options": [
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina B12", "correct": false },
+        { "option": "Vitamina A", "correct": false },
+        { "option": "Vitamina D", "correct": true }
+      ]
+    },
+    {
+      "id": 113,
+      "question": "¿Qué instrumento se utiliza para medir la presión atmosférica?",
+      "options": [
+        { "option": "Barómetro", "correct": true },
+        { "option": "Termómetro", "correct": false },
+        { "option": "Anemómetro", "correct": false },
+        { "option": "Higrómetro", "correct": false }
+      ]
+    },
+    {
+      "id": 114,
+      "question": "¿Qué científico es considerado el padre de la genética moderna?",
+      "options": [
+        { "option": "Louis Pasteur", "correct": false },
+        { "option": "Gregor Mendel", "correct": true },
+        { "option": "Charles Darwin", "correct": false },
+        { "option": "Francis Crick", "correct": false }
+      ]
+    },
+    {
+      "id": 115,
+      "question": "¿Qué planeta es conocido como el planeta rojo?",
+      "options": [
+        { "option": "Venus", "correct": false },
+        { "option": "Mercurio", "correct": false },
+        { "option": "Marte", "correct": true },
+        { "option": "Saturno", "correct": false }
+      ]
+    },
+    {
+      "id": 116,
+      "question": "¿En qué unidad se mide la intensidad de corriente eléctrica?",
+      "options": [
+        { "option": "Vatios", "correct": false },
+        { "option": "Ohmios", "correct": false },
+        { "option": "Julios", "correct": false },
+        { "option": "Amperios", "correct": true }
+      ]
+    },
+    {
+      "id": 117,
+      "question": "¿Qué metal es líquido a temperatura ambiente?",
+      "options": [
+        { "option": "Mercurio", "correct": true },
+        { "option": "Plomo", "correct": false },
+        { "option": "Sodio", "correct": false },
+        { "option": "Aluminio", "correct": false }
+      ]
+    },
+    {
+      "id": 118,
+      "question": "¿Qué científico descubrió la penicilina en 1928?",
+      "options": [
+        { "option": "Robert Koch", "correct": false },
+        { "option": "Alexander Fleming", "correct": true },
+        { "option": "Louis Pasteur", "correct": false },
+        { "option": "Joseph Lister", "correct": false }
+      ]
+    },
+    {
+      "id": 119,
+      "question": "¿Cuál es la unidad básica de la vida?",
+      "options": [
+        { "option": "El tejido", "correct": false },
+        { "option": "El órgano", "correct": false },
+        { "option": "La célula", "correct": true },
+        { "option": "El átomo", "correct": false }
+      ]
+    },
+    {
+      "id": 120,
+      "question": "¿Cuál es el planeta más cercano al Sol?",
+      "options": [
+        { "option": "Venus", "correct": false },
+        { "option": "Tierra", "correct": false },
+        { "option": "Marte", "correct": false },
+        { "option": "Mercurio", "correct": true }
+      ]
+    },
+    {
+      "id": 121,
+      "question": "¿Qué científico fue el primero en observar células a través de un microscopio?",
+      "options": [
+        { "option": "Robert Hooke", "correct": true },
+        { "option": "Antonie van Leeuwenhoek", "correct": false },
+        { "option": "Louis Pasteur", "correct": false },
+        { "option": "Galileo Galilei", "correct": false }
+      ]
+    },
+    {
+      "id": 122,
+      "question": "¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?",
+      "options": [
+        { "option": "Magnetismo", "correct": false },
+        { "option": "Gravedad", "correct": true },
+        { "option": "Fuerza centrífuga", "correct": false },
+        { "option": "Energía solar", "correct": false }
+      ]
+    },
+    {
+      "id": 123,
+      "question": "¿Qué parte del átomo tiene carga positiva?",
+      "options": [
+        { "option": "Neutrón", "correct": false },
+        { "option": "Electrón", "correct": false },
+        { "option": "Protón", "correct": true },
+        { "option": "Núcleo completo", "correct": false }
+      ]
+    },
+    {
+      "id": 124,
+      "question": "¿Cuál es la molécula que transporta el oxígeno en la sangre?",
+      "options": [
+        { "option": "Glucosa", "correct": false },
+        { "option": "ADN", "correct": false },
+        { "option": "Colágeno", "correct": false },
+        { "option": "Hemoglobina", "correct": true }
+      ]
+    },
+    {
+      "id": 125,
+      "question": "¿Cuál es el satélite natural de la Tierra?",
+      "options": [
+        { "option": "La Luna", "correct": true },
+        { "option": "Europa", "correct": false },
+        { "option": "Io", "correct": false },
+        { "option": "Titán", "correct": false }
+      ]
+    },
+    {
+      "id": 126,
+      "question": "¿Qué nombre recibe la capa de gases que rodea la Tierra?",
+      "options": [
+        { "option": "Estratósfera", "correct": false },
+        { "option": "Atmósfera", "correct": true },
+        { "option": "Magnetósfera", "correct": false },
+        { "option": "Ionosfera", "correct": false }
+      ]
+    },
+    {
+      "id": 127,
+      "question": "¿Qué científico descubrió las leyes de la herencia a través de experimentos con guisantes?",
+      "options": [
+        { "option": "Francis Crick", "correct": false },
+        { "option": "Charles Darwin", "correct": false },
+        { "option": "Gregor Mendel", "correct": true },
+        { "option": "James Watson", "correct": false }
+      ]
+    },
+    {
+      "id": 128,
+      "question": "¿Cuál es el planeta más frío del sistema solar?",
+      "options": [
+        { "option": "Neptuno", "correct": false },
+        { "option": "Saturno", "correct": false },
+        { "option": "Plutón", "correct": false },
+        { "option": "Urano", "correct": true }
+      ]
+    },
+    {
+      "id": 129,
+      "question": "¿Qué fenómeno natural mide la escala de Richter?",
+      "options": [
+        { "option": "La magnitud de los terremotos", "correct": true },
+        { "option": "La intensidad de los huracanes", "correct": false },
+        { "option": "La velocidad del viento", "correct": false },
+        { "option": "La presión atmosférica", "correct": false }
+      ]
+    },
+    {
+      "id": 130,
+      "question": "¿Qué nombre recibe el estudio de los fósiles?",
+      "options": [
+        { "option": "Geología", "correct": false },
+        { "option": "Paleontología", "correct": true },
+        { "option": "Arqueología", "correct": false },
+        { "option": "Antropología", "correct": false }
+      ]
+    },
+    {
+      "id": 131,
+      "question": "¿Cuál es el elemento químico más abundante en el universo?",
+      "options": [
+        { "option": "Oxígeno", "correct": false },
+        { "option": "Helio", "correct": false },
+        { "option": "Hidrógeno", "correct": true },
+        { "option": "Carbono", "correct": false }
+      ]
+    },
+    {
+      "id": 132,
+      "question": "¿Cuál es la velocidad de la luz en el vacío?",
+      "options": [
+        { "option": "150,000 km/s", "correct": false },
+        { "option": "30,000 km/s", "correct": false },
+        { "option": "3,000 km/s", "correct": false },
+        { "option": "300,000 km/s", "correct": true }
+      ]
+    },
+    {
+      "id": 133,
+      "question": "¿Qué planeta tiene los anillos más visibles del sistema solar?",
+      "options": [
+        { "option": "Saturno", "correct": true },
+        { "option": "Júpiter", "correct": false },
+        { "option": "Urano", "correct": false },
+        { "option": "Neptuno", "correct": false }
+      ]
+    },
+    {
+      "id": 134,
+      "question": "¿Qué parte del cuerpo humano controla el sistema nervioso?",
+      "options": [
+        { "option": "El corazón", "correct": false },
+        { "option": "El cerebro", "correct": true },
+        { "option": "La médula espinal", "correct": false },
+        { "option": "El hígado", "correct": false }
+      ]
+    },
+    {
+      "id": 135,
+      "question": "¿Cómo se llama el proceso por el cual las plantas producen su alimento?",
+      "options": [
+        { "option": "Respiración", "correct": false },
+        { "option": "Fermentación", "correct": false },
+        { "option": "Fotosíntesis", "correct": true },
+        { "option": "Transpiración", "correct": false }
+      ]
+    },
+    {
+      "id": 136,
+      "question": "¿Qué científico propuso la teoría de la relatividad?",
+      "options": [
+        { "option": "Isaac Newton", "correct": false },
+        { "option": "Max Planck", "correct": false },
+        { "option": "Niels Bohr", "correct": false },
+        { "option": "Albert Einstein", "correct": true }
+      ]
+    },
+    {
+      "id": 137,
+      "question": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+      "options": [
+        { "option": "Nitrógeno", "correct": true },
+        { "option": "Oxígeno", "correct": false },
+        { "option": "Dióxido de carbono", "correct": false },
+        { "option": "Argón", "correct": false }
+      ]
+    },
+    {
+      "id": 138,
+      "question": "¿Qué científico desarrolló la teoría de la evolución por selección natural?",
+      "options": [
+        { "option": "Jean-Baptiste Lamarck", "correct": false },
+        { "option": "Charles Darwin", "correct": true },
+        { "option": "Alfred Wallace", "correct": false },
+        { "option": "Carl Linnaeus", "correct": false }
+      ]
+    },
+    {
+      "id": 139,
+      "question": "¿Qué hueso del cuerpo humano es el más largo?",
+      "options": [
+        { "option": "Húmero", "correct": false },
+        { "option": "Tibia", "correct": false },
+        { "option": "Fémur", "correct": true },
+        { "option": "Radio", "correct": false }
+      ]
+    },
+    {
+      "id": 140,
+      "question": "¿Cómo se llama el cambio de estado de sólido a gas sin pasar por líquido?",
+      "options": [
+        { "option": "Condensación", "correct": false },
+        { "option": "Evaporación", "correct": false },
+        { "option": "Fusión", "correct": false },
+        { "option": "Sublimación", "correct": true }
+      ]
+    },
+    {
+      "id": 141,
+      "question": "¿Qué tipo de energía produce una represa hidroeléctrica?",
+      "options": [
+        { "option": "Energía hidráulica", "correct": true },
+        { "option": "Energía solar", "correct": false },
+        { "option": "Energía eólica", "correct": false },
+        { "option": "Energía geotérmica", "correct": false }
+      ]
+    },
+    {
+      "id": 142,
+      "question": "¿Qué científico formuló las leyes del movimiento y la gravitación universal?",
+      "options": [
+        { "option": "Galileo Galilei", "correct": false },
+        { "option": "Isaac Newton", "correct": true },
+        { "option": "Nikola Tesla", "correct": false },
+        { "option": "Stephen Hawking", "correct": false }
+      ]
+    },
+    {
+      "id": 143,
+      "question": "¿Cómo se llama el proceso por el cual el agua se transforma en vapor?",
+      "options": [
+        { "option": "Sublimación", "correct": false },
+        { "option": "Condensación", "correct": false },
+        { "option": "Evaporación", "correct": true },
+        { "option": "Fusión", "correct": false }
+      ]
+    },
+    {
+      "id": 144,
+      "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "options": [
+        { "option": "El hígado", "correct": false },
+        { "option": "El cerebro", "correct": false },
+        { "option": "Los pulmones", "correct": false },
+        { "option": "La piel", "correct": true }
+      ]
+    },
+    {
+      "id": 145,
+      "question": "¿Qué planeta del sistema solar es conocido como el 'planeta rojo'?",
+      "options": [
+        { "option": "Marte", "correct": true },
+        { "option": "Venus", "correct": false },
+        { "option": "Júpiter", "correct": false },
+        { "option": "Saturno", "correct": false }
+      ]
+    },
+    {
+      "id": 146,
+      "question": "¿Cómo se llama la partícula subatómica sin carga eléctrica?",
+      "options": [
+        { "option": "Protón", "correct": false },
+        { "option": "Neutrón", "correct": true },
+        { "option": "Electrón", "correct": false },
+        { "option": "Fotón", "correct": false }
+      ]
+    },
+    {
+      "id": 147,
+      "question": "¿Qué científico fue pionero en la teoría heliocéntrica del sistema solar?",
+      "options": [
+        { "option": "Johannes Kepler", "correct": false },
+        { "option": "Ptolomeo", "correct": false },
+        { "option": "Nicolás Copérnico", "correct": true },
+        { "option": "Tycho Brahe", "correct": false }
+      ]
+    },
+    {
+      "id": 148,
+      "question": "¿Qué vitamina produce el cuerpo humano al exponerse al sol?",
+      "options": [
+        { "option": "Vitamina A", "correct": false },
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina K", "correct": false },
+        { "option": "Vitamina D", "correct": true }
+      ]
+    },
+    {
+      "id": 149,
+      "question": "¿Cuál es el planeta más cercano al Sol?",
+      "options": [
+        { "option": "Mercurio", "correct": true },
+        { "option": "Venus", "correct": false },
+        { "option": "Tierra", "correct": false },
+        { "option": "Marte", "correct": false }
+      ]
+    },
+    {
+      "id": 150,
+      "question": "¿Cómo se llama el fenómeno por el cual la luz se curva al pasar de un medio a otro?",
+      "options": [
+        { "option": "Reflexión", "correct": false },
+        { "option": "Refracción", "correct": true },
+        { "option": "Difracción", "correct": false },
+        { "option": "Dispersión", "correct": false }
+      ]
+    }
+  ]
+}
