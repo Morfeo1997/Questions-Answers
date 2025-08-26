@@ -1,5 +1,5 @@
 import React from 'react';
-import { BookOpen, Palette, Calculator, Trophy, Clapperboard, Music } from 'lucide-react';
+import { BookOpen, Palette, Calculator, Trophy, Clapperboard, Music, Atom, Carrot } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
 const Home = () => {
@@ -40,12 +40,26 @@ const Home = () => {
       color: 'from-red-500 to-rose-600',
       hoverColor: 'hover:from-red-600 to-rose-700 '
     },
-        {
+    {
       name: 'Musica',
       icon: Music,
       path: '/musica',
       color: 'from-yellow-500 to-amber-600',
       hoverColor: 'hover:from-yellow-600 to-amber-700'
+    },
+    {
+      name: 'Ciencia',
+      icon: Atom,
+      path: '/ciencia',
+      color: 'from-cyan-500 to-blue-600',
+      hoverColor: 'hover:from-cyan-600 to-blue-700'
+    },
+    {
+      name: 'Nutrición',
+      icon: Carrot,
+      path: '/nutricion',
+      color: 'from-lime-500 to-emerald-600',
+      hoverColor: 'hover:from-lime-600 to-emerald-700'
     }
   ];
 

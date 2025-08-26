@@ -787,7 +787,7 @@
       ]
     },
     {
-      "id": 079,
+      "id": 179,
       "question": "¿Cuál es el planeta más cercano al Sol?",
       "options": [
         { "option": "Venus", "correct": false },
@@ -1002,7 +1002,7 @@
       "options": [
         { "option": "Robert Koch", "correct": false },
         { "option": "Antonie van Leeuwenhoek", "correct": false },
-        { "option": "Joseph Lister", "correct": false }
+        { "option": "Joseph Lister", "correct": false },
         { "option": "Louis Pasteur", "correct": true }
       ]
     }
