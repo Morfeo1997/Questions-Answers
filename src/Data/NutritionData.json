@@ -1,0 +1,510 @@
+{
+  "title": "Desafío de Nutrición",
+  "category": "Nutrición",
+  "autor": "Gastón Gómez",
+  "description": "Pon a prueba tus conocimientos sobre alimentación, nutrientes, hábitos saludables y nutrición básica.",
+  "transitions": "Desaparecer/Fundido",
+  "dificulty": "Intermedio",
+  "game": [
+    {
+      "id": 101,
+      "question": "¿Cuál es el principal nutriente que aporta energía al cuerpo?",
+      "options": [
+        { "option": "Carbohidratos", "correct": true },
+        { "option": "Proteínas", "correct": false },
+        { "option": "Vitaminas", "correct": false },
+        { "option": "Minerales", "correct": false }
+      ]
+    },
+    {
+      "id": 102,
+      "question": "¿Qué vitamina se produce principalmente con la exposición al sol?",
+      "options": [
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina D", "correct": true },
+        { "option": "Vitamina B12", "correct": false },
+        { "option": "Vitamina A", "correct": false }
+      ]
+    },
+    {
+      "id": 103,
+      "question": "¿Qué mineral es fundamental para la salud de los huesos?",
+      "options": [
+        { "option": "Hierro", "correct": false },
+        { "option": "Zinc", "correct": false },
+        { "option": "Calcio", "correct": true },
+        { "option": "Magnesio", "correct": false }
+      ]
+    },
+    {
+      "id": 104,
+      "question": "¿Qué macronutriente es esencial para la reparación y construcción de tejidos?",
+      "options": [
+        { "option": "Grasas", "correct": false },
+        { "option": "Vitaminas", "correct": false },
+        { "option": "Carbohidratos", "correct": false },
+        { "option": "Proteínas", "correct": true }
+      ]
+    },
+    {
+      "id": 105,
+      "question": "¿Cuál es la principal fuente de hierro de origen animal?",
+      "options": [
+        { "option": "Carnes rojas", "correct": true },
+        { "option": "Frutas cítricas", "correct": false },
+        { "option": "Lácteos", "correct": false },
+        { "option": "Aceites vegetales", "correct": false }
+      ]
+    },
+    {
+      "id": 106,
+      "question": "¿Cuál es el valor calórico aproximado de 1 gramo de carbohidratos?",
+      "options": [
+        { "option": "9 kcal", "correct": false },
+        { "option": "4 kcal", "correct": true },
+        { "option": "7 kcal", "correct": false },
+        { "option": "2 kcal", "correct": false }
+      ]
+    },
+    {
+      "id": 107,
+      "question": "¿Qué vitamina es esencial para la coagulación sanguínea?",
+      "options": [
+        { "option": "Vitamina E", "correct": false },
+        { "option": "Vitamina A", "correct": false },
+        { "option": "Vitamina K", "correct": true },
+        { "option": "Vitamina C", "correct": false }
+      ]
+    },
+    {
+      "id": 108,
+      "question": "¿Qué tipo de grasa se considera más saludable para el corazón?",
+      "options": [
+        { "option": "Grasas trans", "correct": false },
+        { "option": "Grasas saturadas", "correct": false },
+        { "option": "Colesterol LDL", "correct": false },
+        { "option": "Grasas insaturadas", "correct": true }
+      ]
+    },
+    {
+      "id": 109,
+      "question": "¿Cuál es la principal fuente de vitamina C?",
+      "options": [
+        { "option": "Frutas cítricas", "correct": true },
+        { "option": "Carnes rojas", "correct": false },
+        { "option": "Cereales integrales", "correct": false },
+        { "option": "Aceites vegetales", "correct": false }
+      ]
+    },
+    {
+      "id": 110,
+      "question": "¿Qué nutriente es la principal fuente de energía en ejercicios de alta intensidad?",
+      "options": [
+        { "option": "Grasas", "correct": false },
+        { "option": "Carbohidratos", "correct": true },
+        { "option": "Proteínas", "correct": false },
+        { "option": "Vitaminas", "correct": false }
+      ]
+    },
+    {
+      "id": 111,
+      "question": "¿Qué nutriente es la principal reserva de energía a largo plazo en el cuerpo?",
+      "options": [
+        { "option": "Proteínas", "correct": false },
+        { "option": "Carbohidratos", "correct": false },
+        { "option": "Grasas", "correct": true },
+        { "option": "Vitaminas", "correct": false }
+      ]
+    },
+    {
+      "id": 112,
+      "question": "¿Cuál es la función principal de la fibra dietética?",
+      "options": [
+        { "option": "Aportar energía inmediata", "correct": false },
+        { "option": "Formar glóbulos rojos", "correct": false },
+        { "option": "Regular el calcio", "correct": false },
+        { "option": "Mejorar la digestión", "correct": true }
+      ]
+    },
+    {
+      "id": 113,
+      "question": "¿Qué vitamina es esencial para la visión?",
+      "options": [
+        { "option": "Vitamina A", "correct": true },
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina D", "correct": false },
+        { "option": "Vitamina E", "correct": false }
+      ]
+    },
+    {
+      "id": 114,
+      "question": "¿Cuál es la principal fuente de omega-3?",
+      "options": [
+        { "option": "Carnes rojas", "correct": false },
+        { "option": "Pescados grasos", "correct": true },
+        { "option": "Lácteos enteros", "correct": false },
+        { "option": "Cereales refinados", "correct": false }
+      ]
+    },
+    {
+      "id": 115,
+      "question": "¿Qué mineral es necesario para transportar oxígeno en la sangre?",
+      "options": [
+        { "option": "Calcio", "correct": false },
+        { "option": "Sodio", "correct": false },
+        { "option": "Hierro", "correct": true },
+        { "option": "Potasio", "correct": false }
+      ]
+    },
+    {
+      "id": 116,
+      "question": "¿Qué nutriente debe limitarse para reducir el riesgo de hipertensión?",
+      "options": [
+        { "option": "Fibra", "correct": false },
+        { "option": "Vitamina B12", "correct": false },
+        { "option": "Calcio", "correct": false },
+        { "option": "Sodio", "correct": true }
+      ]
+    },
+    {
+      "id": 117,
+      "question": "¿Qué grupo de alimentos es la principal fuente de vitamina B12?",
+      "options": [
+        { "option": "Alimentos de origen animal", "correct": true },
+        { "option": "Frutas", "correct": false },
+        { "option": "Verduras", "correct": false },
+        { "option": "Legumbres", "correct": false }
+      ]
+    },
+    {
+      "id": 118,
+      "question": "¿Cuál es el principal electrolito perdido en el sudor?",
+      "options": [
+        { "option": "Magnesio", "correct": false },
+        { "option": "Sodio", "correct": true },
+        { "option": "Calcio", "correct": false },
+        { "option": "Fósforo", "correct": false }
+      ]
+    },
+    {
+      "id": 119,
+      "question": "¿Qué nutriente se encuentra principalmente en las legumbres?",
+      "options": [
+        { "option": "Grasas saturadas", "correct": false },
+        { "option": "Colesterol", "correct": false },
+        { "option": "Proteínas vegetales", "correct": true },
+        { "option": "Vitamina D", "correct": false }
+      ]
+    },
+    {
+      "id": 120,
+      "question": "¿Qué vitamina ayuda a absorber el calcio en el cuerpo?",
+      "options": [
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina B6", "correct": false },
+        { "option": "Vitamina E", "correct": false },
+        { "option": "Vitamina D", "correct": true }
+      ]
+    },
+    {
+      "id": 121,
+      "question": "¿Qué tipo de carbohidratos se consideran más saludables?",
+      "options": [
+        { "option": "Carbohidratos complejos", "correct": true },
+        { "option": "Carbohidratos simples", "correct": false },
+        { "option": "Azúcares refinados", "correct": false },
+        { "option": "Jarabes artificiales", "correct": false }
+      ]
+    },
+    {
+      "id": 122,
+      "question": "¿Cuál de estos alimentos es una buena fuente de probióticos?",
+      "options": [
+        { "option": "Carne roja", "correct": false },
+        { "option": "Yogur", "correct": true },
+        { "option": "Pan blanco", "correct": false },
+        { "option": "Arroz refinado", "correct": false }
+      ]
+    },
+    {
+      "id": 123,
+      "question": "¿Qué mineral ayuda en la contracción muscular y la transmisión nerviosa?",
+      "options": [
+        { "option": "Hierro", "correct": false },
+        { "option": "Zinc", "correct": false },
+        { "option": "Potasio", "correct": true },
+        { "option": "Flúor", "correct": false }
+      ]
+    },
+    {
+      "id": 124,
+      "question": "¿Qué tipo de grasa es considerada más saludable para el corazón?",
+      "options": [
+        { "option": "Grasas trans", "correct": false },
+        { "option": "Grasas saturadas", "correct": false },
+        { "option": "Colesterol LDL", "correct": false },
+        { "option": "Grasas insaturadas", "correct": true }
+      ]
+    },
+    {
+      "id": 125,
+      "question": "¿Qué vitamina es importante para la coagulación sanguínea?",
+      "options": [
+        { "option": "Vitamina K", "correct": true },
+        { "option": "Vitamina A", "correct": false },
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina D", "correct": false }
+      ]
+    },
+    {
+      "id": 126,
+      "question": "¿Qué bebida es una fuente natural de antioxidantes?",
+      "options": [
+        { "option": "Refresco de cola", "correct": false },
+        { "option": "Té verde", "correct": true },
+        { "option": "Agua con gas", "correct": false },
+        { "option": "Cerveza", "correct": false }
+      ]
+    },
+    {
+      "id": 127,
+      "question": "¿Qué macronutriente se recomienda aumentar en dietas para ganar masa muscular?",
+      "options": [
+        { "option": "Azúcares", "correct": false },
+        { "option": "Grasas trans", "correct": false },
+        { "option": "Proteínas", "correct": true },
+        { "option": "Sodio", "correct": false }
+      ]
+    },
+    {
+      "id": 128,
+      "question": "¿Qué tipo de vitamina necesita grasas para ser absorbida?",
+      "options": [
+        { "option": "Vitamina hidrosoluble", "correct": false },
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Ninguna", "correct": false },
+        { "option": "Vitamina liposoluble", "correct": true }
+      ]
+    },
+    {
+      "id": 129,
+      "question": "¿Qué cereal es naturalmente libre de gluten?",
+      "options": [
+        { "option": "Arroz", "correct": true },
+        { "option": "Trigo", "correct": false },
+        { "option": "Cebada", "correct": false },
+        { "option": "Centeno", "correct": false }
+      ]
+    },
+    {
+      "id": 130,
+      "question": "¿Qué vitamina se conoce como ácido ascórbico?",
+      "options": [
+        { "option": "Vitamina D", "correct": false },
+        { "option": "Vitamina C", "correct": true },
+        { "option": "Vitamina B1", "correct": false },
+        { "option": "Vitamina E", "correct": false }
+      ]
+    },
+    {
+      "id": 131,
+      "question": "¿Qué nutriente es la principal fuente de energía del cuerpo humano?",
+      "options": [
+        { "option": "Proteínas", "correct": false },
+        { "option": "Grasas", "correct": false },
+        { "option": "Carbohidratos", "correct": true },
+        { "option": "Vitaminas", "correct": false }
+      ]
+    },
+    {
+      "id": 132,
+      "question": "¿Cuál de estos alimentos es una fuente rica en omega-3?",
+      "options": [
+        { "option": "Pollo", "correct": false },
+        { "option": "Pan blanco", "correct": false },
+        { "option": "Queso", "correct": false },
+        { "option": "Salmón", "correct": true }
+      ]
+    },
+    {
+      "id": 133,
+      "question": "¿Qué mineral es fundamental para la producción de glóbulos rojos?",
+      "options": [
+        { "option": "Hierro", "correct": true },
+        { "option": "Calcio", "correct": false },
+        { "option": "Zinc", "correct": false },
+        { "option": "Fósforo", "correct": false }
+      ]
+    },
+    {
+      "id": 134,
+      "question": "¿Qué vitamina es esencial para mantener la salud visual?",
+      "options": [
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina A", "correct": true },
+        { "option": "Vitamina K", "correct": false },
+        { "option": "Vitamina B12", "correct": false }
+      ]
+    },
+    {
+      "id": 135,
+      "question": "¿Qué tipo de fibra ayuda a reducir los niveles de colesterol?",
+      "options": [
+        { "option": "Fibra insoluble", "correct": false },
+        { "option": "Proteína vegetal", "correct": false },
+        { "option": "Fibra soluble", "correct": true },
+        { "option": "Fibra sintética", "correct": false }
+      ]
+    },
+    {
+      "id": 136,
+      "question": "¿Qué macronutriente tiene mayor densidad calórica?",
+      "options": [
+        { "option": "Proteínas", "correct": false },
+        { "option": "Carbohidratos", "correct": false },
+        { "option": "Agua", "correct": false },
+        { "option": "Grasas", "correct": true }
+      ]
+    },
+    {
+      "id": 137,
+      "question": "¿Qué mineral se asocia con el buen funcionamiento de la tiroides?",
+      "options": [
+        { "option": "Yodo", "correct": true },
+        { "option": "Potasio", "correct": false },
+        { "option": "Cobre", "correct": false },
+        { "option": "Magnesio", "correct": false }
+      ]
+    },
+    {
+      "id": 138,
+      "question": "¿Qué bebida natural puede ayudar a la hidratación y aportar electrolitos?",
+      "options": [
+        { "option": "Refresco", "correct": false },
+        { "option": "Agua de coco", "correct": true },
+        { "option": "Café", "correct": false },
+        { "option": "Té negro", "correct": false }
+      ]
+    },
+    {
+      "id": 139,
+      "question": "¿Qué tipo de colesterol se considera 'bueno' para el organismo?",
+      "options": [
+        { "option": "Colesterol LDL", "correct": false },
+        { "option": "Colesterol total", "correct": false },
+        { "option": "Colesterol HDL", "correct": true },
+        { "option": "Colesterol VLDL", "correct": false }
+      ]
+    },
+    {
+      "id": 140,
+      "question": "¿Qué mineral es el más abundante en el cuerpo humano?",
+      "options": [
+        { "option": "Fósforo", "correct": false },
+        { "option": "Hierro", "correct": false },
+        { "option": "Sodio", "correct": false },
+        { "option": "Calcio", "correct": true }
+      ]
+    },
+    {
+      "id": 141,
+      "question": "¿Cuál de los siguientes alimentos es una fuente principal de vitamina C?",
+      "options": [
+        { "option": "Naranja", "correct": true },
+        { "option": "Carne roja", "correct": false },
+        { "option": "Queso", "correct": false },
+        { "option": "Pan", "correct": false }
+      ]
+    },
+    {
+      "id": 142,
+      "question": "¿Qué tipo de carbohidratos son más recomendados para una dieta saludable?",
+      "options": [
+        { "option": "Carbohidratos simples", "correct": false },
+        { "option": "Carbohidratos complejos", "correct": true },
+        { "option": "Azúcares refinados", "correct": false },
+        { "option": "Almidones procesados", "correct": false }
+      ]
+    },
+    {
+      "id": 143,
+      "question": "¿Qué vitamina es importante para la coagulación de la sangre?",
+      "options": [
+        { "option": "Vitamina B6", "correct": false },
+        { "option": "Vitamina D", "correct": false },
+        { "option": "Vitamina K", "correct": true },
+        { "option": "Vitamina A", "correct": false }
+      ]
+    },
+    {
+      "id": 144,
+      "question": "¿Qué alimento es una buena fuente de probióticos naturales?",
+      "options": [
+        { "option": "Arroz blanco", "correct": false },
+        { "option": "Pollo", "correct": false },
+        { "option": "Papa frita", "correct": false },
+        { "option": "Yogur", "correct": true }
+      ]
+    },
+    {
+      "id": 145,
+      "question": "¿Qué macronutriente es fundamental para el crecimiento y reparación de tejidos?",
+      "options": [
+        { "option": "Proteínas", "correct": true },
+        { "option": "Carbohidratos", "correct": false },
+        { "option": "Grasas", "correct": false },
+        { "option": "Fibra", "correct": false }
+      ]
+    },
+    {
+      "id": 146,
+      "question": "¿Qué mineral es clave para el transporte de oxígeno en la sangre?",
+      "options": [
+        { "option": "Calcio", "correct": false },
+        { "option": "Hierro", "correct": true },
+        { "option": "Potasio", "correct": false },
+        { "option": "Magnesio", "correct": false }
+      ]
+    },
+    {
+      "id": 147,
+      "question": "¿Qué tipo de grasa es más saludable para el corazón?",
+      "options": [
+        { "option": "Grasas trans", "correct": false },
+        { "option": "Grasas saturadas", "correct": false },
+        { "option": "Grasas insaturadas", "correct": true },
+        { "option": "Grasas hidrogenadas", "correct": false }
+      ]
+    },
+    {
+      "id": 148,
+      "question": "¿Cuál de estos alimentos es una legumbre?",
+      "options": [
+        { "option": "Espinaca", "correct": false },
+        { "option": "Manzana", "correct": false },
+        { "option": "Arroz", "correct": false },
+        { "option": "Lentejas", "correct": true }
+      ]
+    },
+    {
+      "id": 149,
+      "question": "¿Qué vitamina ayuda a la absorción del hierro en el organismo?",
+      "options": [
+        { "option": "Vitamina C", "correct": true },
+        { "option": "Vitamina D", "correct": false },
+        { "option": "Vitamina B9", "correct": false },
+        { "option": "Vitamina E", "correct": false }
+      ]
+    },
+    {
+      "id": 150,
+      "question": "¿Qué tipo de dieta limita el consumo de productos de origen animal?",
+      "options": [
+        { "option": "Cetogénica", "correct": false },
+        { "option": "Vegetariana", "correct": true },
+        { "option": "Mediterránea", "correct": false },
+        { "option": "Paleolítica", "correct": false }
+      ]
+    }
+  ]
+}
