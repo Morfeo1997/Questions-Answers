@@ -505,6 +505,506 @@
         { "option": "Difracción", "correct": false },
         { "option": "Dispersión", "correct": false }
       ]
+    },
+    {
+      "id": 151,
+      "question": "¿Cuál es el planeta más grande del sistema solar?",
+      "options": [
+        { "option": "Saturno", "correct": false },
+        { "option": "Neptuno", "correct": false },
+        { "option": "Júpiter", "correct": true },
+        { "option": "Urano", "correct": false }
+      ]
+    },
+    {
+      "id": 152,
+      "question": "¿Cuál es la molécula que contiene la información genética?",
+      "options": [
+        { "option": "ARN", "correct": false },
+        { "option": "Proteínas", "correct": false },
+        { "option": "Lípidos", "correct": false },
+        { "option": "ADN", "correct": true }
+      ]
+    },
+    {
+      "id": 153,
+      "question": "¿Qué científico descubrió la penicilina?",
+      "options": [
+        { "option": "Alexander Fleming", "correct": true },
+        { "option": "Louis Pasteur", "correct": false },
+        { "option": "Robert Koch", "correct": false },
+        { "option": "Edward Jenner", "correct": false }
+      ]
+    },
+    {
+      "id": 154,
+      "question": "¿Qué unidad se utiliza para medir la intensidad de corriente eléctrica?",
+      "options": [
+        { "option": "Voltio", "correct": false },
+        { "option": "Amperio", "correct": true },
+        { "option": "Ohmio", "correct": false },
+        { "option": "Vatio", "correct": false }
+      ]
+    },
+    {
+      "id": 155,
+      "question": "¿Qué planeta del sistema solar tiene un día más largo que su año?",
+      "options": [
+        { "option": "Mercurio", "correct": false },
+        { "option": "Marte", "correct": false },
+        { "option": "Venus", "correct": true },
+        { "option": "Saturno", "correct": false }
+      ]
+    },
+    {
+      "id": 156,
+      "question": "¿Qué científico propuso las leyes de la herencia genética?",
+      "options": [
+        { "option": "Charles Darwin", "correct": false },
+        { "option": "James Watson", "correct": false },
+        { "option": "Francis Crick", "correct": false },
+        { "option": "Gregor Mendel", "correct": true }
+      ]
+    },
+    {
+      "id": 157,
+      "question": "¿Cómo se llama la capa más externa de la Tierra?",
+      "options": [
+        { "option": "Corteza", "correct": true },
+        { "option": "Manto", "correct": false },
+        { "option": "Núcleo externo", "correct": false },
+        { "option": "Núcleo interno", "correct": false }
+      ]
+    },
+    {
+      "id": 158,
+      "question": "¿Cuál es la glándula que regula el metabolismo en el cuerpo humano?",
+      "options": [
+        { "option": "Páncreas", "correct": false },
+        { "option": "Tiroides", "correct": true },
+        { "option": "Hipófisis", "correct": false },
+        { "option": "Suprarrenales", "correct": false }
+      ]
+    },
+    {
+      "id": 159,
+      "question": "¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?",
+      "options": [
+        { "option": "La inercia", "correct": false },
+        { "option": "El magnetismo", "correct": false },
+        { "option": "La gravedad", "correct": true },
+        { "option": "La radiación solar", "correct": false }
+      ]
+    },
+    {
+      "id": 160,
+      "question": "¿Qué tipo de célula no tiene núcleo definido?",
+      "options": [
+        { "option": "Eucariota", "correct": false },
+        { "option": "Neurona", "correct": false },
+        { "option": "Glóbulo rojo", "correct": false },
+        { "option": "Procariota", "correct": true }
+      ]
+    },
+    {
+      "id": 161,
+      "question": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+      "options": [
+        { "option": "Nitrógeno", "correct": true },
+        { "option": "Oxígeno", "correct": false },
+        { "option": "Dióxido de carbono", "correct": false },
+        { "option": "Argón", "correct": false }
+      ]
+    },
+    {
+      "id": 162,
+      "question": "¿Qué rama de la biología estudia a los animales?",
+      "options": [
+        { "option": "Botánica", "correct": false },
+        { "option": "Zoología", "correct": true },
+        { "option": "Ecología", "correct": false },
+        { "option": "Genética", "correct": false }
+      ]
+    },
+    {
+      "id": 163,
+      "question": "¿Cuál es la velocidad de la luz en el vacío?",
+      "options": [
+        { "option": "150,000 km/s", "correct": false },
+        { "option": "30,000 km/s", "correct": false },
+        { "option": "Aproximadamente 300,000 km/s", "correct": true },
+        { "option": "1,000,000 km/s", "correct": false }
+      ]
+    },
+    {
+      "id": 164,
+      "question": "¿Qué nombre recibe el cambio de estado de gas a líquido?",
+      "options": [
+        { "option": "Sublimación", "correct": false },
+        { "option": "Evaporación", "correct": false },
+        { "option": "Solidificación", "correct": false },
+        { "option": "Condensación", "correct": true }
+      ]
+    },
+    {
+      "id": 165,
+      "question": "¿Cuál es la función principal de los glóbulos rojos?",
+      "options": [
+        { "option": "Transportar oxígeno", "correct": true },
+        { "option": "Defender contra infecciones", "correct": false },
+        { "option": "Coagular la sangre", "correct": false },
+        { "option": "Regular hormonas", "correct": false }
+      ]
+    },
+    {
+      "id": 166,
+      "question": "¿Qué científico desarrolló la teoría de la relatividad?",
+      "options": [
+        { "option": "Isaac Newton", "correct": false },
+        { "option": "Albert Einstein", "correct": true },
+        { "option": "Max Planck", "correct": false },
+        { "option": "Galileo Galilei", "correct": false }
+      ]
+    },
+    {
+      "id": 167,
+      "question": "¿Qué animal es conocido por tener tres corazones?",
+      "options": [
+        { "option": "El tiburón", "correct": false },
+        { "option": "La ballena", "correct": false },
+        { "option": "El pulpo", "correct": true },
+        { "option": "La estrella de mar", "correct": false }
+      ]
+    },
+    {
+      "id": 168,
+      "question": "¿Qué planeta tiene el mayor número de lunas en el sistema solar?",
+      "options": [
+        { "option": "Júpiter", "correct": false },
+        { "option": "Urano", "correct": false },
+        { "option": "Neptuno", "correct": false },
+        { "option": "Saturno", "correct": true }
+      ]
+    },
+    {
+      "id": 169,
+      "question": "¿Qué unidad se utiliza para medir la energía?",
+      "options": [
+        { "option": "Joule", "correct": true },
+        { "option": "Newton", "correct": false },
+        { "option": "Pascal", "correct": false },
+        { "option": "Hertz", "correct": false }
+      ]
+    },
+    {
+      "id": 170,
+      "question": "¿Cuál es el nombre del proceso mediante el cual las plantas liberan oxígeno?",
+      "options": [
+        { "option": "Respiración", "correct": false },
+        { "option": "Fotosíntesis", "correct": true },
+        { "option": "Fermentación", "correct": false },
+        { "option": "Digestión", "correct": false }
+      ]
+    },
+    {
+      "id": 171,
+      "question": "¿Cuál es el metal más ligero?",
+      "options": [
+        { "option": "Aluminio", "correct": false },
+        { "option": "Magnesio", "correct": false },
+        { "option": "Litio", "correct": true },
+        { "option": "Sodio", "correct": false }
+      ]
+    },
+    {
+      "id": 172,
+      "question": "¿Qué estudia la sismología?",
+      "options": [
+        { "option": "Los volcanes", "correct": false },
+        { "option": "Las montañas", "correct": false },
+        { "option": "Los huracanes", "correct": false },
+        { "option": "Los terremotos", "correct": true }
+      ]
+    },
+    {
+      "id": 173,
+      "question": "¿Qué tipo de estrella es el Sol?",
+      "options": [
+        { "option": "Enana amarilla", "correct": true },
+        { "option": "Gigante roja", "correct": false },
+        { "option": "Supernova", "correct": false },
+        { "option": "Neutrón", "correct": false }
+      ]
+    },
+    {
+      "id": 174,
+      "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+      "options": [
+        { "option": "Tibia", "correct": false },
+        { "option": "Fémur", "correct": true },
+        { "option": "Húmero", "correct": false },
+        { "option": "Radio", "correct": false }
+      ]
+    },
+    {
+      "id": 175,
+      "question": "¿Qué mineral es necesario para la formación de glóbulos rojos?",
+      "options": [
+        { "option": "Calcio", "correct": false },
+        { "option": "Magnesio", "correct": false },
+        { "option": "Hierro", "correct": true },
+        { "option": "Zinc", "correct": false }
+      ]
+    },
+    {
+      "id": 176,
+      "question": "¿Qué inventó Johannes Gutenberg?",
+      "options": [
+        { "option": "El telescopio", "correct": false },
+        { "option": "El microscopio", "correct": false },
+        { "option": "El termómetro", "correct": false },
+        { "option": "La imprenta", "correct": true }
+      ]
+    },
+    {
+      "id": 177,
+      "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "options": [
+        { "option": "La piel", "correct": true },
+        { "option": "El hígado", "correct": false },
+        { "option": "El cerebro", "correct": false },
+        { "option": "El corazón", "correct": false }
+      ]
+    },
+    {
+      "id": 178,
+      "question": "¿Qué tipo de energía generan las represas hidroeléctricas?",
+      "options": [
+        { "option": "Energía solar", "correct": false },
+        { "option": "Energía hidráulica", "correct": true },
+        { "option": "Energía eólica", "correct": false },
+        { "option": "Energía nuclear", "correct": false }
+      ]
+    },
+    {
+      "id": 079,
+      "question": "¿Cuál es el planeta más cercano al Sol?",
+      "options": [
+        { "option": "Venus", "correct": false },
+        { "option": "Marte", "correct": false },
+        { "option": "Mercurio", "correct": true },
+        { "option": "Tierra", "correct": false }
+      ]
+    },
+    {
+      "id": 180,
+      "question": "¿Qué científico es conocido como el padre de la tabla periódica?",
+      "options": [
+        { "option": "Antoine Lavoisier", "correct": false },
+        { "option": "Marie Curie", "correct": false },
+        { "option": "John Dalton", "correct": false },
+        { "option": "Dmitri Mendeléyev", "correct": true }
+      ]
+    },
+    {
+      "id": 181,
+      "question": "¿Cuál es el planeta más grande del sistema solar?",
+      "options": [
+        { "option": "Júpiter", "correct": true },
+        { "option": "Saturno", "correct": false },
+        { "option": "Neptuno", "correct": false },
+        { "option": "Urano", "correct": false }
+      ]
+    },
+    {
+      "id": 182,
+      "question": "¿Qué nombre recibe el estudio de los fósiles?",
+      "options": [
+        { "option": "Arqueología", "correct": false },
+        { "option": "Paleontología", "correct": true },
+        { "option": "Geología", "correct": false },
+        { "option": "Antropología", "correct": false }
+      ]
+    },
+    {
+      "id": 183,
+      "question": "¿Qué inventó Alexander Fleming?",
+      "options": [
+        { "option": "La vacuna contra la rabia", "correct": false },
+        { "option": "El microscopio", "correct": false },
+        { "option": "La penicilina", "correct": true },
+        { "option": "La insulina", "correct": false }
+      ]
+    },
+    {
+      "id": 184,
+      "question": "¿Qué planeta es conocido como el planeta rojo?",
+      "options": [
+        { "option": "Venus", "correct": false },
+        { "option": "Mercurio", "correct": false },
+        { "option": "Júpiter", "correct": false },
+        { "option": "Marte", "correct": true }
+      ]
+    },
+    {
+      "id": 185,
+      "question": "¿Qué tejido conecta los músculos con los huesos?",
+      "options": [
+        { "option": "Tendones", "correct": true },
+        { "option": "Ligamentos", "correct": false },
+        { "option": "Cartílagos", "correct": false },
+        { "option": "Nervios", "correct": false }
+      ]
+    },
+    {
+      "id": 186,
+      "question": "¿Qué tipo de sangre se considera donante universal?",
+      "options": [
+        { "option": "O positivo", "correct": false },
+        { "option": "O negativo", "correct": true },
+        { "option": "AB positivo", "correct": false },
+        { "option": "A negativo", "correct": false }
+      ]
+    },
+    {
+      "id": 187,
+      "question": "¿Quién fue el primero en observar microorganismos con un microscopio?",
+      "options": [
+        { "option": "Robert Hooke", "correct": false },
+        { "option": "Louis Pasteur", "correct": false },
+        { "option": "Antonie van Leeuwenhoek", "correct": true },
+        { "option": "Charles Darwin", "correct": false }
+      ]
+    },
+    {
+      "id": 188,
+      "question": "¿Qué elemento químico tiene el símbolo 'Na'?",
+      "options": [
+        { "option": "Nitrógeno", "correct": false },
+        { "option": "Neón", "correct": false },
+        { "option": "Níquel", "correct": false },
+        { "option": "Sodio", "correct": true }
+      ]
+    },
+    {
+      "id": 189,
+      "question": "¿Cuál es la estrella más cercana a la Tierra después del Sol?",
+      "options": [
+        { "option": "Próxima Centauri", "correct": true },
+        { "option": "Sirio", "correct": false },
+        { "option": "Betelgeuse", "correct": false },
+        { "option": "Vega", "correct": false }
+      ]
+    },
+    {
+      "id": 190,
+      "question": "¿Qué planeta tiene un día más largo que su año?",
+      "options": [
+        { "option": "Mercurio", "correct": false },
+        { "option": "Venus", "correct": true },
+        { "option": "Marte", "correct": false },
+        { "option": "Neptuno", "correct": false }
+      ]
+    },
+    {
+      "id": 191,
+      "question": "¿Qué nombre recibe el estudio de los insectos?",
+      "options": [
+        { "option": "Ornitología", "correct": false },
+        { "option": "Herpetología", "correct": false },
+        { "option": "Entomología", "correct": true },
+        { "option": "Botánica", "correct": false }
+      ]
+    },
+    {
+      "id": 192,
+      "question": "¿Cuál es el gas que constituye la mayor parte de la atmósfera terrestre?",
+      "options": [
+        { "option": "Oxígeno", "correct": false },
+        { "option": "Dióxido de carbono", "correct": false },
+        { "option": "Argón", "correct": false },
+        { "option": "Nitrógeno", "correct": true }
+      ]
+    },
+    {
+      "id": 193,
+      "question": "¿Qué científico formuló las leyes de la herencia genética?",
+      "options": [
+        { "option": "Gregor Mendel", "correct": true },
+        { "option": "Charles Darwin", "correct": false },
+        { "option": "James Watson", "correct": false },
+        { "option": "Louis Pasteur", "correct": false }
+      ]
+    },
+    {
+      "id": 194,
+      "question": "¿Cuál es el planeta con más satélites en el sistema solar?",
+      "options": [
+        { "option": "Júpiter", "correct": false },
+        { "option": "Saturno", "correct": true },
+        { "option": "Neptuno", "correct": false },
+        { "option": "Urano", "correct": false }
+      ]
+    },
+    {
+      "id": 195,
+      "question": "¿Qué tipo de célula no tiene núcleo definido?",
+      "options": [
+        { "option": "Eucariota", "correct": false },
+        { "option": "Somática", "correct": false },
+        { "option": "Procariota", "correct": true },
+        { "option": "Neurona", "correct": false }
+      ]
+    },
+    {
+      "id": 196,
+      "question": "¿Cuál es la fórmula química del agua oxigenada?",
+      "options": [
+        { "option": "H2O", "correct": false },
+        { "option": "HO", "correct": false },
+        { "option": "OH2", "correct": false },
+        { "option": "H2O2", "correct": true }
+      ]
+    },
+    {
+      "id": 197,
+      "question": "¿Cuál es el animal más rápido del mundo?",
+      "options": [
+        { "option": "Guepardo", "correct": true },
+        { "option": "Halcón peregrino", "correct": false },
+        { "option": "León", "correct": false },
+        { "option": "Tigre", "correct": false }
+      ]
+    },
+    {
+      "id": 198,
+      "question": "¿Qué científico descubrió que la Tierra gira alrededor del Sol?",
+      "options": [
+        { "option": "Galileo Galilei", "correct": false },
+        { "option": "Nicolás Copérnico", "correct": true },
+        { "option": "Johannes Kepler", "correct": false },
+        { "option": "Isaac Newton", "correct": false }
+      ]
+    },
+    {
+      "id": 199,
+      "question": "¿Qué tipo de energía producen los paneles solares?",
+      "options": [
+        { "option": "Energía térmica", "correct": false },
+        { "option": "Energía nuclear", "correct": false },
+        { "option": "Energía solar fotovoltaica", "correct": true },
+        { "option": "Energía eólica", "correct": false }
+      ]
+    },
+    {
+      "id": 200,
+      "question": "¿Qué científico es considerado el padre de la microbiología?",
+      "options": [
+        { "option": "Robert Koch", "correct": false },
+        { "option": "Antonie van Leeuwenhoek", "correct": false },
+        { "option": "Joseph Lister", "correct": false }
+        { "option": "Louis Pasteur", "correct": true }
+      ]
     }
   ]
 }
