@@ -149,12 +149,7 @@ function MusicChallenge() {
         />
       </AnimatePresence>
 
-      {/* Info de debug (opcional, puedes removerlo en producción) */}
-      <div className="mt-4 text-xs text-gray-500 text-center">
-        <p>Pregunta {currentQuestion + 1} de 10</p>
-        <p>ID actual: {selectedQuestions[currentQuestion]?.id}</p>
-        <p>IDs usados anteriormente: {usedIds.length}</p>
-      </div>
+
       <div className='min-w-screen flex justify-center'>
         <button
           onClick={() => navigate("/")}
