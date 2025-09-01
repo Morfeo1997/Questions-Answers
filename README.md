@@ -44,13 +44,27 @@
 ---
 
 ## 📂 Estructura del proyecto
+* Question-Answers/
+* ── public/
+* ── src/
+*   ├── components/   # Componentes React consumidos por las paginas en Pages
+*   ├── Data/         # Archivos JSON con preguntas por categoría
+*   ├── Pages/        # Paginas en formato jsx que utilizan los componentes para funcionar
+*   └── App.jsx
+*   └── index.jsx
+*   └── main.jsx
+* ── esling.config.js
+* ── index.html
+* ── package.json
+* ── package-lock.json
+* ── README.md
+* ── vite.config.js
 
-
-
+---
 
 ## Links
 
-- Repositorio: 
-- Pagina:
+- Repositorio: https://github.com/Morfeo1997/Questions-Answers
+- Pagina: https://10-preguntas.netlify.app/
 
 
