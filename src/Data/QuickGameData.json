@@ -4005,6 +4005,2006 @@
         { "option": "$2.50", "correct": false },
         { "option": "$3", "correct": true }
       ]
+    },
+    {
+      "id": 501,
+      "question": "¿Quién es conocido como el 'Rey del Rock and Roll'?",
+      "options": [
+        { "option": "Elvis Presley", "correct": true },
+        { "option": "Chuck Berry", "correct": false },
+        { "option": "Little Richard", "correct": false },
+        { "option": "Buddy Holly", "correct": false }
+      ]
+    },
+    {
+      "id": 502,
+      "question": "¿Qué grupo británico lanzó el álbum 'Abbey Road'?",
+      "options": [
+        { "option": "The Rolling Stones", "correct": false },
+        { "option": "The Beatles", "correct": true },
+        { "option": "The Who", "correct": false },
+        { "option": "Pink Floyd", "correct": false }
+      ]
+    },
+    {
+      "id": 503,
+      "question": "¿Quién compuso la famosa 'Sinfonía No. 9'?",
+      "options": [
+        { "option": "Johann Sebastian Bach", "correct": false },
+        { "option": "Wolfgang Amadeus Mozart", "correct": false },
+        { "option": "Ludwig van Beethoven", "correct": true },
+        { "option": "Frédéric Chopin", "correct": false }
+      ]
+    },
+    {
+      "id": 504,
+      "question": "¿Qué cantante es apodada 'La Reina del Pop'?",
+      "options": [
+        { "option": "Lady Gaga", "correct": false },
+        { "option": "Britney Spears", "correct": false },
+        { "option": "Cher", "correct": false },
+        { "option": "Madonna", "correct": true }
+      ]
+    },
+    {
+      "id": 505,
+      "question": "¿De qué país es originaria la banda AC/DC?",
+      "options": [
+        { "option": "Australia", "correct": true },
+        { "option": "Estados Unidos", "correct": false },
+        { "option": "Reino Unido", "correct": false },
+        { "option": "Canadá", "correct": false }
+      ]
+    },
+    {
+      "id": 506,
+      "question": "¿Quién compuso la ópera 'La Traviata'?",
+      "options": [
+        { "option": "Gioachino Rossini", "correct": false },
+        { "option": "Giuseppe Verdi", "correct": true },
+        { "option": "Richard Wagner", "correct": false },
+        { "option": "Antonio Vivaldi", "correct": false }
+      ]
+    },
+    {
+      "id": 507,
+      "question": "¿Qué artista fue apodado 'El Rey del Pop'?",
+      "options": [
+        { "option": "Prince", "correct": false },
+        { "option": "Elton John", "correct": false },
+        { "option": "Michael Jackson", "correct": true },
+        { "option": "Stevie Wonder", "correct": false }
+      ]
+    },
+    {
+      "id": 508,
+      "question": "¿Qué banda lanzó el disco 'The Dark Side of the Moon'?",
+      "options": [
+        { "option": "Led Zeppelin", "correct": false },
+        { "option": "Queen", "correct": false },
+        { "option": "Genesis", "correct": false },
+        { "option": "Pink Floyd", "correct": true }
+      ]
+    },
+    {
+      "id": 509,
+      "question": "¿Qué cantante latina lanzó el álbum 'Laundry Service' en 2001?",
+      "options": [
+        { "option": "Shakira", "correct": true },
+        { "option": "Paulina Rubio", "correct": false },
+        { "option": "Thalía", "correct": false },
+        { "option": "Jennifer Lopez", "correct": false }
+      ]
+    },
+    {
+      "id": 510,
+      "question": "¿Qué compositor es conocido como 'El padre del Clasicismo'?",
+      "options": [
+        { "option": "Wolfgang Amadeus Mozart", "correct": false },
+        { "option": "Joseph Haydn", "correct": true },
+        { "option": "Johann Sebastian Bach", "correct": false },
+        { "option": "Franz Schubert", "correct": false }
+      ]
+    },
+    {
+      "id": 511,
+      "question": "¿Qué legendaria banda británica compuso la canción 'Bohemian Rhapsody'?",
+      "options": [
+        { "option": "The Rolling Stones", "correct": false },
+        { "option": "The Beatles", "correct": false },
+        { "option": "Queen", "correct": true },
+        { "option": "Led Zeppelin", "correct": false }
+      ]
+    },
+    {
+      "id": 512,
+      "question": "¿Quién fue el líder de la banda Nirvana?",
+      "options": [
+        { "option": "Eddie Vedder", "correct": false },
+        { "option": "Chris Cornell", "correct": false },
+        { "option": "Dave Grohl", "correct": false },
+        { "option": "Kurt Cobain", "correct": true }
+      ]
+    },
+    {
+      "id": 513,
+      "question": "¿Qué cantante estadounidense fue apodada 'La Voz'?",
+      "options": [
+        { "option": "Frank Sinatra", "correct": true },
+        { "option": "Dean Martin", "correct": false },
+        { "option": "Tony Bennett", "correct": false },
+        { "option": "Bing Crosby", "correct": false }
+      ]
+    },
+    {
+      "id": 514,
+      "question": "¿De qué país es originario el género musical Reggae?",
+      "options": [
+        { "option": "Cuba", "correct": false },
+        { "option": "Jamaica", "correct": true },
+        { "option": "Estados Unidos", "correct": false },
+        { "option": "Brasil", "correct": false }
+      ]
+    },
+    {
+      "id": 515,
+      "question": "¿Quién es el compositor de la famosa ópera 'El anillo del nibelungo'?",
+      "options": [
+        { "option": "Giacomo Puccini", "correct": false },
+        { "option": "Ludwig van Beethoven", "correct": false },
+        { "option": "Richard Wagner", "correct": true },
+        { "option": "Franz Liszt", "correct": false }
+      ]
+    },
+    {
+      "id": 516,
+      "question": "¿Qué grupo estadounidense popularizó la canción 'Hotel California'?",
+      "options": [
+        { "option": "Fleetwood Mac", "correct": false },
+        { "option": "The Doors", "correct": false },
+        { "option": "The Beach Boys", "correct": false },
+        { "option": "Eagles", "correct": true }
+      ]
+    },
+    {
+      "id": 517,
+      "question": "¿Qué famoso compositor perdió casi por completo la audición en su vida adulta?",
+      "options": [
+        { "option": "Ludwig van Beethoven", "correct": true },
+        { "option": "Frédéric Chopin", "correct": false },
+        { "option": "Johannes Brahms", "correct": false },
+        { "option": "Claude Debussy", "correct": false }
+      ]
+    },
+    {
+      "id": 518,
+      "question": "¿Quién canta la canción 'Like a Rolling Stone'?",
+      "options": [
+        { "option": "Bruce Springsteen", "correct": false },
+        { "option": "Bob Dylan", "correct": true },
+        { "option": "Neil Young", "correct": false },
+        { "option": "Tom Petty", "correct": false }
+      ]
+    },
+    {
+      "id": 519,
+      "question": "¿Qué instrumento musical toca Yo-Yo Ma?",
+      "options": [
+        { "option": "Piano", "correct": false },
+        { "option": "Violín", "correct": false },
+        { "option": "Violoncello", "correct": true },
+        { "option": "Contrabajo", "correct": false }
+      ]
+    },
+    {
+      "id": 520,
+      "question": "¿Qué cantante británico es conocido por éxitos como 'Rocket Man' y 'Tiny Dancer'?",
+      "options": [
+        { "option": "David Bowie", "correct": false },
+        { "option": "Phil Collins", "correct": false },
+        { "option": "George Michael", "correct": false },
+        { "option": "Elton John", "correct": true }
+      ]
+    },
+    {
+      "id": 521,
+      "question": "¿Qué cantante británica interpretó la canción 'Rolling in the Deep'?",
+      "options": [
+        { "option": "Adele", "correct": true },
+        { "option": "Amy Winehouse", "correct": false },
+        { "option": "Dua Lipa", "correct": false },
+        { "option": "Jessie J", "correct": false }
+      ]
+    },
+    {
+      "id": 522,
+      "question": "¿Qué famoso festival de música se celebró en 1969 en Nueva York?",
+      "options": [
+        { "option": "Coachella", "correct": false },
+        { "option": "Woodstock", "correct": true },
+        { "option": "Glastonbury", "correct": false },
+        { "option": "Isle of Wight", "correct": false }
+      ]
+    },
+    {
+      "id": 523,
+      "question": "¿Qué género musical popularizó Bob Marley?",
+      "options": [
+        { "option": "Ska", "correct": false },
+        { "option": "Calypso", "correct": false },
+        { "option": "Reggae", "correct": true },
+        { "option": "Dub", "correct": false }
+      ]
+    },
+    {
+      "id": 524,
+      "question": "¿Qué miembro de The Beatles fue apodado 'El chico tranquilo'?",
+      "options": [
+        { "option": "Ringo Starr", "correct": false },
+        { "option": "John Lennon", "correct": false },
+        { "option": "Paul McCartney", "correct": false },
+        { "option": "George Harrison", "correct": true }
+      ]
+    },
+    {
+      "id": 525,
+      "question": "¿Quién compuso la obra 'Las cuatro estaciones'?",
+      "options": [
+        { "option": "Antonio Vivaldi", "correct": true },
+        { "option": "Johann Sebastian Bach", "correct": false },
+        { "option": "Georg Friedrich Händel", "correct": false },
+        { "option": "Claudio Monteverdi", "correct": false }
+      ]
+    },
+    {
+      "id": 526,
+      "question": "¿Qué cantante interpretó el tema 'I Will Always Love You', famoso por la película 'El Guardaespaldas'?",
+      "options": [
+        { "option": "Mariah Carey", "correct": false },
+        { "option": "Whitney Houston", "correct": true },
+        { "option": "Celine Dion", "correct": false },
+        { "option": "Tina Turner", "correct": false }
+      ]
+    },
+    {
+      "id": 527,
+      "question": "¿De qué país proviene el tango?",
+      "options": [
+        { "option": "Uruguay", "correct": false },
+        { "option": "España", "correct": false },
+        { "option": "Argentina", "correct": true },
+        { "option": "Cuba", "correct": false }
+      ]
+    },
+    {
+      "id": 528,
+      "question": "¿Qué cantante es conocido como 'El Sol de México'?",
+      "options": [
+        { "option": "Vicente Fernández", "correct": false },
+        { "option": "Juan Gabriel", "correct": false },
+        { "option": "José José", "correct": false },
+        { "option": "Luis Miguel", "correct": true }
+      ]
+    },
+    {
+      "id": 529,
+      "question": "¿Qué artista lanzó el álbum 'Born to Run' en 1975?",
+      "options": [
+        { "option": "Bruce Springsteen", "correct": true },
+        { "option": "Billy Joel", "correct": false },
+        { "option": "Bob Dylan", "correct": false },
+        { "option": "Tom Petty", "correct": false }
+      ]
+    },
+    {
+      "id": 530,
+      "question": "¿Cuál de estos instrumentos pertenece a la familia de viento-madera?",
+      "options": [
+        { "option": "Trombón", "correct": false },
+        { "option": "Clarinete", "correct": true },
+        { "option": "Tuba", "correct": false },
+        { "option": "Violín", "correct": false }
+      ]
+    },
+    {
+      "id": 531,
+      "question": "¿Qué cantante es conocida como la 'Reina del Pop'?",
+      "options": [
+        { "option": "Britney Spears", "correct": false },
+        { "option": "Lady Gaga", "correct": false },
+        { "option": "Madonna", "correct": true },
+        { "option": "Kylie Minogue", "correct": false }
+      ]
+    },
+    {
+      "id": 532,
+      "question": "¿Qué compositor es autor del 'Réquiem en re menor'?",
+      "options": [
+        { "option": "Johannes Brahms", "correct": false },
+        { "option": "Joseph Haydn", "correct": false },
+        { "option": "Franz Schubert", "correct": false },
+        { "option": "Wolfgang Amadeus Mozart", "correct": true }
+      ]
+    },
+    {
+      "id": 533,
+      "question": "¿Qué legendaria banda publicó el álbum 'Dark Side of the Moon'?",
+      "options": [
+        { "option": "Pink Floyd", "correct": true },
+        { "option": "The Who", "correct": false },
+        { "option": "Yes", "correct": false },
+        { "option": "Genesis", "correct": false }
+      ]
+    },
+    {
+      "id": 534,
+      "question": "¿Qué cantante interpretó la canción 'Shape of You'?",
+      "options": [
+        { "option": "Shawn Mendes", "correct": false },
+        { "option": "Ed Sheeran", "correct": true },
+        { "option": "Sam Smith", "correct": false },
+        { "option": "Justin Bieber", "correct": false }
+      ]
+    },
+    {
+      "id": 535,
+      "question": "¿Qué instrumento musical es característico del flamenco?",
+      "options": [
+        { "option": "Cajón peruano", "correct": false },
+        { "option": "Violín", "correct": false },
+        { "option": "Guitarra española", "correct": true },
+        { "option": "Acordeón", "correct": false }
+      ]
+    },
+    {
+      "id": 536,
+      "question": "¿Qué cantante lanzó el disco 'Thriller', el más vendido de la historia?",
+      "options": [
+        { "option": "Prince", "correct": false },
+        { "option": "Lionel Richie", "correct": false },
+        { "option": "Stevie Wonder", "correct": false },
+        { "option": "Michael Jackson", "correct": true }
+      ]
+    },
+    {
+      "id": 537,
+      "question": "¿Qué compositor ruso es autor de 'El lago de los cisnes'?",
+      "options": [
+        { "option": "Piotr Ilich Chaikovski", "correct": true },
+        { "option": "Igor Stravinski", "correct": false },
+        { "option": "Sergei Rachmaninov", "correct": false },
+        { "option": "Dmitri Shostakóvich", "correct": false }
+      ]
+    },
+    {
+      "id": 538,
+      "question": "¿Qué grupo es conocido por la canción 'Smells Like Teen Spirit'?",
+      "options": [
+        { "option": "Pearl Jam", "correct": false },
+        { "option": "Nirvana", "correct": true },
+        { "option": "Soundgarden", "correct": false },
+        { "option": "Alice in Chains", "correct": false }
+      ]
+    },
+    {
+      "id": 539,
+      "question": "¿Quién es considerado el 'Rey del Rock and Roll'?",
+      "options": [
+        { "option": "Chuck Berry", "correct": false },
+        { "option": "Little Richard", "correct": false },
+        { "option": "Elvis Presley", "correct": true },
+        { "option": "Jerry Lee Lewis", "correct": false }
+      ]
+    },
+    {
+      "id": 540,
+      "question": "¿Qué cantante compuso y cantó 'Imagine'?",
+      "options": [
+        { "option": "Paul McCartney", "correct": false },
+        { "option": "George Harrison", "correct": false },
+        { "option": "Billy Joel", "correct": false },
+        { "option": "John Lennon", "correct": true }
+      ]
+    },
+    {
+      "id": 541,
+      "question": "¿Qué banda británica es conocida por la canción 'Bohemian Rhapsody'?",
+      "options": [
+        { "option": "Queen", "correct": true },
+        { "option": "The Rolling Stones", "correct": false },
+        { "option": "The Beatles", "correct": false },
+        { "option": "Led Zeppelin", "correct": false }
+      ]
+    },
+    {
+      "id": 542,
+      "question": "¿Qué famoso compositor alemán quedó sordo en su vida adulta?",
+      "options": [
+        { "option": "Johann Sebastian Bach", "correct": false },
+        { "option": "Ludwig van Beethoven", "correct": true },
+        { "option": "Richard Wagner", "correct": false },
+        { "option": "Joseph Haydn", "correct": false }
+      ]
+    },
+    {
+      "id": 543,
+      "question": "¿Quién es la voz principal de la banda U2?",
+      "options": [
+        { "option": "The Edge", "correct": false },
+        { "option": "Sting", "correct": false },
+        { "option": "Bono", "correct": true },
+        { "option": "Chris Martin", "correct": false }
+      ]
+    },
+    {
+      "id": 544,
+      "question": "¿Qué cantante lanzó el exitoso álbum '1989'?",
+      "options": [
+        { "option": "Katy Perry", "correct": false },
+        { "option": "Selena Gomez", "correct": false },
+        { "option": "Ariana Grande", "correct": false },
+        { "option": "Taylor Swift", "correct": true }
+      ]
+    },
+    {
+      "id": 545,
+      "question": "¿Cuál de estos géneros se originó en Estados Unidos?",
+      "options": [
+        { "option": "Jazz", "correct": true },
+        { "option": "Flamenco", "correct": false },
+        { "option": "Samba", "correct": false },
+        { "option": "Reguetón", "correct": false }
+      ]
+    },
+    {
+      "id": 546,
+      "question": "¿Qué grupo femenino lanzó el álbum 'Spice' en los 90?",
+      "options": [
+        { "option": "Destiny's Child", "correct": false },
+        { "option": "Spice Girls", "correct": true },
+        { "option": "TLC", "correct": false },
+        { "option": "All Saints", "correct": false }
+      ]
+    },
+    {
+      "id": 547,
+      "question": "¿Qué músico argentino fue el cantante de la banda 'Soda Estereo'?",
+      "options": [
+        { "option": "Andrés Calamaro", "correct": false },
+        { "option": "Charly García", "correct": false },
+        { "option": "Gustavo Cerati", "correct": true },
+        { "option": "Fito Páez", "correct": false }
+      ]
+    },
+    {
+      "id": 548,
+      "question": "¿Qué banda es conocida por la canción 'Hotel California'?",
+      "options": [
+        { "option": "Fleetwood Mac", "correct": false },
+        { "option": "America", "correct": false },
+        { "option": "The Doors", "correct": false },
+        { "option": "Eagles", "correct": true }
+      ]
+    },
+    {
+      "id": 549,
+      "question": "¿Qué cantante española popularizó el tema 'Malamente'?",
+      "options": [
+        { "option": "Rosalía", "correct": true },
+        { "option": "Aitana", "correct": false },
+        { "option": "India Martínez", "correct": false },
+        { "option": "Pastora Soler", "correct": false }
+      ]
+    },
+    {
+      "id": 550,
+      "question": "¿Qué instrumento de percusión es típico de África occidental?",
+      "options": [
+        { "option": "Bongo", "correct": false },
+        { "option": "Djembe", "correct": true },
+        { "option": "Cajón", "correct": false },
+        { "option": "Tambor de acero", "correct": false }
+      ]
+    },
+    {
+      "id": 551,
+      "question": "¿Quién fue el guitarrista legendario apodado 'Slowhand'?",
+      "options": [
+        { "option": "Jimmy Page", "correct": false },
+        { "option": "Jimi Hendrix", "correct": false },
+        { "option": "Eric Clapton", "correct": true },
+        { "option": "Mark Knopfler", "correct": false }
+      ]
+    },
+    {
+      "id": 552,
+      "question": "¿Qué banda lanzó la canción 'Yellow Submarine'?",
+      "options": [
+        { "option": "The Rolling Stones", "correct": false },
+        { "option": "The Beach Boys", "correct": false },
+        { "option": "The Kinks", "correct": false },
+        { "option": "The Beatles", "correct": true }
+      ]
+    },
+    {
+      "id": 553,
+      "question": "¿Qué cantante de soul interpretó la canción 'Respect'?",
+      "options": [
+        { "option": "Aretha Franklin", "correct": true },
+        { "option": "Etta James", "correct": false },
+        { "option": "Diana Ross", "correct": false },
+        { "option": "Tina Turner", "correct": false }
+      ]
+    },
+    {
+      "id": 554,
+      "question": "¿Qué dúo francés es famoso por el tema 'One More Time'?",
+      "options": [
+        { "option": "Justice", "correct": false },
+        { "option": "Daft Punk", "correct": true },
+        { "option": "Air", "correct": false },
+        { "option": "Cassius", "correct": false }
+      ]
+    },
+    {
+      "id": 555,
+      "question": "¿Qué cantante mexicana es conocida como 'La Diva de la Banda'?",
+      "options": [
+        { "option": "Ana Gabriel", "correct": false },
+        { "option": "Gloria Trevi", "correct": false },
+        { "option": "Jenni Rivera", "correct": true },
+        { "option": "Paquita la del Barrio", "correct": false }
+      ]
+    },
+    {
+      "id": 556,
+      "question": "¿Qué compositor barroco escribió 'Las cuatro estaciones'?",
+      "options": [
+        { "option": "Johann Sebastian Bach", "correct": false },
+        { "option": "George Frideric Handel", "correct": false },
+        { "option": "Claudio Monteverdi", "correct": false },
+        { "option": "Antonio Vivaldi", "correct": true }
+      ]
+    },
+    {
+      "id": 557,
+      "question": "¿Qué cantante es apodado 'El Sol de México'?",
+      "options": [
+        { "option": "Luis Miguel", "correct": true },
+        { "option": "Vicente Fernández", "correct": false },
+        { "option": "José José", "correct": false },
+        { "option": "Juan Gabriel", "correct": false }
+      ]
+    },
+    {
+      "id": 558,
+      "question": "¿Qué género musical popularizó Bob Marley?",
+      "options": [
+        { "option": "Ska", "correct": false },
+        { "option": "Reggae", "correct": true },
+        { "option": "Calypso", "correct": false },
+        { "option": "Dancehall", "correct": false }
+      ]
+    },
+    {
+      "id": 559,
+      "question": "¿Qué cantante lanzó el álbum 'Like a Virgin' en 1984?",
+      "options": [
+        { "option": "Whitney Houston", "correct": false },
+        { "option": "Cyndi Lauper", "correct": false },
+        { "option": "Madonna", "correct": true },
+        { "option": "Janet Jackson", "correct": false }
+      ]
+    },
+    {
+      "id": 560,
+      "question": "¿Qué famoso guitarrista zurdo murió en 1970?",
+      "options": [
+        { "option": "Keith Richards", "correct": false },
+        { "option": "George Harrison", "correct": false },
+        { "option": "Carlos Santana", "correct": false },
+        { "option": "Jimi Hendrix", "correct": true }
+      ]
+    },
+    {
+      "id": 561,
+      "question": "¿Qué famoso director de orquesta fue apodado 'El Mago de Bayreuth'?",
+      "options": [
+        { "option": "Richard Wagner", "correct": true },
+        { "option": "Herbert von Karajan", "correct": false },
+        { "option": "Leonard Bernstein", "correct": false },
+        { "option": "Arturo Toscanini", "correct": false }
+      ]
+    },
+    {
+      "id": 562,
+      "question": "¿Qué grupo británico lanzó el álbum 'Dark Side of the Moon'?",
+      "options": [
+        { "option": "Yes", "correct": false },
+        { "option": "Pink Floyd", "correct": true },
+        { "option": "Genesis", "correct": false },
+        { "option": "Deep Purple", "correct": false }
+      ]
+    },
+    {
+      "id": 563,
+      "question": "¿Quién es conocido como el 'Rey del Rock and Roll'?",
+      "options": [
+        { "option": "Chuck Berry", "correct": false },
+        { "option": "Buddy Holly", "correct": false },
+        { "option": "Elvis Presley", "correct": true },
+        { "option": "Little Richard", "correct": false }
+      ]
+    },
+    {
+      "id": 564,
+      "question": "¿Qué cantante lanzó la canción 'Shape of You'?",
+      "options": [
+        { "option": "Sam Smith", "correct": false },
+        { "option": "Shawn Mendes", "correct": false },
+        { "option": "Bruno Mars", "correct": false },
+        { "option": "Ed Sheeran", "correct": true }
+      ]
+    },
+    {
+      "id": 565,
+      "question": "¿Qué compositor ruso escribió 'El lago de los cisnes'?",
+      "options": [
+        { "option": "Piotr Ilich Chaikovski", "correct": true },
+        { "option": "Igor Stravinski", "correct": false },
+        { "option": "Sergei Rachmaninov", "correct": false },
+        { "option": "Dmitri Shostakovich", "correct": false }
+      ]
+    },
+    {
+      "id": 566,
+      "question": "¿Qué cantante fue líder del grupo Nirvana?",
+      "options": [
+        { "option": "Dave Grohl", "correct": false },
+        { "option": "Kurt Cobain", "correct": true },
+        { "option": "Eddie Vedder", "correct": false },
+        { "option": "Chris Cornell", "correct": false }
+      ]
+    },
+    {
+      "id": 567,
+      "question": "¿Qué grupo argentino es famoso por la canción 'De música ligera'?",
+      "options": [
+        { "option": "Los Fabulosos Cadillacs", "correct": false },
+        { "option": "Los Enanitos Verdes", "correct": false },
+        { "option": "Soda Stereo", "correct": true },
+        { "option": "Virus", "correct": false }
+      ]
+    },
+    {
+      "id": 568,
+      "question": "¿Qué rapero estadounidense es conocido por el álbum 'The Marshall Mathers LP'?",
+      "options": [
+        { "option": "Jay-Z", "correct": false },
+        { "option": "Dr. Dre", "correct": false },
+        { "option": "Kanye West", "correct": false },
+        { "option": "Eminem", "correct": true }
+      ]
+    },
+    {
+      "id": 569,
+      "question": "¿Qué cantante chileno es autor de la canción 'Gracias a la vida'?",
+      "options": [
+        { "option": "Violeta Parra", "correct": true },
+        { "option": "Víctor Jara", "correct": false },
+        { "option": "Inti-Illimani", "correct": false },
+        { "option": "Myriam Hernández", "correct": false }
+      ]
+    },
+    {
+      "id": 570,
+      "question": "¿Qué artista lanzó el álbum 'Thriller', el más vendido de la historia?",
+      "options": [
+        { "option": "Prince", "correct": false },
+        { "option": "Michael Jackson", "correct": true },
+        { "option": "Whitney Houston", "correct": false },
+        { "option": "Lionel Richie", "correct": false }
+      ]
+    },
+    {
+      "id": 571,
+      "question": "¿Qué compositor alemán escribió la ópera 'El anillo del nibelungo'?",
+      "options": [
+        { "option": "Johann Strauss", "correct": false },
+        { "option": "Gustav Mahler", "correct": false },
+        { "option": "Richard Wagner", "correct": true },
+        { "option": "Ludwig van Beethoven", "correct": false }
+      ]
+    },
+    {
+      "id": 572,
+      "question": "¿Qué grupo británico lanzó la canción 'Bohemian Rhapsody'?",
+      "options": [
+        { "option": "The Who", "correct": false },
+        { "option": "The Rolling Stones", "correct": false },
+        { "option": "Led Zeppelin", "correct": false },
+        { "option": "Queen", "correct": true }
+      ]
+    },
+    {
+      "id": 573,
+      "question": "¿Quién es conocido como el 'Príncipe de la canción' en México?",
+      "options": [
+        { "option": "José José", "correct": true },
+        { "option": "Juan Gabriel", "correct": false },
+        { "option": "Luis Miguel", "correct": false },
+        { "option": "Vicente Fernández", "correct": false }
+      ]
+    },
+    {
+      "id": 574,
+      "question": "¿Qué cantante lanzó el álbum '21' en 2011?",
+      "options": [
+        { "option": "Taylor Swift", "correct": false },
+        { "option": "Adele", "correct": true },
+        { "option": "Kelly Clarkson", "correct": false },
+        { "option": "Lana Del Rey", "correct": false }
+      ]
+    },
+    {
+      "id": 575,
+      "question": "¿Qué compositor austriaco murió a los 35 años dejando su Réquiem inconcluso?",
+      "options": [
+        { "option": "Franz Schubert", "correct": false },
+        { "option": "Joseph Haydn", "correct": false },
+        { "option": "Wolfgang Amadeus Mozart", "correct": true },
+        { "option": "Anton Bruckner", "correct": false }
+      ]
+    },
+    {
+      "id": 576,
+      "question": "¿Qué grupo estadounidense es famoso por la canción 'Hotel California'?",
+      "options": [
+        { "option": "Fleetwood Mac", "correct": false },
+        { "option": "Creedence Clearwater Revival", "correct": false },
+        { "option": "The Doors", "correct": false },
+        { "option": "Eagles", "correct": true }
+      ]
+    },
+    {
+      "id": 577,
+      "question": "¿Qué rapero fue asesinado en 1996 en Las Vegas?",
+      "options": [
+        { "option": "Tupac Shakur", "correct": true },
+        { "option": "The Notorious B.I.G.", "correct": false },
+        { "option": "Eazy-E", "correct": false },
+        { "option": "Big Pun", "correct": false }
+      ]
+    },
+    {
+      "id": 578,
+      "question": "¿Qué grupo de rock argentino es conocido por la canción 'La balsa'?",
+      "options": [
+        { "option": "Manal", "correct": false },
+        { "option": "Los Gatos", "correct": true },
+        { "option": "Almendra", "correct": false },
+        { "option": "Serú Girán", "correct": false }
+      ]
+    },
+    {
+      "id": 579,
+      "question": "¿Qué cantante estadounidense popularizó el tema 'Born in the U.S.A.'?",
+      "options": [
+        { "option": "Billy Joel", "correct": false },
+        { "option": "Tom Petty", "correct": false },
+        { "option": "Bruce Springsteen", "correct": true },
+        { "option": "Bob Dylan", "correct": false }
+      ]
+    },
+    {
+      "id": 580,
+      "question": "¿Qué cantante española es conocida como 'La Faraona'?",
+      "options": [
+        { "option": "Rocío Jurado", "correct": false },
+        { "option": "Isabel Pantoja", "correct": false },
+        { "option": "Marisol", "correct": false },
+        { "option": "Lola Flores", "correct": true }
+      ]
+    },
+    {
+      "id": 581,
+      "question": "¿Qué compositor alemán escribió la 'Oda a la Alegría' incluida en su Novena Sinfonía?",
+      "options": [
+        { "option": "Ludwig van Beethoven", "correct": true },
+        { "option": "Johannes Brahms", "correct": false },
+        { "option": "Richard Strauss", "correct": false },
+        { "option": "Felix Mendelssohn", "correct": false }
+      ]
+    },
+    {
+      "id": 582,
+      "question": "¿Qué cantante canadiense es conocida por canciones como 'My Heart Will Go On'?",
+      "options": [
+        { "option": "Shania Twain", "correct": false },
+        { "option": "Céline Dion", "correct": true },
+        { "option": "Avril Lavigne", "correct": false },
+        { "option": "Alanis Morissette", "correct": false }
+      ]
+    },
+    {
+      "id": 583,
+      "question": "¿Qué banda de rock británica compuso la canción 'Stairway to Heaven'?",
+      "options": [
+        { "option": "The Rolling Stones", "correct": false },
+        { "option": "Queen", "correct": false },
+        { "option": "Led Zeppelin", "correct": true },
+        { "option": "The Who", "correct": false }
+      ]
+    },
+    {
+      "id": 584,
+      "question": "¿Qué cantante puertorriqueño popularizó el tema 'Livin’ la Vida Loca'?",
+      "options": [
+        { "option": "Chayanne", "correct": false },
+        { "option": "Marc Anthony", "correct": false },
+        { "option": "Luis Fonsi", "correct": false },
+        { "option": "Ricky Martin", "correct": true }
+      ]
+    },
+    {
+      "id": 585,
+      "question": "¿Qué grupo británico lanzó el álbum 'Abbey Road'?",
+      "options": [
+        { "option": "The Beatles", "correct": true },
+        { "option": "The Kinks", "correct": false },
+        { "option": "The Rolling Stones", "correct": false },
+        { "option": "The Animals", "correct": false }
+      ]
+    },
+    {
+      "id": 586,
+      "question": "¿Qué compositor checo escribió la 'Sinfonía del Nuevo Mundo'?",
+      "options": [
+        { "option": "Bedřich Smetana", "correct": false },
+        { "option": "Antonín Dvořák", "correct": true },
+        { "option": "Leoš Janáček", "correct": false },
+        { "option": "Zoltán Kodály", "correct": false }
+      ]
+    },
+    {
+      "id": 587,
+      "question": "¿Qué cantante británica se hizo famosa con el álbum 'Back to Black'?",
+      "options": [
+        { "option": "Adele", "correct": false },
+        { "option": "Duffy", "correct": false },
+        { "option": "Amy Winehouse", "correct": true },
+        { "option": "Lily Allen", "correct": false }
+      ]
+    },
+    {
+      "id": 588,
+      "question": "¿Qué grupo estadounidense popularizó la canción 'Smells Like Teen Spirit'?",
+      "options": [
+        { "option": "Pearl Jam", "correct": false },
+        { "option": "Soundgarden", "correct": false },
+        { "option": "Alice in Chains", "correct": false },
+        { "option": "Nirvana", "correct": true }
+      ]
+    },
+    {
+      "id": 589,
+      "question": "¿Qué cantante española lanzó la canción 'Malamente'?",
+      "options": [
+        { "option": "Rosalía", "correct": true },
+        { "option": "Aitana", "correct": false },
+        { "option": "India Martínez", "correct": false },
+        { "option": "La Mala Rodríguez", "correct": false }
+      ]
+    },
+    {
+      "id": 590,
+      "question": "¿Qué banda de rock irlandesa es liderada por Bono?",
+      "options": [
+        { "option": "The Cranberries", "correct": false },
+        { "option": "U2", "correct": true },
+        { "option": "Thin Lizzy", "correct": false },
+        { "option": "Snow Patrol", "correct": false }
+      ]
+    },
+    {
+      "id": 591,
+      "question": "¿Qué músico jamaicano es considerado el máximo exponente del reggae?",
+      "options": [
+        { "option": "Peter Tosh", "correct": false },
+        { "option": "Jimmy Cliff", "correct": false },
+        { "option": "Bob Marley", "correct": true },
+        { "option": "Burning Spear", "correct": false }
+      ]
+    },
+    {
+      "id": 592,
+      "question": "¿Qué grupo británico lanzó la canción 'Wonderwall' en 1995?",
+      "options": [
+        { "option": "Blur", "correct": false },
+        { "option": "Pulp", "correct": false },
+        { "option": "Radiohead", "correct": false },
+        { "option": "Oasis", "correct": true }
+      ]
+    },
+    {
+      "id": 593,
+      "question": "¿Qué cantante estadounidense fue apodado 'El Rey del Pop'?",
+      "options": [
+        { "option": "Michael Jackson", "correct": true },
+        { "option": "Prince", "correct": false },
+        { "option": "Elvis Presley", "correct": false },
+        { "option": "Stevie Wonder", "correct": false }
+      ]
+    },
+    {
+      "id": 594,
+      "question": "¿Qué cantante española lanzó el álbum 'Mediterráneo' en 1971?",
+      "options": [
+        { "option": "Camilo Sesto", "correct": false },
+        { "option": "Joan Manuel Serrat", "correct": true },
+        { "option": "Raphael", "correct": false },
+        { "option": "Víctor Manuel", "correct": false }
+      ]
+    },
+    {
+      "id": 595,
+      "question": "¿Qué banda estadounidense compuso la canción 'Californication'?",
+      "options": [
+        { "option": "Green Day", "correct": false },
+        { "option": "Foo Fighters", "correct": false },
+        { "option": "Red Hot Chili Peppers", "correct": true },
+        { "option": "Weezer", "correct": false }
+      ]
+    },
+    {
+      "id": 596,
+      "question": "¿Qué cantante británico fue líder de la banda The Police?",
+      "options": [
+        { "option": "Phil Collins", "correct": false },
+        { "option": "David Bowie", "correct": false },
+        { "option": "Rod Stewart", "correct": false },
+        { "option": "Sting", "correct": true }
+      ]
+    },
+    {
+      "id": 597,
+      "question": "¿Qué cantante colombiana lanzó el álbum 'Pies Descalzos' en 1995?",
+      "options": [
+        { "option": "Shakira", "correct": true },
+        { "option": "Fanny Lu", "correct": false },
+        { "option": "Karla Morrison", "correct": false },
+        { "option": "Greeicy", "correct": false }
+      ]
+    },
+    {
+      "id": 598,
+      "question": "¿Qué compositor polaco escribió los famosos 'Nocturnos' para piano?",
+      "options": [
+        { "option": "Franz Liszt", "correct": false },
+        { "option": "Frédéric Chopin", "correct": true },
+        { "option": "Robert Schumann", "correct": false },
+        { "option": "Claude Debussy", "correct": false }
+      ]
+    },
+    {
+      "id": 599,
+      "question": "¿Qué grupo sueco ganó Eurovisión en 1974 con la canción 'Waterloo'?",
+      "options": [
+        { "option": "Roxette", "correct": false },
+        { "option": "Ace of Base", "correct": false },
+        { "option": "ABBA", "correct": true },
+        { "option": "Europe", "correct": false }
+      ]
+    },
+    {
+      "id": 600,
+      "question": "¿Qué cantante estadounidense es conocida por canciones como 'Like a Virgin' y 'Vogue'?",
+      "options": [
+        { "option": "Whitney Houston", "correct": false },
+        { "option": "Cyndi Lauper", "correct": false },
+        { "option": "Janet Jackson", "correct": false },
+        { "option": "Madonna", "correct": true }
+      ]
+    },
+    {
+      "id": 601,
+      "question": "¿Cuál es el principal nutriente que aporta energía al cuerpo?",
+      "options": [
+        { "option": "Carbohidratos", "correct": true },
+        { "option": "Proteínas", "correct": false },
+        { "option": "Vitaminas", "correct": false },
+        { "option": "Minerales", "correct": false }
+      ]
+    },
+    {
+      "id": 602,
+      "question": "¿Qué vitamina se produce principalmente con la exposición al sol?",
+      "options": [
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina D", "correct": true },
+        { "option": "Vitamina B12", "correct": false },
+        { "option": "Vitamina A", "correct": false }
+      ]
+    },
+    {
+      "id": 603,
+      "question": "¿Qué mineral es fundamental para la salud de los huesos?",
+      "options": [
+        { "option": "Hierro", "correct": false },
+        { "option": "Zinc", "correct": false },
+        { "option": "Calcio", "correct": true },
+        { "option": "Magnesio", "correct": false }
+      ]
+    },
+    {
+      "id": 604,
+      "question": "¿Qué macronutriente es esencial para la reparación y construcción de tejidos?",
+      "options": [
+        { "option": "Grasas", "correct": false },
+        { "option": "Vitaminas", "correct": false },
+        { "option": "Carbohidratos", "correct": false },
+        { "option": "Proteínas", "correct": true }
+      ]
+    },
+    {
+      "id": 605,
+      "question": "¿Cuál es la principal fuente de hierro de origen animal?",
+      "options": [
+        { "option": "Carnes rojas", "correct": true },
+        { "option": "Frutas cítricas", "correct": false },
+        { "option": "Lácteos", "correct": false },
+        { "option": "Aceites vegetales", "correct": false }
+      ]
+    },
+    {
+      "id": 606,
+      "question": "¿Cuál es el valor calórico aproximado de 1 gramo de carbohidratos?",
+      "options": [
+        { "option": "9 kcal", "correct": false },
+        { "option": "4 kcal", "correct": true },
+        { "option": "7 kcal", "correct": false },
+        { "option": "2 kcal", "correct": false }
+      ]
+    },
+    {
+      "id": 607,
+      "question": "¿Qué vitamina es esencial para la coagulación sanguínea?",
+      "options": [
+        { "option": "Vitamina E", "correct": false },
+        { "option": "Vitamina A", "correct": false },
+        { "option": "Vitamina K", "correct": true },
+        { "option": "Vitamina C", "correct": false }
+      ]
+    },
+    {
+      "id": 608,
+      "question": "¿Qué tipo de grasa se considera más saludable para el corazón?",
+      "options": [
+        { "option": "Grasas trans", "correct": false },
+        { "option": "Grasas saturadas", "correct": false },
+        { "option": "Colesterol LDL", "correct": false },
+        { "option": "Grasas insaturadas", "correct": true }
+      ]
+    },
+    {
+      "id": 609,
+      "question": "¿Cuál es la principal fuente de vitamina C?",
+      "options": [
+        { "option": "Frutas cítricas", "correct": true },
+        { "option": "Carnes rojas", "correct": false },
+        { "option": "Cereales integrales", "correct": false },
+        { "option": "Aceites vegetales", "correct": false }
+      ]
+    },
+    {
+      "id": 610,
+      "question": "¿Qué nutriente es la principal fuente de energía en ejercicios de alta intensidad?",
+      "options": [
+        { "option": "Grasas", "correct": false },
+        { "option": "Carbohidratos", "correct": true },
+        { "option": "Proteínas", "correct": false },
+        { "option": "Vitaminas", "correct": false }
+      ]
+    },
+    {
+      "id": 611,
+      "question": "¿Qué nutriente es la principal reserva de energía a largo plazo en el cuerpo?",
+      "options": [
+        { "option": "Proteínas", "correct": false },
+        { "option": "Carbohidratos", "correct": false },
+        { "option": "Grasas", "correct": true },
+        { "option": "Vitaminas", "correct": false }
+      ]
+    },
+    {
+      "id": 612,
+      "question": "¿Cuál es la función principal de la fibra dietética?",
+      "options": [
+        { "option": "Aportar energía inmediata", "correct": false },
+        { "option": "Formar glóbulos rojos", "correct": false },
+        { "option": "Regular el calcio", "correct": false },
+        { "option": "Mejorar la digestión", "correct": true }
+      ]
+    },
+    {
+      "id": 613,
+      "question": "¿Qué vitamina es esencial para la visión?",
+      "options": [
+        { "option": "Vitamina A", "correct": true },
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina D", "correct": false },
+        { "option": "Vitamina E", "correct": false }
+      ]
+    },
+    {
+      "id": 614,
+      "question": "¿Cuál es la principal fuente de omega-3?",
+      "options": [
+        { "option": "Carnes rojas", "correct": false },
+        { "option": "Pescados grasos", "correct": true },
+        { "option": "Lácteos enteros", "correct": false },
+        { "option": "Cereales refinados", "correct": false }
+      ]
+    },
+    {
+      "id": 615,
+      "question": "¿Qué mineral es necesario para transportar oxígeno en la sangre?",
+      "options": [
+        { "option": "Calcio", "correct": false },
+        { "option": "Sodio", "correct": false },
+        { "option": "Hierro", "correct": true },
+        { "option": "Potasio", "correct": false }
+      ]
+    },
+    {
+      "id": 616,
+      "question": "¿Qué nutriente debe limitarse para reducir el riesgo de hipertensión?",
+      "options": [
+        { "option": "Fibra", "correct": false },
+        { "option": "Vitamina B12", "correct": false },
+        { "option": "Calcio", "correct": false },
+        { "option": "Sodio", "correct": true }
+      ]
+    },
+    {
+      "id": 617,
+      "question": "¿Qué grupo de alimentos es la principal fuente de vitamina B12?",
+      "options": [
+        { "option": "Alimentos de origen animal", "correct": true },
+        { "option": "Frutas", "correct": false },
+        { "option": "Verduras", "correct": false },
+        { "option": "Legumbres", "correct": false }
+      ]
+    },
+    {
+      "id": 618,
+      "question": "¿Cuál es el principal electrolito perdido en el sudor?",
+      "options": [
+        { "option": "Magnesio", "correct": false },
+        { "option": "Sodio", "correct": true },
+        { "option": "Calcio", "correct": false },
+        { "option": "Fósforo", "correct": false }
+      ]
+    },
+    {
+      "id": 619,
+      "question": "¿Qué nutriente se encuentra principalmente en las legumbres?",
+      "options": [
+        { "option": "Grasas saturadas", "correct": false },
+        { "option": "Colesterol", "correct": false },
+        { "option": "Proteínas vegetales", "correct": true },
+        { "option": "Vitamina D", "correct": false }
+      ]
+    },
+    {
+      "id": 620,
+      "question": "¿Qué vitamina ayuda a absorber el calcio en el cuerpo?",
+      "options": [
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina B6", "correct": false },
+        { "option": "Vitamina E", "correct": false },
+        { "option": "Vitamina D", "correct": true }
+      ]
+    },
+    {
+      "id": 621,
+      "question": "¿Qué tipo de carbohidratos se consideran más saludables?",
+      "options": [
+        { "option": "Carbohidratos complejos", "correct": true },
+        { "option": "Carbohidratos simples", "correct": false },
+        { "option": "Azúcares refinados", "correct": false },
+        { "option": "Jarabes artificiales", "correct": false }
+      ]
+    },
+    {
+      "id": 622,
+      "question": "¿Cuál de estos alimentos es una buena fuente de probióticos?",
+      "options": [
+        { "option": "Carne roja", "correct": false },
+        { "option": "Yogur", "correct": true },
+        { "option": "Pan blanco", "correct": false },
+        { "option": "Arroz refinado", "correct": false }
+      ]
+    },
+    {
+      "id": 623,
+      "question": "¿Qué mineral ayuda en la contracción muscular y la transmisión nerviosa?",
+      "options": [
+        { "option": "Hierro", "correct": false },
+        { "option": "Zinc", "correct": false },
+        { "option": "Potasio", "correct": true },
+        { "option": "Flúor", "correct": false }
+      ]
+    },
+    {
+      "id": 624,
+      "question": "¿Qué tipo de grasa es considerada más saludable para el corazón?",
+      "options": [
+        { "option": "Grasas trans", "correct": false },
+        { "option": "Grasas saturadas", "correct": false },
+        { "option": "Colesterol LDL", "correct": false },
+        { "option": "Grasas insaturadas", "correct": true }
+      ]
+    },
+    {
+      "id": 625,
+      "question": "¿Qué vitamina es importante para la coagulación sanguínea?",
+      "options": [
+        { "option": "Vitamina K", "correct": true },
+        { "option": "Vitamina A", "correct": false },
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina D", "correct": false }
+      ]
+    },
+    {
+      "id": 626,
+      "question": "¿Qué bebida es una fuente natural de antioxidantes?",
+      "options": [
+        { "option": "Refresco de cola", "correct": false },
+        { "option": "Té verde", "correct": true },
+        { "option": "Agua con gas", "correct": false },
+        { "option": "Cerveza", "correct": false }
+      ]
+    },
+    {
+      "id": 627,
+      "question": "¿Qué macronutriente se recomienda aumentar en dietas para ganar masa muscular?",
+      "options": [
+        { "option": "Azúcares", "correct": false },
+        { "option": "Grasas trans", "correct": false },
+        { "option": "Proteínas", "correct": true },
+        { "option": "Sodio", "correct": false }
+      ]
+    },
+    {
+      "id": 628,
+      "question": "¿Qué tipo de vitamina necesita grasas para ser absorbida?",
+      "options": [
+        { "option": "Vitamina hidrosoluble", "correct": false },
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Ninguna", "correct": false },
+        { "option": "Vitamina liposoluble", "correct": true }
+      ]
+    },
+    {
+      "id": 629,
+      "question": "¿Qué cereal es naturalmente libre de gluten?",
+      "options": [
+        { "option": "Arroz", "correct": true },
+        { "option": "Trigo", "correct": false },
+        { "option": "Cebada", "correct": false },
+        { "option": "Centeno", "correct": false }
+      ]
+    },
+    {
+      "id": 630,
+      "question": "¿Qué vitamina se conoce como ácido ascórbico?",
+      "options": [
+        { "option": "Vitamina D", "correct": false },
+        { "option": "Vitamina C", "correct": true },
+        { "option": "Vitamina B1", "correct": false },
+        { "option": "Vitamina E", "correct": false }
+      ]
+    },
+    {
+      "id": 631,
+      "question": "¿Qué nutriente es la principal fuente de energía del cuerpo humano?",
+      "options": [
+        { "option": "Proteínas", "correct": false },
+        { "option": "Grasas", "correct": false },
+        { "option": "Carbohidratos", "correct": true },
+        { "option": "Vitaminas", "correct": false }
+      ]
+    },
+    {
+      "id": 632,
+      "question": "¿Cuál de estos alimentos es una fuente rica en omega-3?",
+      "options": [
+        { "option": "Pollo", "correct": false },
+        { "option": "Pan blanco", "correct": false },
+        { "option": "Queso", "correct": false },
+        { "option": "Salmón", "correct": true }
+      ]
+    },
+    {
+      "id": 633,
+      "question": "¿Qué mineral es fundamental para la producción de glóbulos rojos?",
+      "options": [
+        { "option": "Hierro", "correct": true },
+        { "option": "Calcio", "correct": false },
+        { "option": "Zinc", "correct": false },
+        { "option": "Fósforo", "correct": false }
+      ]
+    },
+    {
+      "id": 634,
+      "question": "¿Qué vitamina es esencial para mantener la salud visual?",
+      "options": [
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina A", "correct": true },
+        { "option": "Vitamina K", "correct": false },
+        { "option": "Vitamina B12", "correct": false }
+      ]
+    },
+    {
+      "id": 635,
+      "question": "¿Qué tipo de fibra ayuda a reducir los niveles de colesterol?",
+      "options": [
+        { "option": "Fibra insoluble", "correct": false },
+        { "option": "Proteína vegetal", "correct": false },
+        { "option": "Fibra soluble", "correct": true },
+        { "option": "Fibra sintética", "correct": false }
+      ]
+    },
+    {
+      "id": 636,
+      "question": "¿Qué macronutriente tiene mayor densidad calórica?",
+      "options": [
+        { "option": "Proteínas", "correct": false },
+        { "option": "Carbohidratos", "correct": false },
+        { "option": "Agua", "correct": false },
+        { "option": "Grasas", "correct": true }
+      ]
+    },
+    {
+      "id": 637,
+      "question": "¿Qué mineral se asocia con el buen funcionamiento de la tiroides?",
+      "options": [
+        { "option": "Yodo", "correct": true },
+        { "option": "Potasio", "correct": false },
+        { "option": "Cobre", "correct": false },
+        { "option": "Magnesio", "correct": false }
+      ]
+    },
+    {
+      "id": 638,
+      "question": "¿Qué bebida natural puede ayudar a la hidratación y aportar electrolitos?",
+      "options": [
+        { "option": "Refresco", "correct": false },
+        { "option": "Agua de coco", "correct": true },
+        { "option": "Café", "correct": false },
+        { "option": "Té negro", "correct": false }
+      ]
+    },
+    {
+      "id": 639,
+      "question": "¿Qué tipo de colesterol se considera 'bueno' para el organismo?",
+      "options": [
+        { "option": "Colesterol LDL", "correct": false },
+        { "option": "Colesterol total", "correct": false },
+        { "option": "Colesterol HDL", "correct": true },
+        { "option": "Colesterol VLDL", "correct": false }
+      ]
+    },
+    {
+      "id": 640,
+      "question": "¿Qué mineral es el más abundante en el cuerpo humano?",
+      "options": [
+        { "option": "Fósforo", "correct": false },
+        { "option": "Hierro", "correct": false },
+        { "option": "Sodio", "correct": false },
+        { "option": "Calcio", "correct": true }
+      ]
+    },
+    {
+      "id": 641,
+      "question": "¿Cuál de los siguientes alimentos es una fuente principal de vitamina C?",
+      "options": [
+        { "option": "Naranja", "correct": true },
+        { "option": "Carne roja", "correct": false },
+        { "option": "Queso", "correct": false },
+        { "option": "Pan", "correct": false }
+      ]
+    },
+    {
+      "id": 642,
+      "question": "¿Qué tipo de carbohidratos son más recomendados para una dieta saludable?",
+      "options": [
+        { "option": "Carbohidratos simples", "correct": false },
+        { "option": "Carbohidratos complejos", "correct": true },
+        { "option": "Azúcares refinados", "correct": false },
+        { "option": "Almidones procesados", "correct": false }
+      ]
+    },
+    {
+      "id": 643,
+      "question": "¿Qué vitamina es importante para la coagulación de la sangre?",
+      "options": [
+        { "option": "Vitamina B6", "correct": false },
+        { "option": "Vitamina D", "correct": false },
+        { "option": "Vitamina K", "correct": true },
+        { "option": "Vitamina A", "correct": false }
+      ]
+    },
+    {
+      "id": 644,
+      "question": "¿Qué alimento es una buena fuente de probióticos naturales?",
+      "options": [
+        { "option": "Arroz blanco", "correct": false },
+        { "option": "Pollo", "correct": false },
+        { "option": "Papa frita", "correct": false },
+        { "option": "Yogur", "correct": true }
+      ]
+    },
+    {
+      "id": 645,
+      "question": "¿Qué macronutriente es fundamental para el crecimiento y reparación de tejidos?",
+      "options": [
+        { "option": "Proteínas", "correct": true },
+        { "option": "Carbohidratos", "correct": false },
+        { "option": "Grasas", "correct": false },
+        { "option": "Fibra", "correct": false }
+      ]
+    },
+    {
+      "id": 646,
+      "question": "¿Qué mineral es clave para el transporte de oxígeno en la sangre?",
+      "options": [
+        { "option": "Calcio", "correct": false },
+        { "option": "Hierro", "correct": true },
+        { "option": "Potasio", "correct": false },
+        { "option": "Magnesio", "correct": false }
+      ]
+    },
+    {
+      "id": 647,
+      "question": "¿Qué tipo de grasa es más saludable para el corazón?",
+      "options": [
+        { "option": "Grasas trans", "correct": false },
+        { "option": "Grasas saturadas", "correct": false },
+        { "option": "Grasas insaturadas", "correct": true },
+        { "option": "Grasas hidrogenadas", "correct": false }
+      ]
+    },
+    {
+      "id": 648,
+      "question": "¿Cuál de estos alimentos es una legumbre?",
+      "options": [
+        { "option": "Espinaca", "correct": false },
+        { "option": "Manzana", "correct": false },
+        { "option": "Arroz", "correct": false },
+        { "option": "Lentejas", "correct": true }
+      ]
+    },
+    {
+      "id": 649,
+      "question": "¿Qué vitamina ayuda a la absorción del hierro en el organismo?",
+      "options": [
+        { "option": "Vitamina C", "correct": true },
+        { "option": "Vitamina D", "correct": false },
+        { "option": "Vitamina B9", "correct": false },
+        { "option": "Vitamina E", "correct": false }
+      ]
+    },
+    {
+      "id": 650,
+      "question": "¿Qué tipo de dieta limita el consumo de productos de origen animal?",
+      "options": [
+        { "option": "Cetogénica", "correct": false },
+        { "option": "Vegetariana", "correct": true },
+        { "option": "Mediterránea", "correct": false },
+        { "option": "Paleolítica", "correct": false }
+      ]
+    },
+    {
+      "id": 651,
+      "question": "¿Qué nutriente se encuentra en mayor cantidad en el Aguacate o Palta?",
+      "options": [
+        { "option": "Proteínas", "correct": false },
+        { "option": "Carbohidratos", "correct": false },
+        { "option": "Grasas saludables", "correct": true },
+        { "option": "Fibra insoluble", "correct": false }
+      ]
+    },
+    {
+      "id": 652,
+      "question": "¿Qué vitamina se produce principalmente cuando el cuerpo se expone al sol?",
+      "options": [
+        { "option": "Vitamina A", "correct": false },
+        { "option": "Vitamina K", "correct": false },
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina D", "correct": true }
+      ]
+    },
+    {
+      "id": 653,
+      "question": "¿Qué tipo de azúcar está presente de forma natural en las frutas?",
+      "options": [
+        { "option": "Fructosa", "correct": true },
+        { "option": "Sacarosa", "correct": false },
+        { "option": "Glucosa añadida", "correct": false },
+        { "option": "Lactosa", "correct": false }
+      ]
+    },
+    {
+      "id": 654,
+      "question": "¿Qué bebida es una de las mayores fuentes de antioxidantes?",
+      "options": [
+        { "option": "Agua mineral", "correct": false },
+        { "option": "Té verde", "correct": true },
+        { "option": "Café descafeinado", "correct": false },
+        { "option": "Refresco de cola", "correct": false }
+      ]
+    },
+    {
+      "id": 655,
+      "question": "¿Cuál de los siguientes nutrientes es considerado un micronutriente?",
+      "options": [
+        { "option": "Proteínas", "correct": false },
+        { "option": "Grasas", "correct": false },
+        { "option": "Vitaminas", "correct": true },
+        { "option": "Carbohidratos", "correct": false }
+      ]
+    },
+    {
+      "id": 656,
+      "question": "¿Qué ácido graso esencial se encuentra en el pescado azul?",
+      "options": [
+        { "option": "Omega-6", "correct": false },
+        { "option": "Grasas trans", "correct": false },
+        { "option": "Colesterol LDL", "correct": false },
+        { "option": "Omega-3", "correct": true }
+      ]
+    },
+    {
+      "id": 657,
+      "question": "¿Qué mineral ayuda a la contracción muscular y transmisión nerviosa?",
+      "options": [
+        { "option": "Calcio", "correct": true },
+        { "option": "Sodio", "correct": false },
+        { "option": "Hierro", "correct": false },
+        { "option": "Zinc", "correct": false }
+      ]
+    },
+    {
+      "id": 658,
+      "question": "¿Cuál es la principal función de la fibra en la dieta?",
+      "options": [
+        { "option": "Proporcionar energía rápida", "correct": false },
+        { "option": "Regular el tránsito intestinal", "correct": true },
+        { "option": "Reparar tejidos musculares", "correct": false },
+        { "option": "Aumentar la absorción de grasas", "correct": false }
+      ]
+    },
+    {
+      "id": 659,
+      "question": "¿Qué tipo de leche contiene menos grasa?",
+      "options": [
+        { "option": "Entera", "correct": false },
+        { "option": "Semidesnatada", "correct": false },
+        { "option": "Desnatada", "correct": true },
+        { "option": "Leche condensada", "correct": false }
+      ]
+    },
+    {
+      "id": 660,
+      "question": "¿Qué vitamina es esencial para la visión y la salud ocular?",
+      "options": [
+        { "option": "Vitamina D", "correct": false },
+        { "option": "Vitamina K", "correct": false },
+        { "option": "Vitamina B12", "correct": false },
+        { "option": "Vitamina A", "correct": true }
+      ]
+    },
+    {
+      "id": 661,
+      "question": "¿Qué mineral es fundamental para transportar oxígeno en la sangre?",
+      "options": [
+        { "option": "Hierro", "correct": true },
+        { "option": "Calcio", "correct": false },
+        { "option": "Zinc", "correct": false },
+        { "option": "Magnesio", "correct": false }
+      ]
+    },
+    {
+      "id": 662,
+      "question": "¿Qué tipo de grasa es más perjudicial para la salud cardiovascular?",
+      "options": [
+        { "option": "Grasas monoinsaturadas", "correct": false },
+        { "option": "Grasas trans", "correct": true },
+        { "option": "Grasas poliinsaturadas", "correct": false },
+        { "option": "Omega-3", "correct": false }
+      ]
+    },
+    {
+      "id": 663,
+      "question": "¿Qué vitamina es fundamental para la coagulación de la sangre?",
+      "options": [
+        { "option": "Vitamina E", "correct": false },
+        { "option": "Vitamina B6", "correct": false },
+        { "option": "Vitamina K", "correct": true },
+        { "option": "Vitamina C", "correct": false }
+      ]
+    },
+    {
+      "id": 664,
+      "question": "¿Qué macronutriente es la principal fuente de energía del cuerpo?",
+      "options": [
+        { "option": "Proteínas", "correct": false },
+        { "option": "Grasas", "correct": false },
+        { "option": "Vitaminas", "correct": false },
+        { "option": "Carbohidratos", "correct": true }
+      ]
+    },
+    {
+      "id": 665,
+      "question": "¿Cuál de estos alimentos es una buena fuente de probióticos?",
+      "options": [
+        { "option": "Yogur", "correct": true },
+        { "option": "Pan blanco", "correct": false },
+        { "option": "Papas fritas", "correct": false },
+        { "option": "Arroz integral", "correct": false }
+      ]
+    },
+    {
+      "id": 666,
+      "question": "¿Qué nutriente abunda en las legumbres como lentejas y garbanzos?",
+      "options": [
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Proteínas vegetales", "correct": true },
+        { "option": "Grasas saturadas", "correct": false },
+        { "option": "Sodio", "correct": false }
+      ]
+    },
+    {
+      "id": 667,
+      "question": "¿Cuál es el principal riesgo de consumir exceso de sodio?",
+      "options": [
+        { "option": "Anemia", "correct": false },
+        { "option": "Osteoporosis", "correct": false },
+        { "option": "Hipertensión", "correct": true },
+        { "option": "Hipoglucemia", "correct": false }
+      ]
+    },
+    {
+      "id": 668,
+      "question": "¿Qué vitamina es esencial durante el embarazo para prevenir malformaciones?",
+      "options": [
+        { "option": "Vitamina B12", "correct": false },
+        { "option": "Vitamina D", "correct": false },
+        { "option": "Vitamina K", "correct": false },
+        { "option": "Ácido fólico (B9)", "correct": true }
+      ]
+    },
+    {
+      "id": 669,
+      "question": "¿Cuál de estos alimentos es rico en vitamina C?",
+      "options": [
+        { "option": "Naranja", "correct": true },
+        { "option": "Pan integral", "correct": false },
+        { "option": "Carne roja", "correct": false },
+        { "option": "Queso", "correct": false }
+      ]
+    },
+    {
+      "id": 670,
+      "question": "¿Qué tipo de dieta se basa en frutas, verduras, cereales integrales y aceite de oliva?",
+      "options": [
+        { "option": "Dieta cetogénica", "correct": false },
+        { "option": "Dieta mediterránea", "correct": true },
+        { "option": "Dieta paleo", "correct": false },
+        { "option": "Dieta carnívora", "correct": false }
+      ]
+    },
+    {
+      "id": 671,
+      "question": "¿Qué nutriente es esencial para el crecimiento y reparación de tejidos?",
+      "options": [
+        { "option": "Carbohidratos", "correct": false },
+        { "option": "Grasas", "correct": false },
+        { "option": "Proteínas", "correct": true },
+        { "option": "Vitaminas", "correct": false }
+      ]
+    },
+    {
+      "id": 672,
+      "question": "¿Cuál de estos alimentos es una fuente importante de calcio?",
+      "options": [
+        { "option": "Arroz", "correct": false },
+        { "option": "Manzana", "correct": false },
+        { "option": "Pollo", "correct": false },
+        { "option": "Leche", "correct": true }
+      ]
+    },
+    {
+      "id": 673,
+      "question": "¿Qué vitamina se obtiene principalmente de la exposición al sol?",
+      "options": [
+        { "option": "Vitamina D", "correct": true },
+        { "option": "Vitamina A", "correct": false },
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina K", "correct": false }
+      ]
+    },
+    {
+      "id": 674,
+      "question": "¿Qué alimento es una buena fuente de ácidos grasos omega-3?",
+      "options": [
+        { "option": "Queso", "correct": false },
+        { "option": "Salmón", "correct": true },
+        { "option": "Pollo", "correct": false },
+        { "option": "Pan blanco", "correct": false }
+      ]
+    },
+    {
+      "id": 675,
+      "question": "¿Qué bebida es la mejor opción para mantenerse hidratado?",
+      "options": [
+        { "option": "Café", "correct": false },
+        { "option": "Refrescos", "correct": false },
+        { "option": "Agua", "correct": true },
+        { "option": "Jugo industrial", "correct": false }
+      ]
+    },
+    {
+      "id": 676,
+      "question": "¿Qué tipo de fibra ayuda a regular el tránsito intestinal?",
+      "options": [
+        { "option": "Fibra soluble", "correct": false },
+        { "option": "Proteína vegetal", "correct": false },
+        { "option": "Carbohidratos simples", "correct": false },
+        { "option": "Fibra insoluble", "correct": true }
+      ]
+    },
+    {
+      "id": 677,
+      "question": "¿Qué fruta es especialmente rica en potasio?",
+      "options": [
+        { "option": "Banana", "correct": true },
+        { "option": "Uvas", "correct": false },
+        { "option": "Fresas", "correct": false },
+        { "option": "Manzana", "correct": false }
+      ]
+    },
+    {
+      "id": 678,
+      "question": "¿Cuál de estos alimentos tiene un alto contenido de antioxidantes?",
+      "options": [
+        { "option": "Pan blanco", "correct": false },
+        { "option": "Arándanos", "correct": true },
+        { "option": "Carne procesada", "correct": false },
+        { "option": "Mantequilla", "correct": false }
+      ]
+    },
+    {
+      "id": 679,
+      "question": "¿Qué tipo de carbohidratos se recomiendan más para una dieta saludable?",
+      "options": [
+        { "option": "Carbohidratos simples", "correct": false },
+        { "option": "Azúcares añadidos", "correct": false },
+        { "option": "Carbohidratos complejos", "correct": true },
+        { "option": "Harinas refinadas", "correct": false }
+      ]
+    },
+    {
+      "id": 680,
+      "question": "¿Qué tipo de dieta se caracteriza por un bajo consumo de carbohidratos y alto en grasas?",
+      "options": [
+        { "option": "Dieta mediterránea", "correct": false },
+        { "option": "Dieta vegetariana", "correct": false },
+        { "option": "Dieta DASH", "correct": false },
+        { "option": "Dieta cetogénica", "correct": true }
+      ]
+    },
+    {
+      "id": 681,
+      "question": "¿Qué mineral es esencial para el transporte de oxígeno en la sangre?",
+      "options": [
+        { "option": "Hierro", "correct": true },
+        { "option": "Calcio", "correct": false },
+        { "option": "Potasio", "correct": false },
+        { "option": "Fósforo", "correct": false }
+      ]
+    },
+    {
+      "id": 682,
+      "question": "¿Cuál es la principal fuente de energía del cuerpo humano?",
+      "options": [
+        { "option": "Grasas", "correct": false },
+        { "option": "Carbohidratos", "correct": true },
+        { "option": "Proteínas", "correct": false },
+        { "option": "Vitaminas", "correct": false }
+      ]
+    },
+    {
+      "id": 683,
+      "question": "¿Qué vitamina ayuda en la absorción del calcio?",
+      "options": [
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina E", "correct": false },
+        { "option": "Vitamina D", "correct": true },
+        { "option": "Vitamina K", "correct": false }
+      ]
+    },
+    {
+      "id": 684,
+      "question": "¿Qué tipo de grasas deben limitarse para reducir el riesgo cardiovascular?",
+      "options": [
+        { "option": "Grasas insaturadas", "correct": false },
+        { "option": "Grasas omega-3", "correct": false },
+        { "option": "Grasas poliinsaturadas", "correct": false },
+        { "option": "Grasas trans", "correct": true }
+      ]
+    },
+    {
+      "id": 685,
+      "question": "¿Qué grupo de alimentos es la base de la pirámide alimenticia?",
+      "options": [
+        { "option": "Cereales y granos", "correct": true },
+        { "option": "Frutas", "correct": false },
+        { "option": "Lácteos", "correct": false },
+        { "option": "Carnes", "correct": false }
+      ]
+    },
+    {
+      "id": 686,
+      "question": "¿Qué vitamina es fundamental para la coagulación de la sangre?",
+      "options": [
+        { "option": "Vitamina A", "correct": false },
+        { "option": "Vitamina K", "correct": true },
+        { "option": "Vitamina B12", "correct": false },
+        { "option": "Vitamina D", "correct": false }
+      ]
+    },
+    {
+      "id": 687,
+      "question": "¿Cuál de estas opciones es una proteína completa?",
+      "options": [
+        { "option": "Lentejas", "correct": false },
+        { "option": "Arroz", "correct": false },
+        { "option": "Huevo", "correct": true },
+        { "option": "Nueces", "correct": false }
+      ]
+    },
+    {
+      "id": 688,
+      "question": "¿Qué nutriente es la principal fuente de fibra dietética?",
+      "options": [
+        { "option": "Carne", "correct": false },
+        { "option": "Leche", "correct": false },
+        { "option": "Huevos", "correct": false },
+        { "option": "Vegetales y frutas", "correct": true }
+      ]
+    },
+    {
+      "id": 689,
+      "question": "¿Qué vitamina es importante para la visión y la salud de la piel?",
+      "options": [
+        { "option": "Vitamina A", "correct": true },
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina B6", "correct": false },
+        { "option": "Vitamina D", "correct": false }
+      ]
+    },
+    {
+      "id": 690,
+      "question": "¿Cuál es el principal azúcar que circula en la sangre?",
+      "options": [
+        { "option": "Fructosa", "correct": false },
+        { "option": "Glucosa", "correct": true },
+        { "option": "Galactosa", "correct": false },
+        { "option": "Lactosa", "correct": false }
+      ]
+    },
+    {
+      "id": 691,
+      "question": "¿Qué vitamina se conoce también como ácido ascórbico?",
+      "options": [
+        { "option": "Vitamina B12", "correct": false },
+        { "option": "Vitamina E", "correct": false },
+        { "option": "Vitamina C", "correct": true },
+        { "option": "Vitamina A", "correct": false }
+      ]
+    },
+    {
+      "id": 692,
+      "question": "¿Qué tipo de carbohidratos son recomendados por liberar energía lentamente?",
+      "options": [
+        { "option": "Carbohidratos simples", "correct": false },
+        { "option": "Azúcares añadidos", "correct": false },
+        { "option": "Fibra soluble", "correct": false },
+        { "option": "Carbohidratos complejos", "correct": true }
+      ]
+    },
+    {
+      "id": 693,
+      "question": "¿Qué nutriente es el componente principal de los músculos?",
+      "options": [
+        { "option": "Proteínas", "correct": true },
+        { "option": "Grasas", "correct": false },
+        { "option": "Carbohidratos", "correct": false },
+        { "option": "Vitaminas", "correct": false }
+      ]
+    },
+    {
+      "id": 694,
+      "question": "¿Qué mineral es importante para la salud ósea junto con el calcio?",
+      "options": [
+        { "option": "Sodio", "correct": false },
+        { "option": "Fósforo", "correct": true },
+        { "option": "Cloro", "correct": false },
+        { "option": "Hierro", "correct": false }
+      ]
+    },
+    {
+      "id": 695,
+      "question": "¿Cuál es el nutriente más abundante en el cuerpo humano?",
+      "options": [
+        { "option": "Proteínas", "correct": false },
+        { "option": "Grasas", "correct": false },
+        { "option": "Agua", "correct": true },
+        { "option": "Carbohidratos", "correct": false }
+      ]
+    },
+    {
+      "id": 696,
+      "question": "¿Qué tipo de grasa se encuentra principalmente en el aceite de oliva?",
+      "options": [
+        { "option": "Grasas saturadas", "correct": false },
+        { "option": "Grasas trans", "correct": false },
+        { "option": "Grasas poliinsaturadas", "correct": false },
+        { "option": "Grasas monoinsaturadas", "correct": true }
+      ]
+    },
+    {
+      "id": 697,
+      "question": "¿Qué vitamina es esencial para la producción de colágeno?",
+      "options": [
+        { "option": "Vitamina C", "correct": true },
+        { "option": "Vitamina D", "correct": false },
+        { "option": "Vitamina K", "correct": false },
+        { "option": "Vitamina B1", "correct": false }
+      ]
+    },
+    {
+      "id": 698,
+      "question": "¿Qué mineral es clave para el funcionamiento del sistema nervioso?",
+      "options": [
+        { "option": "Zinc", "correct": false },
+        { "option": "Potasio", "correct": true },
+        { "option": "Magnesio", "correct": false },
+        { "option": "Calcio", "correct": false }
+      ]
+    },
+    {
+      "id": 699,
+      "question": "¿Cuál es el principal beneficio de la fibra insoluble?",
+      "options": [
+        { "option": "Reduce la absorción de grasas", "correct": false },
+        { "option": "Aumenta la absorción de hierro", "correct": false },
+        { "option": "Favorece el tránsito intestinal", "correct": true },
+        { "option": "Fortalece los huesos", "correct": false }
+      ]
+    },
+    {
+      "id": 700,
+      "question": "¿Qué vitamina se sintetiza principalmente gracias a la exposición al sol?",
+      "options": [
+        { "option": "Vitamina A", "correct": false },
+        { "option": "Vitamina B6", "correct": false },
+        { "option": "Vitamina E", "correct": false },
+        { "option": "Vitamina D", "correct": true }
+      ]
     }
   ]
 }
