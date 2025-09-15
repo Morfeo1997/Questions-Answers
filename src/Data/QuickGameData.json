@@ -6005,6 +6005,2006 @@
         { "option": "Vitamina E", "correct": false },
         { "option": "Vitamina D", "correct": true }
       ]
+    },
+    {
+      "id": 701,
+      "question": "¿Cuál es el planeta más grande del sistema solar?",
+      "options": [
+        { "option": "Júpiter", "correct": true },
+        { "option": "Saturno", "correct": false },
+        { "option": "Neptuno", "correct": false },
+        { "option": "Urano", "correct": false }
+      ]
+    },
+    {
+      "id": 702,
+      "question": "¿Qué científico propuso la teoría de la relatividad?",
+      "options": [
+        { "option": "Isaac Newton", "correct": false },
+        { "option": "Albert Einstein", "correct": true },
+        { "option": "Galileo Galilei", "correct": false },
+        { "option": "Niels Bohr", "correct": false }
+      ]
+    },
+    {
+      "id": 703,
+      "question": "¿Cuál es el elemento químico más abundante en el universo?",
+      "options": [
+        { "option": "Oxígeno", "correct": false },
+        { "option": "Helio", "correct": false },
+        { "option": "Hidrógeno", "correct": true },
+        { "option": "Carbono", "correct": false }
+      ]
+    },
+    {
+      "id": 704,
+      "question": "¿Qué órgano del cuerpo humano produce la insulina?",
+      "options": [
+        { "option": "Hígado", "correct": false },
+        { "option": "Riñón", "correct": false },
+        { "option": "Estómago", "correct": false },
+        { "option": "Páncreas", "correct": true }
+      ]
+    },
+    {
+      "id": 705,
+      "question": "¿Cuál es la velocidad de la luz en el vacío?",
+      "options": [
+        { "option": "300,000 km/s", "correct": true },
+        { "option": "150,000 km/s", "correct": false },
+        { "option": "1,000 km/s", "correct": false },
+        { "option": "30,000 km/s", "correct": false }
+      ]
+    },
+    {
+      "id": 706,
+      "question": "¿Quién fue el naturalista que propuso la teoría de la evolución por selección natural?",
+      "options": [
+        { "option": "Gregor Mendel", "correct": false },
+        { "option": "Charles Darwin", "correct": true },
+        { "option": "Jean-Baptiste Lamarck", "correct": false },
+        { "option": "Carl Linnaeus", "correct": false }
+      ]
+    },
+    {
+      "id": 707,
+      "question": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+      "options": [
+        { "option": "Oxígeno", "correct": false },
+        { "option": "Dióxido de carbono", "correct": false },
+        { "option": "Nitrógeno", "correct": true },
+        { "option": "Argón", "correct": false }
+      ]
+    },
+    {
+      "id": 708,
+      "question": "¿Qué partícula subatómica tiene carga negativa?",
+      "options": [
+        { "option": "Protón", "correct": false },
+        { "option": "Neutrón", "correct": false },
+        { "option": "Quark", "correct": false },
+        { "option": "Electrón", "correct": true }
+      ]
+    },
+    {
+      "id": 709,
+      "question": "¿Quién fue la primera persona en viajar al espacio?",
+      "options": [
+        { "option": "Yuri Gagarin", "correct": true },
+        { "option": "Neil Armstrong", "correct": false },
+        { "option": "John Glenn", "correct": false },
+        { "option": "Valentina Tereshkova", "correct": false }
+      ]
+    },
+    {
+      "id": 710,
+      "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+      "options": [
+        { "option": "Tibia", "correct": false },
+        { "option": "Fémur", "correct": true },
+        { "option": "Húmero", "correct": false },
+        { "option": "Radio", "correct": false }
+      ]
+    },
+    {
+      "id": 711,
+      "question": "¿Qué científico formuló las leyes del movimiento y la gravitación universal?",
+      "options": [
+        { "option": "Galileo Galilei", "correct": false },
+        { "option": "Johannes Kepler", "correct": false },
+        { "option": "Isaac Newton", "correct": true },
+        { "option": "René Descartes", "correct": false }
+      ]
+    },
+    {
+      "id": 712,
+      "question": "¿Qué vitamina es producida principalmente por la exposición al sol?",
+      "options": [
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina B12", "correct": false },
+        { "option": "Vitamina A", "correct": false },
+        { "option": "Vitamina D", "correct": true }
+      ]
+    },
+    {
+      "id": 713,
+      "question": "¿Qué instrumento se utiliza para medir la presión atmosférica?",
+      "options": [
+        { "option": "Barómetro", "correct": true },
+        { "option": "Termómetro", "correct": false },
+        { "option": "Anemómetro", "correct": false },
+        { "option": "Higrómetro", "correct": false }
+      ]
+    },
+    {
+      "id": 714,
+      "question": "¿Qué científico es considerado el padre de la genética moderna?",
+      "options": [
+        { "option": "Louis Pasteur", "correct": false },
+        { "option": "Gregor Mendel", "correct": true },
+        { "option": "Charles Darwin", "correct": false },
+        { "option": "Francis Crick", "correct": false }
+      ]
+    },
+    {
+      "id": 715,
+      "question": "¿Qué planeta es conocido como el planeta rojo?",
+      "options": [
+        { "option": "Venus", "correct": false },
+        { "option": "Mercurio", "correct": false },
+        { "option": "Marte", "correct": true },
+        { "option": "Saturno", "correct": false }
+      ]
+    },
+    {
+      "id": 716,
+      "question": "¿En qué unidad se mide la intensidad de corriente eléctrica?",
+      "options": [
+        { "option": "Vatios", "correct": false },
+        { "option": "Ohmios", "correct": false },
+        { "option": "Julios", "correct": false },
+        { "option": "Amperios", "correct": true }
+      ]
+    },
+    {
+      "id": 717,
+      "question": "¿Qué metal es líquido a temperatura ambiente?",
+      "options": [
+        { "option": "Mercurio", "correct": true },
+        { "option": "Plomo", "correct": false },
+        { "option": "Sodio", "correct": false },
+        { "option": "Aluminio", "correct": false }
+      ]
+    },
+    {
+      "id": 718,
+      "question": "¿Qué científico descubrió la penicilina en 1928?",
+      "options": [
+        { "option": "Robert Koch", "correct": false },
+        { "option": "Alexander Fleming", "correct": true },
+        { "option": "Louis Pasteur", "correct": false },
+        { "option": "Joseph Lister", "correct": false }
+      ]
+    },
+    {
+      "id": 719,
+      "question": "¿Cuál es la unidad básica de la vida?",
+      "options": [
+        { "option": "El tejido", "correct": false },
+        { "option": "El órgano", "correct": false },
+        { "option": "La célula", "correct": true },
+        { "option": "El átomo", "correct": false }
+      ]
+    },
+    {
+      "id": 720,
+      "question": "¿Cuál es el planeta más cercano al Sol?",
+      "options": [
+        { "option": "Venus", "correct": false },
+        { "option": "Tierra", "correct": false },
+        { "option": "Marte", "correct": false },
+        { "option": "Mercurio", "correct": true }
+      ]
+    },
+    {
+      "id": 721,
+      "question": "¿Qué científico fue el primero en observar células a través de un microscopio?",
+      "options": [
+        { "option": "Robert Hooke", "correct": true },
+        { "option": "Antonie van Leeuwenhoek", "correct": false },
+        { "option": "Louis Pasteur", "correct": false },
+        { "option": "Galileo Galilei", "correct": false }
+      ]
+    },
+    {
+      "id": 722,
+      "question": "¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?",
+      "options": [
+        { "option": "Magnetismo", "correct": false },
+        { "option": "Gravedad", "correct": true },
+        { "option": "Fuerza centrífuga", "correct": false },
+        { "option": "Energía solar", "correct": false }
+      ]
+    },
+    {
+      "id": 723,
+      "question": "¿Qué parte del átomo tiene carga positiva?",
+      "options": [
+        { "option": "Neutrón", "correct": false },
+        { "option": "Electrón", "correct": false },
+        { "option": "Protón", "correct": true },
+        { "option": "Núcleo completo", "correct": false }
+      ]
+    },
+    {
+      "id": 724,
+      "question": "¿Cuál es la molécula que transporta el oxígeno en la sangre?",
+      "options": [
+        { "option": "Glucosa", "correct": false },
+        { "option": "ADN", "correct": false },
+        { "option": "Colágeno", "correct": false },
+        { "option": "Hemoglobina", "correct": true }
+      ]
+    },
+    {
+      "id": 725,
+      "question": "¿Cuál es el satélite natural de la Tierra?",
+      "options": [
+        { "option": "La Luna", "correct": true },
+        { "option": "Europa", "correct": false },
+        { "option": "Io", "correct": false },
+        { "option": "Titán", "correct": false }
+      ]
+    },
+    {
+      "id": 726,
+      "question": "¿Qué nombre recibe la capa de gases que rodea la Tierra?",
+      "options": [
+        { "option": "Estratósfera", "correct": false },
+        { "option": "Atmósfera", "correct": true },
+        { "option": "Magnetósfera", "correct": false },
+        { "option": "Ionosfera", "correct": false }
+      ]
+    },
+    {
+      "id": 727,
+      "question": "¿Qué científico descubrió las leyes de la herencia a través de experimentos con guisantes?",
+      "options": [
+        { "option": "Francis Crick", "correct": false },
+        { "option": "Charles Darwin", "correct": false },
+        { "option": "Gregor Mendel", "correct": true },
+        { "option": "James Watson", "correct": false }
+      ]
+    },
+    {
+      "id": 728,
+      "question": "¿Cuál es el planeta más frío del sistema solar?",
+      "options": [
+        { "option": "Neptuno", "correct": false },
+        { "option": "Saturno", "correct": false },
+        { "option": "Plutón", "correct": false },
+        { "option": "Urano", "correct": true }
+      ]
+    },
+    {
+      "id": 729,
+      "question": "¿Qué fenómeno natural mide la escala de Richter?",
+      "options": [
+        { "option": "La magnitud de los terremotos", "correct": true },
+        { "option": "La intensidad de los huracanes", "correct": false },
+        { "option": "La velocidad del viento", "correct": false },
+        { "option": "La presión atmosférica", "correct": false }
+      ]
+    },
+    {
+      "id": 730,
+      "question": "¿Qué nombre recibe el estudio de los fósiles?",
+      "options": [
+        { "option": "Geología", "correct": false },
+        { "option": "Paleontología", "correct": true },
+        { "option": "Arqueología", "correct": false },
+        { "option": "Antropología", "correct": false }
+      ]
+    },
+    {
+      "id": 731,
+      "question": "¿Cuál es el elemento químico más abundante en el universo?",
+      "options": [
+        { "option": "Oxígeno", "correct": false },
+        { "option": "Helio", "correct": false },
+        { "option": "Hidrógeno", "correct": true },
+        { "option": "Carbono", "correct": false }
+      ]
+    },
+    {
+      "id": 732,
+      "question": "¿Cuál es la velocidad de la luz en el vacío?",
+      "options": [
+        { "option": "150,000 km/s", "correct": false },
+        { "option": "30,000 km/s", "correct": false },
+        { "option": "3,000 km/s", "correct": false },
+        { "option": "300,000 km/s", "correct": true }
+      ]
+    },
+    {
+      "id": 733,
+      "question": "¿Qué planeta tiene los anillos más visibles del sistema solar?",
+      "options": [
+        { "option": "Saturno", "correct": true },
+        { "option": "Júpiter", "correct": false },
+        { "option": "Urano", "correct": false },
+        { "option": "Neptuno", "correct": false }
+      ]
+    },
+    {
+      "id": 734,
+      "question": "¿Qué parte del cuerpo humano controla el sistema nervioso?",
+      "options": [
+        { "option": "El corazón", "correct": false },
+        { "option": "El cerebro", "correct": true },
+        { "option": "La médula espinal", "correct": false },
+        { "option": "El hígado", "correct": false }
+      ]
+    },
+    {
+      "id": 735,
+      "question": "¿Cómo se llama el proceso por el cual las plantas producen su alimento?",
+      "options": [
+        { "option": "Respiración", "correct": false },
+        { "option": "Fermentación", "correct": false },
+        { "option": "Fotosíntesis", "correct": true },
+        { "option": "Transpiración", "correct": false }
+      ]
+    },
+    {
+      "id": 736,
+      "question": "¿Qué científico propuso la teoría de la relatividad?",
+      "options": [
+        { "option": "Isaac Newton", "correct": false },
+        { "option": "Max Planck", "correct": false },
+        { "option": "Niels Bohr", "correct": false },
+        { "option": "Albert Einstein", "correct": true }
+      ]
+    },
+    {
+      "id": 737,
+      "question": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+      "options": [
+        { "option": "Nitrógeno", "correct": true },
+        { "option": "Oxígeno", "correct": false },
+        { "option": "Dióxido de carbono", "correct": false },
+        { "option": "Argón", "correct": false }
+      ]
+    },
+    {
+      "id": 738,
+      "question": "¿Qué científico desarrolló la teoría de la evolución por selección natural?",
+      "options": [
+        { "option": "Jean-Baptiste Lamarck", "correct": false },
+        { "option": "Charles Darwin", "correct": true },
+        { "option": "Alfred Wallace", "correct": false },
+        { "option": "Carl Linnaeus", "correct": false }
+      ]
+    },
+    {
+      "id": 739,
+      "question": "¿Qué hueso del cuerpo humano es el más largo?",
+      "options": [
+        { "option": "Húmero", "correct": false },
+        { "option": "Tibia", "correct": false },
+        { "option": "Fémur", "correct": true },
+        { "option": "Radio", "correct": false }
+      ]
+    },
+    {
+      "id": 740,
+      "question": "¿Cómo se llama el cambio de estado de sólido a gas sin pasar por líquido?",
+      "options": [
+        { "option": "Condensación", "correct": false },
+        { "option": "Evaporación", "correct": false },
+        { "option": "Fusión", "correct": false },
+        { "option": "Sublimación", "correct": true }
+      ]
+    },
+    {
+      "id": 741,
+      "question": "¿Qué tipo de energía produce una represa hidroeléctrica?",
+      "options": [
+        { "option": "Energía hidráulica", "correct": true },
+        { "option": "Energía solar", "correct": false },
+        { "option": "Energía eólica", "correct": false },
+        { "option": "Energía geotérmica", "correct": false }
+      ]
+    },
+    {
+      "id": 742,
+      "question": "¿Qué científico formuló las leyes del movimiento y la gravitación universal?",
+      "options": [
+        { "option": "Galileo Galilei", "correct": false },
+        { "option": "Isaac Newton", "correct": true },
+        { "option": "Nikola Tesla", "correct": false },
+        { "option": "Stephen Hawking", "correct": false }
+      ]
+    },
+    {
+      "id": 743,
+      "question": "¿Cómo se llama el proceso por el cual el agua se transforma en vapor?",
+      "options": [
+        { "option": "Sublimación", "correct": false },
+        { "option": "Condensación", "correct": false },
+        { "option": "Evaporación", "correct": true },
+        { "option": "Fusión", "correct": false }
+      ]
+    },
+    {
+      "id": 744,
+      "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "options": [
+        { "option": "El hígado", "correct": false },
+        { "option": "El cerebro", "correct": false },
+        { "option": "Los pulmones", "correct": false },
+        { "option": "La piel", "correct": true }
+      ]
+    },
+    {
+      "id": 745,
+      "question": "¿Qué planeta del sistema solar es conocido como el 'planeta rojo'?",
+      "options": [
+        { "option": "Marte", "correct": true },
+        { "option": "Venus", "correct": false },
+        { "option": "Júpiter", "correct": false },
+        { "option": "Saturno", "correct": false }
+      ]
+    },
+    {
+      "id": 746,
+      "question": "¿Cómo se llama la partícula subatómica sin carga eléctrica?",
+      "options": [
+        { "option": "Protón", "correct": false },
+        { "option": "Neutrón", "correct": true },
+        { "option": "Electrón", "correct": false },
+        { "option": "Fotón", "correct": false }
+      ]
+    },
+    {
+      "id": 747,
+      "question": "¿Qué científico fue pionero en la teoría heliocéntrica del sistema solar?",
+      "options": [
+        { "option": "Johannes Kepler", "correct": false },
+        { "option": "Ptolomeo", "correct": false },
+        { "option": "Nicolás Copérnico", "correct": true },
+        { "option": "Tycho Brahe", "correct": false }
+      ]
+    },
+    {
+      "id": 748,
+      "question": "¿Qué vitamina produce el cuerpo humano al exponerse al sol?",
+      "options": [
+        { "option": "Vitamina A", "correct": false },
+        { "option": "Vitamina C", "correct": false },
+        { "option": "Vitamina K", "correct": false },
+        { "option": "Vitamina D", "correct": true }
+      ]
+    },
+    {
+      "id": 749,
+      "question": "¿Cuál es el planeta más cercano al Sol?",
+      "options": [
+        { "option": "Mercurio", "correct": true },
+        { "option": "Venus", "correct": false },
+        { "option": "Tierra", "correct": false },
+        { "option": "Marte", "correct": false }
+      ]
+    },
+    {
+      "id": 750,
+      "question": "¿Cómo se llama el fenómeno por el cual la luz se curva al pasar de un medio a otro?",
+      "options": [
+        { "option": "Reflexión", "correct": false },
+        { "option": "Refracción", "correct": true },
+        { "option": "Difracción", "correct": false },
+        { "option": "Dispersión", "correct": false }
+      ]
+    },
+    {
+      "id": 751,
+      "question": "¿Cuál es el planeta más grande del sistema solar?",
+      "options": [
+        { "option": "Saturno", "correct": false },
+        { "option": "Neptuno", "correct": false },
+        { "option": "Júpiter", "correct": true },
+        { "option": "Urano", "correct": false }
+      ]
+    },
+    {
+      "id": 752,
+      "question": "¿Cuál es la molécula que contiene la información genética?",
+      "options": [
+        { "option": "ARN", "correct": false },
+        { "option": "Proteínas", "correct": false },
+        { "option": "Lípidos", "correct": false },
+        { "option": "ADN", "correct": true }
+      ]
+    },
+    {
+      "id": 753,
+      "question": "¿Qué científico descubrió la penicilina?",
+      "options": [
+        { "option": "Alexander Fleming", "correct": true },
+        { "option": "Louis Pasteur", "correct": false },
+        { "option": "Robert Koch", "correct": false },
+        { "option": "Edward Jenner", "correct": false }
+      ]
+    },
+    {
+      "id": 754,
+      "question": "¿Qué unidad se utiliza para medir la intensidad de corriente eléctrica?",
+      "options": [
+        { "option": "Voltio", "correct": false },
+        { "option": "Amperio", "correct": true },
+        { "option": "Ohmio", "correct": false },
+        { "option": "Vatio", "correct": false }
+      ]
+    },
+    {
+      "id": 755,
+      "question": "¿Qué planeta del sistema solar tiene un día más largo que su año?",
+      "options": [
+        { "option": "Mercurio", "correct": false },
+        { "option": "Marte", "correct": false },
+        { "option": "Venus", "correct": true },
+        { "option": "Saturno", "correct": false }
+      ]
+    },
+    {
+      "id": 756,
+      "question": "¿Qué científico propuso las leyes de la herencia genética?",
+      "options": [
+        { "option": "Charles Darwin", "correct": false },
+        { "option": "James Watson", "correct": false },
+        { "option": "Francis Crick", "correct": false },
+        { "option": "Gregor Mendel", "correct": true }
+      ]
+    },
+    {
+      "id": 757,
+      "question": "¿Cómo se llama la capa más externa de la Tierra?",
+      "options": [
+        { "option": "Corteza", "correct": true },
+        { "option": "Manto", "correct": false },
+        { "option": "Núcleo externo", "correct": false },
+        { "option": "Núcleo interno", "correct": false }
+      ]
+    },
+    {
+      "id": 758,
+      "question": "¿Cuál es la glándula que regula el metabolismo en el cuerpo humano?",
+      "options": [
+        { "option": "Páncreas", "correct": false },
+        { "option": "Tiroides", "correct": true },
+        { "option": "Hipófisis", "correct": false },
+        { "option": "Suprarrenales", "correct": false }
+      ]
+    },
+    {
+      "id": 759,
+      "question": "¿Qué fuerza mantiene a los planetas en órbita alrededor del Sol?",
+      "options": [
+        { "option": "La inercia", "correct": false },
+        { "option": "El magnetismo", "correct": false },
+        { "option": "La gravedad", "correct": true },
+        { "option": "La radiación solar", "correct": false }
+      ]
+    },
+    {
+      "id": 760,
+      "question": "¿Qué tipo de célula no tiene núcleo definido?",
+      "options": [
+        { "option": "Eucariota", "correct": false },
+        { "option": "Neurona", "correct": false },
+        { "option": "Glóbulo rojo", "correct": false },
+        { "option": "Procariota", "correct": true }
+      ]
+    },
+    {
+      "id": 761,
+      "question": "¿Cuál es el gas más abundante en la atmósfera terrestre?",
+      "options": [
+        { "option": "Nitrógeno", "correct": true },
+        { "option": "Oxígeno", "correct": false },
+        { "option": "Dióxido de carbono", "correct": false },
+        { "option": "Argón", "correct": false }
+      ]
+    },
+    {
+      "id": 762,
+      "question": "¿Qué rama de la biología estudia a los animales?",
+      "options": [
+        { "option": "Botánica", "correct": false },
+        { "option": "Zoología", "correct": true },
+        { "option": "Ecología", "correct": false },
+        { "option": "Genética", "correct": false }
+      ]
+    },
+    {
+      "id": 763,
+      "question": "¿Cuál es la velocidad de la luz en el vacío?",
+      "options": [
+        { "option": "150,000 km/s", "correct": false },
+        { "option": "30,000 km/s", "correct": false },
+        { "option": "Aproximadamente 300,000 km/s", "correct": true },
+        { "option": "1,000,000 km/s", "correct": false }
+      ]
+    },
+    {
+      "id": 764,
+      "question": "¿Qué nombre recibe el cambio de estado de gas a líquido?",
+      "options": [
+        { "option": "Sublimación", "correct": false },
+        { "option": "Evaporación", "correct": false },
+        { "option": "Solidificación", "correct": false },
+        { "option": "Condensación", "correct": true }
+      ]
+    },
+    {
+      "id": 765,
+      "question": "¿Cuál es la función principal de los glóbulos rojos?",
+      "options": [
+        { "option": "Transportar oxígeno", "correct": true },
+        { "option": "Defender contra infecciones", "correct": false },
+        { "option": "Coagular la sangre", "correct": false },
+        { "option": "Regular hormonas", "correct": false }
+      ]
+    },
+    {
+      "id": 766,
+      "question": "¿Qué científico desarrolló la teoría de la relatividad?",
+      "options": [
+        { "option": "Isaac Newton", "correct": false },
+        { "option": "Albert Einstein", "correct": true },
+        { "option": "Max Planck", "correct": false },
+        { "option": "Galileo Galilei", "correct": false }
+      ]
+    },
+    {
+      "id": 767,
+      "question": "¿Qué animal es conocido por tener tres corazones?",
+      "options": [
+        { "option": "El tiburón", "correct": false },
+        { "option": "La ballena", "correct": false },
+        { "option": "El pulpo", "correct": true },
+        { "option": "La estrella de mar", "correct": false }
+      ]
+    },
+    {
+      "id": 768,
+      "question": "¿Qué planeta tiene el mayor número de lunas en el sistema solar?",
+      "options": [
+        { "option": "Júpiter", "correct": false },
+        { "option": "Urano", "correct": false },
+        { "option": "Neptuno", "correct": false },
+        { "option": "Saturno", "correct": true }
+      ]
+    },
+    {
+      "id": 769,
+      "question": "¿Qué unidad se utiliza para medir la energía?",
+      "options": [
+        { "option": "Joule", "correct": true },
+        { "option": "Newton", "correct": false },
+        { "option": "Pascal", "correct": false },
+        { "option": "Hertz", "correct": false }
+      ]
+    },
+    {
+      "id": 770,
+      "question": "¿Cuál es el nombre del proceso mediante el cual las plantas liberan oxígeno?",
+      "options": [
+        { "option": "Respiración", "correct": false },
+        { "option": "Fotosíntesis", "correct": true },
+        { "option": "Fermentación", "correct": false },
+        { "option": "Digestión", "correct": false }
+      ]
+    },
+    {
+      "id": 771,
+      "question": "¿Cuál es el metal más ligero?",
+      "options": [
+        { "option": "Aluminio", "correct": false },
+        { "option": "Magnesio", "correct": false },
+        { "option": "Litio", "correct": true },
+        { "option": "Sodio", "correct": false }
+      ]
+    },
+    {
+      "id": 772,
+      "question": "¿Qué estudia la sismología?",
+      "options": [
+        { "option": "Los volcanes", "correct": false },
+        { "option": "Las montañas", "correct": false },
+        { "option": "Los huracanes", "correct": false },
+        { "option": "Los terremotos", "correct": true }
+      ]
+    },
+    {
+      "id": 773,
+      "question": "¿Qué tipo de estrella es el Sol?",
+      "options": [
+        { "option": "Enana amarilla", "correct": true },
+        { "option": "Gigante roja", "correct": false },
+        { "option": "Supernova", "correct": false },
+        { "option": "Neutrón", "correct": false }
+      ]
+    },
+    {
+      "id": 774,
+      "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+      "options": [
+        { "option": "Tibia", "correct": false },
+        { "option": "Fémur", "correct": true },
+        { "option": "Húmero", "correct": false },
+        { "option": "Radio", "correct": false }
+      ]
+    },
+    {
+      "id": 775,
+      "question": "¿Qué mineral es necesario para la formación de glóbulos rojos?",
+      "options": [
+        { "option": "Calcio", "correct": false },
+        { "option": "Magnesio", "correct": false },
+        { "option": "Hierro", "correct": true },
+        { "option": "Zinc", "correct": false }
+      ]
+    },
+    {
+      "id": 776,
+      "question": "¿Qué inventó Johannes Gutenberg?",
+      "options": [
+        { "option": "El telescopio", "correct": false },
+        { "option": "El microscopio", "correct": false },
+        { "option": "El termómetro", "correct": false },
+        { "option": "La imprenta", "correct": true }
+      ]
+    },
+    {
+      "id": 777,
+      "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "options": [
+        { "option": "La piel", "correct": true },
+        { "option": "El hígado", "correct": false },
+        { "option": "El cerebro", "correct": false },
+        { "option": "El corazón", "correct": false }
+      ]
+    },
+    {
+      "id": 778,
+      "question": "¿Qué tipo de energía generan las represas hidroeléctricas?",
+      "options": [
+        { "option": "Energía solar", "correct": false },
+        { "option": "Energía hidráulica", "correct": true },
+        { "option": "Energía eólica", "correct": false },
+        { "option": "Energía nuclear", "correct": false }
+      ]
+    },
+    {
+      "id": 779,
+      "question": "¿Cuál es el planeta más cercano al Sol?",
+      "options": [
+        { "option": "Venus", "correct": false },
+        { "option": "Marte", "correct": false },
+        { "option": "Mercurio", "correct": true },
+        { "option": "Tierra", "correct": false }
+      ]
+    },
+    {
+      "id": 780,
+      "question": "¿Qué científico es conocido como el padre de la tabla periódica?",
+      "options": [
+        { "option": "Antoine Lavoisier", "correct": false },
+        { "option": "Marie Curie", "correct": false },
+        { "option": "John Dalton", "correct": false },
+        { "option": "Dmitri Mendeléyev", "correct": true }
+      ]
+    },
+    {
+      "id": 781,
+      "question": "¿Cuál es el planeta más grande del sistema solar?",
+      "options": [
+        { "option": "Júpiter", "correct": true },
+        { "option": "Saturno", "correct": false },
+        { "option": "Neptuno", "correct": false },
+        { "option": "Urano", "correct": false }
+      ]
+    },
+    {
+      "id": 782,
+      "question": "¿Qué nombre recibe el estudio de los fósiles?",
+      "options": [
+        { "option": "Arqueología", "correct": false },
+        { "option": "Paleontología", "correct": true },
+        { "option": "Geología", "correct": false },
+        { "option": "Antropología", "correct": false }
+      ]
+    },
+    {
+      "id": 783,
+      "question": "¿Qué inventó Alexander Fleming?",
+      "options": [
+        { "option": "La vacuna contra la rabia", "correct": false },
+        { "option": "El microscopio", "correct": false },
+        { "option": "La penicilina", "correct": true },
+        { "option": "La insulina", "correct": false }
+      ]
+    },
+    {
+      "id": 784,
+      "question": "¿Qué planeta es conocido como el planeta rojo?",
+      "options": [
+        { "option": "Venus", "correct": false },
+        { "option": "Mercurio", "correct": false },
+        { "option": "Júpiter", "correct": false },
+        { "option": "Marte", "correct": true }
+      ]
+    },
+    {
+      "id": 785,
+      "question": "¿Qué tejido conecta los músculos con los huesos?",
+      "options": [
+        { "option": "Tendones", "correct": true },
+        { "option": "Ligamentos", "correct": false },
+        { "option": "Cartílagos", "correct": false },
+        { "option": "Nervios", "correct": false }
+      ]
+    },
+    {
+      "id": 786,
+      "question": "¿Qué tipo de sangre se considera donante universal?",
+      "options": [
+        { "option": "O positivo", "correct": false },
+        { "option": "O negativo", "correct": true },
+        { "option": "AB positivo", "correct": false },
+        { "option": "A negativo", "correct": false }
+      ]
+    },
+    {
+      "id": 787,
+      "question": "¿Quién fue el primero en observar microorganismos con un microscopio?",
+      "options": [
+        { "option": "Robert Hooke", "correct": false },
+        { "option": "Louis Pasteur", "correct": false },
+        { "option": "Antonie van Leeuwenhoek", "correct": true },
+        { "option": "Charles Darwin", "correct": false }
+      ]
+    },
+    {
+      "id": 788,
+      "question": "¿Qué elemento químico tiene el símbolo 'Na'?",
+      "options": [
+        { "option": "Nitrógeno", "correct": false },
+        { "option": "Neón", "correct": false },
+        { "option": "Níquel", "correct": false },
+        { "option": "Sodio", "correct": true }
+      ]
+    },
+    {
+      "id": 789,
+      "question": "¿Cuál es la estrella más cercana a la Tierra después del Sol?",
+      "options": [
+        { "option": "Próxima Centauri", "correct": true },
+        { "option": "Sirio", "correct": false },
+        { "option": "Betelgeuse", "correct": false },
+        { "option": "Vega", "correct": false }
+      ]
+    },
+    {
+      "id": 790,
+      "question": "¿Qué planeta tiene un día más largo que su año?",
+      "options": [
+        { "option": "Mercurio", "correct": false },
+        { "option": "Venus", "correct": true },
+        { "option": "Marte", "correct": false },
+        { "option": "Neptuno", "correct": false }
+      ]
+    },
+    {
+      "id": 791,
+      "question": "¿Qué nombre recibe el estudio de los insectos?",
+      "options": [
+        { "option": "Ornitología", "correct": false },
+        { "option": "Herpetología", "correct": false },
+        { "option": "Entomología", "correct": true },
+        { "option": "Botánica", "correct": false }
+      ]
+    },
+    {
+      "id": 792,
+      "question": "¿Cuál es el gas que constituye la mayor parte de la atmósfera terrestre?",
+      "options": [
+        { "option": "Oxígeno", "correct": false },
+        { "option": "Dióxido de carbono", "correct": false },
+        { "option": "Argón", "correct": false },
+        { "option": "Nitrógeno", "correct": true }
+      ]
+    },
+    {
+      "id": 793,
+      "question": "¿Qué científico formuló las leyes de la herencia genética?",
+      "options": [
+        { "option": "Gregor Mendel", "correct": true },
+        { "option": "Charles Darwin", "correct": false },
+        { "option": "James Watson", "correct": false },
+        { "option": "Louis Pasteur", "correct": false }
+      ]
+    },
+    {
+      "id": 794,
+      "question": "¿Cuál es el planeta con más satélites en el sistema solar?",
+      "options": [
+        { "option": "Júpiter", "correct": false },
+        { "option": "Saturno", "correct": true },
+        { "option": "Neptuno", "correct": false },
+        { "option": "Urano", "correct": false }
+      ]
+    },
+    {
+      "id": 795,
+      "question": "¿Qué tipo de célula no tiene núcleo definido?",
+      "options": [
+        { "option": "Eucariota", "correct": false },
+        { "option": "Somática", "correct": false },
+        { "option": "Procariota", "correct": true },
+        { "option": "Neurona", "correct": false }
+      ]
+    },
+    {
+      "id": 796,
+      "question": "¿Cuál es la fórmula química del agua oxigenada?",
+      "options": [
+        { "option": "H2O", "correct": false },
+        { "option": "HO", "correct": false },
+        { "option": "OH2", "correct": false },
+        { "option": "H2O2", "correct": true }
+      ]
+    },
+    {
+      "id": 797,
+      "question": "¿Cuál es el animal más rápido del mundo?",
+      "options": [
+        { "option": "Guepardo", "correct": true },
+        { "option": "Halcón peregrino", "correct": false },
+        { "option": "León", "correct": false },
+        { "option": "Tigre", "correct": false }
+      ]
+    },
+    {
+      "id": 798,
+      "question": "¿Qué científico descubrió que la Tierra gira alrededor del Sol?",
+      "options": [
+        { "option": "Galileo Galilei", "correct": false },
+        { "option": "Nicolás Copérnico", "correct": true },
+        { "option": "Johannes Kepler", "correct": false },
+        { "option": "Isaac Newton", "correct": false }
+      ]
+    },
+    {
+      "id": 799,
+      "question": "¿Qué tipo de energía producen los paneles solares?",
+      "options": [
+        { "option": "Energía térmica", "correct": false },
+        { "option": "Energía nuclear", "correct": false },
+        { "option": "Energía solar fotovoltaica", "correct": true },
+        { "option": "Energía eólica", "correct": false }
+      ]
+    },
+    {
+      "id": 800,
+      "question": "¿Qué científico es considerado el padre de la microbiología?",
+      "options": [
+        { "option": "Robert Koch", "correct": false },
+        { "option": "Antonie van Leeuwenhoek", "correct": false },
+        { "option": "Joseph Lister", "correct": false },
+        { "option": "Louis Pasteur", "correct": true }
+      ]
+    },
+    {
+      "id": 801,
+      "question": "¿En qué país se originó el fútbol moderno?",
+      "options": [
+        { "option": "Inglaterra", "correct": true },
+        { "option": "Brasil", "correct": false },
+        { "option": "España", "correct": false },
+        { "option": "Italia", "correct": false }
+      ]
+    },
+    {
+      "id": 802,
+      "question": "¿Cuántos jugadores componen un equipo de baloncesto en cancha?",
+      "options": [
+        { "option": "6", "correct": false },
+        { "option": "5", "correct": true },
+        { "option": "7", "correct": false },
+        { "option": "4", "correct": false }
+      ]
+    },
+    {
+      "id": 803,
+      "question": "¿En qué deporte se utiliza una raqueta y una pelota amarilla pequeña?",
+      "options": [
+        { "option": "Bádminton", "correct": false },
+        { "option": "Squash", "correct": false },
+        { "option": "Tenis", "correct": true },
+        { "option": "Ping pong", "correct": false }
+      ]
+    },
+    {
+      "id": 804,
+      "question": "¿Qué país ganó la Copa Mundial de Fútbol 2018?",
+      "options": [
+        { "option": "Croacia", "correct": false },
+        { "option": "Alemania", "correct": false },
+        { "option": "Brasil", "correct": false },
+        { "option": "Francia", "correct": true }
+      ]
+    },
+    {
+      "id": 805,
+      "question": "¿Cuántos sets debe ganar un jugador para vencer un partido de tenis masculino en Grand Slam?",
+      "options": [
+        { "option": "3", "correct": true },
+        { "option": "2", "correct": false },
+        { "option": "4", "correct": false },
+        { "option": "5", "correct": false }
+      ]
+    },
+    {
+      "id": 806,
+      "question": "¿En qué ciudad se celebraron los Juegos Olímpicos de 2016?",
+      "options": [
+        { "option": "Londres", "correct": false },
+        { "option": "Río de Janeiro", "correct": true },
+        { "option": "Tokio", "correct": false },
+        { "option": "Pekín", "correct": false }
+      ]
+    },
+    {
+      "id": 807,
+      "question": "¿Cuál es la distancia oficial de una maratón?",
+      "options": [
+        { "option": "40 km", "correct": false },
+        { "option": "45 km", "correct": false },
+        { "option": "42,195 km", "correct": true },
+        { "option": "50 km", "correct": false }
+      ]
+    },
+    {
+      "id": 808,
+      "question": "¿En qué deporte se usan palos y un disco llamado puck?",
+      "options": [
+        { "option": "Hockey sobre césped", "correct": false },
+        { "option": "Lacrosse", "correct": false },
+        { "option": "Críquet", "correct": false },
+        { "option": "Hockey sobre hielo", "correct": true }
+      ]
+    },
+    {
+      "id": 809,
+      "question": "¿Cuántos puntos vale un triple en baloncesto?",
+      "options": [
+        { "option": "3", "correct": true },
+        { "option": "2", "correct": false },
+        { "option": "4", "correct": false },
+        { "option": "1", "correct": false }
+      ]
+    },
+    {
+      "id": 810,
+      "question": "¿En qué deporte destacó Michael Phelps?",
+      "options": [
+        { "option": "Atletismo", "correct": false },
+        { "option": "Natación", "correct": true },
+        { "option": "Ciclismo", "correct": false },
+        { "option": "Esquí", "correct": false }
+      ]
+    },
+    {
+      "id": 811,
+      "question": "¿En qué deporte se utiliza un bate y una pelota lanzada por un pitcher?",
+      "options": [
+        { "option": "Críquet", "correct": false },
+        { "option": "Softbol", "correct": false },
+        { "option": "Béisbol", "correct": true },
+        { "option": "Hockey", "correct": false }
+      ]
+    },
+    {
+      "id": 812,
+      "question": "¿Cuál es el país con más títulos de Copa Mundial de Fútbol?",
+      "options": [
+        { "option": "Alemania", "correct": false },
+        { "option": "Italia", "correct": false },
+        { "option": "Argentina", "correct": false },
+        { "option": "Brasil", "correct": true }
+      ]
+    },
+    {
+      "id": 813,
+      "question": "¿Cuántos anillos olímpicos hay en el símbolo de los Juegos Olímpicos?",
+      "options": [
+        { "option": "5", "correct": true },
+        { "option": "6", "correct": false },
+        { "option": "4", "correct": false },
+        { "option": "7", "correct": false }
+      ]
+    },
+    {
+      "id": 814,
+      "question": "¿En qué deporte compite Usain Bolt?",
+      "options": [
+        { "option": "Natación", "correct": false },
+        { "option": "Atletismo", "correct": true },
+        { "option": "Ciclismo", "correct": false },
+        { "option": "Esquí", "correct": false }
+      ]
+    },
+    {
+      "id": 815,
+      "question": "¿Cuál es el torneo de tenis que se juega en césped?",
+      "options": [
+        { "option": "Roland Garros", "correct": false },
+        { "option": "US Open", "correct": false },
+        { "option": "Wimbledon", "correct": true },
+        { "option": "Australian Open", "correct": false }
+      ]
+    },
+    {
+      "id": 816,
+      "question": "¿Cuánto dura un partido de fútbol profesional sin contar el tiempo extra?",
+      "options": [
+        { "option": "80 minutos", "correct": false },
+        { "option": "100 minutos", "correct": false },
+        { "option": "75 minutos", "correct": false },
+        { "option": "90 minutos", "correct": true }
+      ]
+    },
+    {
+      "id": 817,
+      "question": "¿En qué país se celebraron los Juegos Olímpicos de 2008?",
+      "options": [
+        { "option": "China", "correct": true },
+        { "option": "Grecia", "correct": false },
+        { "option": "Australia", "correct": false },
+        { "option": "Japón", "correct": false }
+      ]
+    },
+    {
+      "id": 818,
+      "question": "¿En qué deporte se destacan los equipos llamados Lakers y Bulls?",
+      "options": [
+        { "option": "Fútbol americano", "correct": false },
+        { "option": "Baloncesto", "correct": true },
+        { "option": "Hockey sobre hielo", "correct": false },
+        { "option": "Béisbol", "correct": false }
+      ]
+    },
+    {
+      "id": 819,
+      "question": "¿Qué jugador es conocido como 'La Pulga' en el mundo del fútbol?",
+      "options": [
+        { "option": "Cristiano Ronaldo", "correct": false },
+        { "option": "Neymar", "correct": false },
+        { "option": "Lionel Messi", "correct": true },
+        { "option": "Kylian Mbappé", "correct": false }
+      ]
+    },
+    {
+      "id": 820,
+      "question": "¿En qué deporte se utilizan guantes grandes para atrapar la pelota?",
+      "options": [
+        { "option": "Críquet", "correct": false },
+        { "option": "Softbol", "correct": false },
+        { "option": "Balonmano", "correct": false },
+        { "option": "Béisbol", "correct": true }
+      ]
+    },
+    {
+      "id": 821,
+      "question": "¿En qué deporte se usa una canasta a 3,05 metros de altura?",
+      "options": [
+        { "option": "Baloncesto", "correct": true },
+        { "option": "Vóleibol", "correct": false },
+        { "option": "Balonmano", "correct": false },
+        { "option": "Netball", "correct": false }
+      ]
+    },
+    {
+      "id": 822,
+      "question": "¿Cuál es la duración de un combate de boxeo profesional por campeonato?",
+      "options": [
+        { "option": "10 asaltos", "correct": false },
+        { "option": "12 asaltos", "correct": true },
+        { "option": "15 asaltos", "correct": false },
+        { "option": "8 asaltos", "correct": false }
+      ]
+    },
+    {
+      "id": 823,
+      "question": "¿Qué país organiza el Tour de Francia?",
+      "options": [
+        { "option": "España", "correct": false },
+        { "option": "Italia", "correct": false },
+        { "option": "Francia", "correct": true },
+        { "option": "Bélgica", "correct": false }
+      ]
+    },
+    {
+      "id": 824,
+      "question": "¿En qué deporte se compite en la Copa Davis?",
+      "options": [
+        { "option": "Golf", "correct": false },
+        { "option": "Críquet", "correct": false },
+        { "option": "Hockey", "correct": false },
+        { "option": "Tenis", "correct": true }
+      ]
+    },
+    {
+      "id": 825,
+      "question": "¿Qué selección ganó el Mundial de Fútbol 2014?",
+      "options": [
+        { "option": "Alemania", "correct": true },
+        { "option": "Argentina", "correct": false },
+        { "option": "España", "correct": false },
+        { "option": "Brasil", "correct": false }
+      ]
+    },
+    {
+      "id": 826,
+      "question": "¿En qué deporte se destacan equipos como los Yankees y Red Sox?",
+      "options": [
+        { "option": "Baloncesto", "correct": false },
+        { "option": "Béisbol", "correct": true },
+        { "option": "Fútbol americano", "correct": false },
+        { "option": "Hockey", "correct": false }
+      ]
+    },
+    {
+      "id": 827,
+      "question": "¿Cuántos jugadores forman un equipo de fútbol americano en el campo?",
+      "options": [
+        { "option": "10", "correct": false },
+        { "option": "12", "correct": false },
+        { "option": "11", "correct": true },
+        { "option": "9", "correct": false }
+      ]
+    },
+    {
+      "id": 828,
+      "question": "¿En qué país se celebraron los Juegos Olímpicos de 2021?",
+      "options": [
+        { "option": "China", "correct": false },
+        { "option": "Brasil", "correct": false },
+        { "option": "Grecia", "correct": false },
+        { "option": "Japón", "correct": true }
+      ]
+    },
+    {
+      "id": 829,
+      "question": "¿Qué deporte se practica en el famoso torneo Masters de Augusta?",
+      "options": [
+        { "option": "Golf", "correct": true },
+        { "option": "Tenis", "correct": false },
+        { "option": "Polo", "correct": false },
+        { "option": "Bádminton", "correct": false }
+      ]
+    },
+    {
+      "id": 830,
+      "question": "¿Qué nadador español ganó tres medallas en los Juegos Olímpicos de Londres 2012?",
+      "options": [
+        { "option": "David Meca", "correct": false },
+        { "option": "Mireia Belmonte", "correct": true },
+        { "option": "Rafa Muñoz", "correct": false },
+        { "option": "Teresa Perales", "correct": false }
+      ]
+    },
+    {
+      "id": 831,
+      "question": "¿En qué ciudad se celebraron los primeros Juegos Olímpicos modernos en 1896?",
+      "options": [
+        { "option": "París", "correct": false },
+        { "option": "Londres", "correct": false },
+        { "option": "Atenas", "correct": true },
+        { "option": "Roma", "correct": false }
+      ]
+    },
+    {
+      "id": 832,
+      "question": "¿Cuál es la distancia de un maratón oficial?",
+      "options": [
+        { "option": "40 km", "correct": false },
+        { "option": "45 km", "correct": false },
+        { "option": "38 km", "correct": false },
+        { "option": "42,195 km", "correct": true }
+      ]
+    },
+    {
+      "id": 833,
+      "question": "¿Qué futbolista portugués es apodado 'CR7'?",
+      "options": [
+        { "option": "Cristiano Ronaldo", "correct": true },
+        { "option": "Luis Figo", "correct": false },
+        { "option": "Pepe", "correct": false },
+        { "option": "João Félix", "correct": false }
+      ]
+    },
+    {
+      "id": 834,
+      "question": "¿En qué deporte se utiliza una pala y una pelota pequeña de plástico?",
+      "options": [
+        { "option": "Squash", "correct": false },
+        { "option": "Tenis de mesa", "correct": true },
+        { "option": "Bádminton", "correct": false },
+        { "option": "Pádel", "correct": false }
+      ]
+    },
+    {
+      "id": 835,
+      "question": "¿Qué país ganó el Mundial de Rugby en 2019?",
+      "options": [
+        { "option": "Nueva Zelanda", "correct": false },
+        { "option": "Inglaterra", "correct": false },
+        { "option": "Sudáfrica", "correct": true },
+        { "option": "Australia", "correct": false }
+      ]
+    },
+    {
+      "id": 836,
+      "question": "¿Cuántos sets se juegan en un partido masculino de Grand Slam de tenis?",
+      "options": [
+        { "option": "3", "correct": false },
+        { "option": "4", "correct": false },
+        { "option": "6", "correct": false },
+        { "option": "5", "correct": true }
+      ]
+    },
+    {
+      "id": 837,
+      "question": "¿En qué deporte se compite en la Vuelta a España?",
+      "options": [
+        { "option": "Ciclismo", "correct": true },
+        { "option": "Motociclismo", "correct": false },
+        { "option": "Atletismo", "correct": false },
+        { "option": "Triatlón", "correct": false }
+      ]
+    },
+    {
+      "id": 838,
+      "question": "¿Quién es considerado el mejor basquetbolista de todos los tiempos por muchos expertos?",
+      "options": [
+        { "option": "LeBron James", "correct": false },
+        { "option": "Michael Jordan", "correct": true },
+        { "option": "Kobe Bryant", "correct": false },
+        { "option": "Magic Johnson", "correct": false }
+      ]
+    },
+    {
+      "id": 839,
+      "question": "¿Qué deporte se practica en el estadio de Wembley?",
+      "options": [
+        { "option": "Rugby", "correct": false },
+        { "option": "Críquet", "correct": false },
+        { "option": "Fútbol", "correct": true },
+        { "option": "Atletismo", "correct": false }
+      ]
+    },
+    {
+      "id": 840,
+      "question": "¿En qué disciplina deportiva destacó Nadia Comăneci?",
+      "options": [
+        { "option": "Natación", "correct": false },
+        { "option": "Atletismo", "correct": false },
+        { "option": "Patinaje artístico", "correct": false },
+        { "option": "Gimnasia artística", "correct": true }
+      ]
+    },
+    {
+      "id": 841,
+      "question": "¿En qué deporte se utiliza una pista de hielo y un disco llamado puck?",
+      "options": [
+        { "option": "Hockey sobre hielo", "correct": true },
+        { "option": "Curling", "correct": false },
+        { "option": "Patinaje artístico", "correct": false },
+        { "option": "Esquí de fondo", "correct": false }
+      ]
+    },
+    {
+      "id": 842,
+      "question": "¿Qué país ganó la Copa Mundial de Fútbol de 2006?",
+      "options": [
+        { "option": "Francia", "correct": false },
+        { "option": "Italia", "correct": true },
+        { "option": "Brasil", "correct": false },
+        { "option": "Alemania", "correct": false }
+      ]
+    },
+    {
+      "id": 843,
+      "question": "¿Cuántos puntos vale un triple en baloncesto?",
+      "options": [
+        { "option": "2", "correct": false },
+        { "option": "4", "correct": false },
+        { "option": "3", "correct": true },
+        { "option": "1", "correct": false }
+      ]
+    },
+    {
+      "id": 844,
+      "question": "¿En qué deporte se compite en el Roland Garros?",
+      "options": [
+        { "option": "Golf", "correct": false },
+        { "option": "Pádel", "correct": false },
+        { "option": "Bádminton", "correct": false },
+        { "option": "Tenis", "correct": true }
+      ]
+    },
+    {
+      "id": 845,
+      "question": "¿Qué piloto de Fórmula 1 tiene el récord de más campeonatos mundiales junto con Michael Schumacher?",
+      "options": [
+        { "option": "Lewis Hamilton", "correct": true },
+        { "option": "Sebastian Vettel", "correct": false },
+        { "option": "Fernando Alonso", "correct": false },
+        { "option": "Ayrton Senna", "correct": false }
+      ]
+    },
+    {
+      "id": 846,
+      "question": "¿En qué deporte se utilizan términos como birdie, eagle y bogey?",
+      "options": [
+        { "option": "Críquet", "correct": false },
+        { "option": "Golf", "correct": true },
+        { "option": "Béisbol", "correct": false },
+        { "option": "Polo", "correct": false }
+      ]
+    },
+    {
+      "id": 847,
+      "question": "¿Cuál es la distancia estándar de una pista de atletismo en su carril interior?",
+      "options": [
+        { "option": "300 metros", "correct": false },
+        { "option": "500 metros", "correct": false },
+        { "option": "400 metros", "correct": true },
+        { "option": "350 metros", "correct": false }
+      ]
+    },
+    {
+      "id": 848,
+      "question": "¿Qué país ganó el Mundial de Fútbol Femenino en 2019?",
+      "options": [
+        { "option": "Países Bajos", "correct": false },
+        { "option": "Suecia", "correct": false },
+        { "option": "Inglaterra", "correct": false },
+        { "option": "Estados Unidos", "correct": true }
+      ]
+    },
+    {
+      "id": 849,
+      "question": "¿En qué deporte destacó el atleta Usain Bolt?",
+      "options": [
+        { "option": "Atletismo", "correct": true },
+        { "option": "Natación", "correct": false },
+        { "option": "Ciclismo", "correct": false },
+        { "option": "Fútbol", "correct": false }
+      ]
+    },
+    {
+      "id": 850,
+      "question": "¿Qué jugador de baloncesto es apodado 'La Barba'?",
+      "options": [
+        { "option": "Anthony Davis", "correct": false },
+        { "option": "James Harden", "correct": true },
+        { "option": "Kyrie Irving", "correct": false },
+        { "option": "Russell Westbrook", "correct": false }
+      ]
+    },
+    {
+      "id": 851,
+      "question": "¿En qué deporte se utiliza una red alta y un balón que se golpea con las manos?",
+      "options": [
+        { "option": "Balonmano", "correct": false },
+        { "option": "Bádminton", "correct": false },
+        { "option": "Voleibol", "correct": true },
+        { "option": "Pádel", "correct": false }
+      ]
+    },
+    {
+      "id": 852,
+      "question": "¿Qué selección ganó la Copa Mundial de Fútbol en 2010?",
+      "options": [
+        { "option": "Alemania", "correct": false },
+        { "option": "Brasil", "correct": false },
+        { "option": "Argentina", "correct": false },
+        { "option": "España", "correct": true }
+      ]
+    },
+    {
+      "id": 853,
+      "question": "¿Cuántos jugadores hay en un equipo de rugby en el campo?",
+      "options": [
+        { "option": "15", "correct": true },
+        { "option": "11", "correct": false },
+        { "option": "13", "correct": false },
+        { "option": "7", "correct": false }
+      ]
+    },
+    {
+      "id": 854,
+      "question": "¿En qué deporte destacó Muhammad Ali?",
+      "options": [
+        { "option": "Lucha libre", "correct": false },
+        { "option": "Boxeo", "correct": true },
+        { "option": "Judo", "correct": false },
+        { "option": "Taekwondo", "correct": false }
+      ]
+    },
+    {
+      "id": 855,
+      "question": "¿Cuál es el deporte más popular en la India?",
+      "options": [
+        { "option": "Hockey sobre hierba", "correct": false },
+        { "option": "Fútbol", "correct": false },
+        { "option": "Críquet", "correct": true },
+        { "option": "Tenis", "correct": false }
+      ]
+    },
+    {
+      "id": 856,
+      "question": "¿Cuántos aros hay en el símbolo olímpico?",
+      "options": [
+        { "option": "6", "correct": false },
+        { "option": "4", "correct": false },
+        { "option": "7", "correct": false },
+        { "option": "5", "correct": true }
+      ]
+    },
+    {
+      "id": 857,
+      "question": "¿Quién es considerado uno de los mejores golfistas de la historia?",
+      "options": [
+        { "option": "Tiger Woods", "correct": true },
+        { "option": "Roger Federer", "correct": false },
+        { "option": "Novak Djokovic", "correct": false },
+        { "option": "Phil Mickelson", "correct": false }
+      ]
+    },
+    {
+      "id": 858,
+      "question": "¿Qué deporte practica Simone Biles?",
+      "options": [
+        { "option": "Clavados", "correct": false },
+        { "option": "Gimnasia artística", "correct": true },
+        { "option": "Natación", "correct": false },
+        { "option": "Atletismo", "correct": false }
+      ]
+    },
+    {
+      "id": 859,
+      "question": "¿En qué país se celebraron los Juegos Olímpicos de 2008?",
+      "options": [
+        { "option": "Grecia", "correct": false },
+        { "option": "Japón", "correct": false },
+        { "option": "China", "correct": true },
+        { "option": "Australia", "correct": false }
+      ]
+    },
+    {
+      "id": 860,
+      "question": "¿Qué equipo de la NBA es conocido como 'Los Lakers'?",
+      "options": [
+        { "option": "Chicago Bulls", "correct": false },
+        { "option": "Golden State Warriors", "correct": false },
+        { "option": "Boston Celtics", "correct": false },
+        { "option": "Los Ángeles Lakers", "correct": true }
+      ]
+    },
+    {
+      "id": 861,
+      "question": "¿Qué selección de fútbol ganó el Mundial en 1998?",
+      "options": [
+        { "option": "Francia", "correct": true },
+        { "option": "Brasil", "correct": false },
+        { "option": "Italia", "correct": false },
+        { "option": "Alemania", "correct": false }
+      ]
+    },
+    {
+      "id": 862,
+      "question": "¿Cuántos sets se necesitan ganar en un partido masculino de Grand Slam de tenis?",
+      "options": [
+        { "option": "2", "correct": false },
+        { "option": "3", "correct": true },
+        { "option": "4", "correct": false },
+        { "option": "5", "correct": false }
+      ]
+    },
+    {
+      "id": 863,
+      "question": "¿En qué deporte se utilizan guantes, casco y se lanzan puñetazos?",
+      "options": [
+        { "option": "Rugby", "correct": false },
+        { "option": "Karate", "correct": false },
+        { "option": "Boxeo", "correct": true },
+        { "option": "Judo", "correct": false }
+      ]
+    },
+    {
+      "id": 864,
+      "question": "¿Cuál es el país de origen del sumo?",
+      "options": [
+        { "option": "China", "correct": false },
+        { "option": "Corea del Sur", "correct": false },
+        { "option": "Tailandia", "correct": false },
+        { "option": "Japón", "correct": true }
+      ]
+    },
+    {
+      "id": 865,
+      "question": "¿Quién ganó el Balón de Oro en 2021?",
+      "options": [
+        { "option": "Lionel Messi", "correct": true },
+        { "option": "Cristiano Ronaldo", "correct": false },
+        { "option": "Robert Lewandowski", "correct": false },
+        { "option": "Karim Benzema", "correct": false }
+      ]
+    },
+    {
+      "id": 866,
+      "question": "¿Cuántos jugadores forman un equipo de voleibol en la cancha?",
+      "options": [
+        { "option": "5", "correct": false },
+        { "option": "6", "correct": true },
+        { "option": "7", "correct": false },
+        { "option": "8", "correct": false }
+      ]
+    },
+    {
+      "id": 867,
+      "question": "¿Qué país organiza el torneo de tenis Wimbledon?",
+      "options": [
+        { "option": "Francia", "correct": false },
+        { "option": "Estados Unidos", "correct": false },
+        { "option": "Reino Unido", "correct": true },
+        { "option": "Australia", "correct": false }
+      ]
+    },
+    {
+      "id": 868,
+      "question": "¿Qué corredor de Fórmula 1 fue apodado 'El Hombre de Hielo'?",
+      "options": [
+        { "option": "Lewis Hamilton", "correct": false },
+        { "option": "Sebastian Vettel", "correct": false },
+        { "option": "Fernando Alonso", "correct": false },
+        { "option": "Kimi Räikkönen", "correct": true }
+      ]
+    },
+    {
+      "id": 869,
+      "question": "¿Qué país es considerado la cuna del fútbol moderno?",
+      "options": [
+        { "option": "Inglaterra", "correct": true },
+        { "option": "Brasil", "correct": false },
+        { "option": "Italia", "correct": false },
+        { "option": "Alemania", "correct": false }
+      ]
+    },
+    {
+      "id": 870,
+      "question": "¿En qué deporte brilló Michael Phelps?",
+      "options": [
+        { "option": "Atletismo", "correct": false },
+        { "option": "Natación", "correct": true },
+        { "option": "Remo", "correct": false },
+        { "option": "Waterpolo", "correct": false }
+      ]
+    },
+    {
+      "id": 871,
+      "question": "¿Qué país ganó la primera Copa Mundial de Fútbol en 1930?",
+      "options": [
+        { "option": "Brasil", "correct": false },
+        { "option": "Argentina", "correct": false },
+        { "option": "Uruguay", "correct": true },
+        { "option": "Italia", "correct": false }
+      ]
+    },
+    {
+      "id": 872,
+      "question": "¿En qué deporte se usan palos largos y un disco llamado puck?",
+      "options": [
+        { "option": "Hockey sobre césped", "correct": false },
+        { "option": "Lacrosse", "correct": false },
+        { "option": "Béisbol", "correct": false },
+        { "option": "Hockey sobre hielo", "correct": true }
+      ]
+    },
+    {
+      "id": 873,
+      "question": "¿Cuántos puntos vale un triple en baloncesto?",
+      "options": [
+        { "option": "3", "correct": true },
+        { "option": "2", "correct": false },
+        { "option": "4", "correct": false },
+        { "option": "1", "correct": false }
+      ]
+    },
+    {
+      "id": 874,
+      "question": "¿Quién fue apodado 'El Rey del Fútbol'?",
+      "options": [
+        { "option": "Diego Maradona", "correct": false },
+        { "option": "Pelé", "correct": true },
+        { "option": "Lionel Messi", "correct": false },
+        { "option": "Cristiano Ronaldo", "correct": false }
+      ]
+    },
+    {
+      "id": 875,
+      "question": "¿Dónde se celebraron los Juegos Olímpicos de 2016?",
+      "options": [
+        { "option": "Londres", "correct": false },
+        { "option": "Pekín", "correct": false },
+        { "option": "Río de Janeiro", "correct": true },
+        { "option": "Tokio", "correct": false }
+      ]
+    },
+    {
+      "id": 876,
+      "question": "¿Qué boxeador fue conocido como 'Manos de Piedra'?",
+      "options": [
+        { "option": "Julio César Chávez", "correct": false },
+        { "option": "Mike Tyson", "correct": false },
+        { "option": "Floyd Mayweather", "correct": false },
+        { "option": "Roberto Durán", "correct": true }
+      ]
+    },
+    {
+      "id": 877,
+      "question": "¿Qué país ganó más medallas en los Juegos Olímpicos de Tokio 2020?",
+      "options": [
+        { "option": "Estados Unidos", "correct": true },
+        { "option": "China", "correct": false },
+        { "option": "Japón", "correct": false },
+        { "option": "Rusia", "correct": false }
+      ]
+    },
+    {
+      "id": 878,
+      "question": "¿En qué deporte es famoso Usain Bolt?",
+      "options": [
+        { "option": "Ciclismo", "correct": false },
+        { "option": "Atletismo", "correct": true },
+        { "option": "Natación", "correct": false },
+        { "option": "Boxeo", "correct": false }
+      ]
+    },
+    {
+      "id": 879,
+      "question": "¿Cuántos minutos dura un partido de fútbol profesional?",
+      "options": [
+        { "option": "80", "correct": false },
+        { "option": "100", "correct": false },
+        { "option": "90", "correct": true },
+        { "option": "70", "correct": false }
+      ]
+    },
+    {
+      "id": 880,
+      "question": "¿Cuál es la principal competencia internacional de selecciones de rugby?",
+      "options": [
+        { "option": "Seis Naciones", "correct": false },
+        { "option": "Champions Cup", "correct": false },
+        { "option": "Super Rugby", "correct": false },
+        { "option": "Copa del Mundo de Rugby", "correct": true }
+      ]
+    },
+    {
+      "id": 881,
+      "question": "¿Qué tenista español es conocido como 'El Rey de la Arcilla'?",
+      "options": [
+        { "option": "Rafael Nadal", "correct": true },
+        { "option": "Carlos Moyá", "correct": false },
+        { "option": "David Ferrer", "correct": false },
+        { "option": "Juan Carlos Ferrero", "correct": false }
+      ]
+    },
+    {
+      "id": 882,
+      "question": "¿Qué selección ganó la Copa Mundial de Fútbol en 2014?",
+      "options": [
+        { "option": "Argentina", "correct": false },
+        { "option": "Alemania", "correct": true },
+        { "option": "España", "correct": false },
+        { "option": "Brasil", "correct": false }
+      ]
+    },
+    {
+      "id": 883,
+      "question": "¿Cuántos jugadores hay en un equipo de balonmano en la cancha?",
+      "options": [
+        { "option": "6", "correct": false },
+        { "option": "8", "correct": false },
+        { "option": "7", "correct": true },
+        { "option": "9", "correct": false }
+      ]
+    },
+    {
+      "id": 884,
+      "question": "¿Qué piloto de Fórmula 1 es apodado 'La Flecha de Plata'?",
+      "options": [
+        { "option": "Niki Lauda", "correct": false },
+        { "option": "Michael Schumacher", "correct": false },
+        { "option": "Valtteri Bottas", "correct": false },
+        { "option": "Lewis Hamilton", "correct": true }
+      ]
+    },
+    {
+      "id": 885,
+      "question": "¿En qué deporte destacó el argentino Manu Ginóbili?",
+      "options": [
+        { "option": "Baloncesto", "correct": true },
+        { "option": "Fútbol", "correct": false },
+        { "option": "Tenis", "correct": false },
+        { "option": "Hockey sobre césped", "correct": false }
+      ]
+    },
+    {
+      "id": 886,
+      "question": "¿Dónde se celebraron los Juegos Olímpicos de 2008?",
+      "options": [
+        { "option": "Londres", "correct": false },
+        { "option": "Pekín", "correct": true },
+        { "option": "Atenas", "correct": false },
+        { "option": "Sídney", "correct": false }
+      ]
+    },
+    {
+      "id": 887,
+      "question": "¿Qué deporte se practica en el Super Bowl?",
+      "options": [
+        { "option": "Béisbol", "correct": false },
+        { "option": "Baloncesto", "correct": false },
+        { "option": "Fútbol americano", "correct": true },
+        { "option": "Rugby", "correct": false }
+      ]
+    },
+    {
+      "id": 888,
+      "question": "¿Quién es considerado el mejor golfista de todos los tiempos?",
+      "options": [
+        { "option": "Jack Nicklaus", "correct": false },
+        { "option": "Arnold Palmer", "correct": false },
+        { "option": "Phil Mickelson", "correct": false },
+        { "option": "Tiger Woods", "correct": true }
+      ]
+    },
+    {
+      "id": 889,
+      "question": "¿Cuántos grand slams ganó Roger Federer en su carrera?",
+      "options": [
+        { "option": "20", "correct": true },
+        { "option": "21", "correct": false },
+        { "option": "19", "correct": false },
+        { "option": "18", "correct": false }
+      ]
+    },
+    {
+      "id": 890,
+      "question": "¿Qué país ha ganado más Copas América de fútbol?",
+      "options": [
+        { "option": "Uruguay", "correct": false },
+        { "option": "Argentina", "correct": true },
+        { "option": "Brasil", "correct": false },
+        { "option": "Chile", "correct": false }
+      ]
+    },
+    {
+      "id": 891,
+      "question": "¿Qué país fue sede de la Copa Mundial de Fútbol en 1998?",
+      "options": [
+        { "option": "Alemania", "correct": false },
+        { "option": "Italia", "correct": false },
+        { "option": "Francia", "correct": true },
+        { "option": "Inglaterra", "correct": false }
+      ]
+    },
+    {
+      "id": 892,
+      "question": "¿Cuál es el torneo de tenis más antiguo del mundo?",
+      "options": [
+        { "option": "Roland Garros", "correct": false },
+        { "option": "US Open", "correct": false },
+        { "option": "Australian Open", "correct": false },
+        { "option": "Wimbledon", "correct": true }
+      ]
+    },
+    {
+      "id": 893,
+      "question": "¿Qué jugador de baloncesto fue apodado 'Air'?",
+      "options": [
+        { "option": "Michael Jordan", "correct": true },
+        { "option": "Kobe Bryant", "correct": false },
+        { "option": "LeBron James", "correct": false },
+        { "option": "Shaquille O'Neal", "correct": false }
+      ]
+    },
+    {
+      "id": 894,
+      "question": "¿Qué nadador ganó 23 medallas de oro olímpicas?",
+      "options": [
+        { "option": "Mark Spitz", "correct": false },
+        { "option": "Michael Phelps", "correct": true },
+        { "option": "Ian Thorpe", "correct": false },
+        { "option": "Ryan Lochte", "correct": false }
+      ]
+    },
+    {
+      "id": 895,
+      "question": "¿Qué equipo de fútbol es conocido como 'Los Diablos Rojos'?",
+      "options": [
+        { "option": "Liverpool", "correct": false },
+        { "option": "Arsenal", "correct": false },
+        { "option": "Manchester United", "correct": true },
+        { "option": "Chelsea", "correct": false }
+      ]
+    },
+    {
+      "id": 896,
+      "question": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
+      "options": [
+        { "option": "1900", "correct": false },
+        { "option": "1888", "correct": false },
+        { "option": "1912", "correct": false },
+        { "option": "1896", "correct": true }
+      ]
+    },
+    {
+      "id": 897,
+      "question": "¿Qué futbolista portugués es conocido como 'CR7'?",
+      "options": [
+        { "option": "Cristiano Ronaldo", "correct": true },
+        { "option": "Eusébio", "correct": false },
+        { "option": "Luis Figo", "correct": false },
+        { "option": "Deco", "correct": false }
+      ]
+    },
+    {
+      "id": 898,
+      "question": "¿Qué selección ganó la Eurocopa de fútbol en 2016?",
+      "options": [
+        { "option": "Francia", "correct": false },
+        { "option": "Portugal", "correct": true },
+        { "option": "España", "correct": false },
+        { "option": "Alemania", "correct": false }
+      ]
+    },
+    {
+      "id": 899,
+      "question": "¿Qué deporte se practica en el Roland Garros?",
+      "options": [
+        { "option": "Bádminton", "correct": false },
+        { "option": "Padel", "correct": false },
+        { "option": "Tenis", "correct": true },
+        { "option": "Squash", "correct": false }
+      ]
+    },
+    {
+      "id": 900,
+      "question": "¿Qué país es conocido por haber creado el judo?",
+      "options": [
+        { "option": "China", "correct": false },
+        { "option": "Corea del Sur", "correct": false },
+        { "option": "Tailandia", "correct": false },
+        { "option": "Japón", "correct": true }
+      ]
     }
   ]
 }
