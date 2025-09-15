@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { useState } from 'react'
 import Home from './Pages/Home'
+import QuickGame from './Pages/QuickGameChallenge'
 import HistoryGame from './Pages/HistoryChallenge'
 import ArtGame from './Pages/ArtChallenge'
 import MathGame from './Pages/MathChallenge'
@@ -9,6 +10,7 @@ import CinemaGame from './Pages/CinemaChallenge'
 import MusicGame from './Pages/MusicChallenge'
 import ScienceGame from './Pages/ScienceChallenge'
 import NutritionGame from "./Pages/NutritionChallenge";
+
 
 function App() {
 
@@ -19,6 +21,7 @@ function App() {
         <BrowserRouter>
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/QuickGame" element={<QuickGame />} />
             <Route path="/historia" element={<HistoryGame />} />
             <Route path="/arte" element={<ArtGame />} />
             <Route path="/matematicas" element={<MathGame />} />

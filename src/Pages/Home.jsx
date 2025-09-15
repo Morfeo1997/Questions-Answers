@@ -1,9 +1,20 @@
 import React from 'react';
-import { BookOpen, Palette, Calculator, Trophy, Clapperboard, Music, Atom, Carrot } from 'lucide-react';
+import { BookOpen, Palette, Calculator, Trophy, Clapperboard, Music, Atom, Carrot, Gamepad } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 
 const Home = () => {
   const navigate = useNavigate();
+  
+  const quickGame = [
+    {
+      name: 'Juego Rapido',
+      icon: Gamepad,
+      path: '/QuickGame',
+      color: 'from-cyan-500 to blue-700',
+      hoverColor: 'hover:from-cyan-600 hover:to-blue-800'
+    }
+  ];
+
   const categories = [
     {
       name: 'Historia',
@@ -96,6 +107,59 @@ const Home = () => {
             <p className="hidden md:block text-lg text-gray-300 min-w-screen   ">
               Pon a prueba tus conocimientos en diferentes áreas y demuestra lo que sabes
             </p>
+          </div>
+          
+                    <div className="flex justify-center mb-16">
+            <div className="w-full max-w-md">
+              {quickGame.map((game, index) => {
+                const IconComponent = game.icon;
+                return (
+                  <div
+                    key={game.name}
+                    className={`group relative overflow-hidden rounded-3xl bg-gradient-to-br ${game.color} ${game.hoverColor} p-8 shadow-2xl transform transition-all duration-500 hover:scale-110 hover:shadow-4xl cursor-pointer border-2 border-white/20 hover:border-white/40`}
+                    onClick={() => navigate(game.path)}
+                  >
+                    {/* Efecto de brillo especial para juego rápido */}
+                    <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/10 to-transparent transform -skew-x-12 -translate-x-full group-hover:translate-x-full transition-transform duration-1000"></div>
+                    
+                    <div className="absolute inset-0 bg-black/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                    
+                    <div className="relative z-10 flex flex-col items-center justify-center h-56 text-center">
+                      {/* Icono más grande y con efecto especial */}
+                      <div className="mb-6 p-6 bg-white/20 rounded-full backdrop-blur-sm group-hover:bg-white/30 transition-all duration-300 group-hover:rotate-12 group-hover:scale-110">
+                        <IconComponent size={64} className="text-white" />
+                      </div>
+                      
+                      <h2 className="text-4xl font-bold text-white mb-3 group-hover:scale-110 transition-transform duration-300">
+                        {game.name}
+                      </h2>
+                      
+                      <div className="w-8 h-1 bg-white/40 rounded-full group-hover:w-32 group-hover:bg-white/80 transition-all duration-500 mb-4"></div>
+                      
+                      <p className="text-white/90 text-lg mb-2 opacity-90 group-hover:opacity-100 transition-opacity duration-300">
+                        ¡Preguntas aleatorias de todas las categorías!
+                      </p>
+                      
+                      <p className="text-white/80 opacity-0 group-hover:opacity-100 transition-opacity duration-300 transform translate-y-2 group-hover:translate-y-0 text-sm">
+                        ¡Haz clic para comenzar la aventura!
+                      </p>
+                    </div>
+                    
+                    {/* Elementos decorativos especiales */}
+                    <div className="absolute top-6 right-6 w-12 h-12 bg-white/20 rounded-full opacity-60 group-hover:opacity-100 transition-all duration-300 group-hover:animate-pulse"></div>
+                    <div className="absolute bottom-6 left-6 w-6 h-6 bg-white/20 rounded-full opacity-40 group-hover:opacity-80 transition-opacity duration-300"></div>
+                    <div className="absolute top-1/2 left-4 w-4 h-4 bg-white/15 rounded-full opacity-30 group-hover:opacity-60 transition-opacity duration-300"></div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+
+          {/* Separador visual */}
+          <div className="flex items-center justify-center mb-12">
+            <div className="flex-1 h-px bg-gradient-to-r from-transparent via-white/30 to-transparent"></div>
+            <div className="mx-4 text-white/60 text-sm font-medium">O elige una categoría específica</div>
+            <div className="flex-1 h-px bg-gradient-to-r from-transparent via-white/30 to-transparent"></div>
           </div>
 
           {/* Categories Grid */}
