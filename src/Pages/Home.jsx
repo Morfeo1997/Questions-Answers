@@ -109,14 +109,14 @@ const Home = () => {
             </p>
           </div>
           
-                    <div className="flex justify-center mb-16">
+          <div className="flex w-full justify-center items-center p-2 mb-16">
             <div className="w-full max-w-md">
               {quickGame.map((game, index) => {
                 const IconComponent = game.icon;
                 return (
                   <div
                     key={game.name}
-                    className={`group relative overflow-hidden rounded-3xl bg-gradient-to-br ${game.color} ${game.hoverColor} p-8 shadow-2xl transform transition-all duration-500 hover:scale-110 hover:shadow-4xl cursor-pointer border-2 border-white/20 hover:border-white/40`}
+                    className={`group relative overflow-hidden w-80  sm:w-auto rounded-2xl bg-gradient-to-br ${game.color} ${game.hoverColor} p-8  transform transition-all duration-500 hover:scale-105 hover:shadow-4xl cursor-pointer border-1 border-white/20 hover:border-white/40`}
                     onClick={() => navigate(game.path)}
                   >
                     {/* Efecto de brillo especial para juego rápido */}
