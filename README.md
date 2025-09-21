@@ -17,7 +17,36 @@
 
 ## 📸 Screenshots
 
-*(Próximamente se agregarán imágenes y GIFs de la aplicación en acción)*
+- Mobile
+<div classname="flex w-full gap-4">
+ <picture>
+   <p>Home</p>
+   <img src="./src/screenshots/home-mobile-1.jpg">
+   <img src="./src/screenshots/home-mobile-2.jpg">
+ </picture>
+</div>
+<div classname="flex w-full gap-4">
+ <picture>
+   <p>Seccion de Juego</p>
+   <img src="./src/screenshots/game-mobile.jpg">
+ </picture>
+</div>
+
+- Desktop
+<div classname="flex w-full gap-4">
+ <picture>
+   <p>Home</p>
+   <img src="./src/screenshots/home-desktop-1.jpg">
+   <img src="./src/screenshots/home-desktop-2.jpg">
+ </picture>
+</div>
+
+<div classname="flex w-full gap-4">
+ <picture>
+   <p>Seccion de juego</p>
+   <img src="./src/screenshots/game-desktop.jpg">
+ </picture>
+</div>
 
 
 ## ✨ Características
